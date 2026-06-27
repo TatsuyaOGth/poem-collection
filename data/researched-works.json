@@ -106,5 +106,59 @@
     "status": "added",
     "source_url": "https://poemanalysis.com/gerard-manley-hopkins/the-starlight-night/",
     "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Flower in the Crannied Wall",
+    "author": "Alfred Tennyson",
+    "normalized_key": "flower in the crannied wall|alfred tennyson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/alfred-lord-tennyson/poem/flower-in-the-crannied-wall",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "The Wild Honey Suckle",
+    "author": "Philip Freneau",
+    "normalized_key": "the wild honey suckle|philip freneau",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://pressbooks.pub/amlit1to1865/chapter/the-wild-honey-suckle-1786-philip-freneau/",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Tall Nettles",
+    "author": "Edward Thomas",
+    "normalized_key": "tall nettles|edward thomas",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poetryarchive.org/poem/tall-nettles/",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "To the Evening Star",
+    "author": "William Blake",
+    "normalized_key": "to the evening star|william blake",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poetical_sketches_by_William_Blake_now_first_reprinted_from_the_original_edition_of_1783/To_the_Evening_Star",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Evening Star",
+    "author": "Edgar Allan Poe",
+    "normalized_key": "evening star|edgar allan poe",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.eapoe.org/works/poems/estara.htm",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "To the Moon",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "to the moon|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/moon-fragment-0",
+    "checked_date": "2026-06-28"
   }
 ]
