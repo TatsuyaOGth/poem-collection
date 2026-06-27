@@ -1,0 +1,56 @@
+[
+  {
+    "title": "To Daffodils",
+    "author": "Robert Herrick",
+    "normalized_key": "to daffodils|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/47335/to-daffodils",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "The Rhodora",
+    "author": "Ralph Waldo Emerson",
+    "normalized_key": "the rhodora|ralph waldo emerson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/rhodora",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Ah! Sun-flower",
+    "author": "William Blake",
+    "normalized_key": "ah sunflower|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/43649/ah-sun-flower",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "When I Heard the Learn'd Astronomer",
+    "author": "Walt Whitman",
+    "normalized_key": "when i heard the learnd astronomer|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/when-i-heard-learnd-astronomer",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Bright Star",
+    "author": "John Keats",
+    "normalized_key": "bright star|john keats",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/john-keats/poem/bright-star",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Escape at Bedtime",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "escape at bedtime|robert louis stevenson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.scottishpoetrylibrary.org.uk/poetry/poems/escape-bedtime",
+    "checked_date": "2026-06-27"
+  }
+]
