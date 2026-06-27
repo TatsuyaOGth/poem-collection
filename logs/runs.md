@@ -26,3 +26,14 @@
   - 原文は americanliterature.com・poets.org・Wikisource・各詩解説サイトなど複数の出典から取得し、全文を照合した。
   - Poetry Foundation などは一時的に 503/403 を返したが、これはサーバ側の一時的応答であり「今後有用でないページ」ではないため ignored-pages.json には登録していない。
   - 今回は条件を満たさず除外した候補はなかった。
+
+## 2026-06-28
+- Added plant poems: 3
+- Added astronomy poems: 3
+- Skipped works: 0
+- Ignored pages added: 0
+- Notes:
+  - 3回目の実行。詳細は `logs/run_2026-06-28.md` を参照。
+  - 植物テーマ: "Flower in the Crannied Wall"（Alfred Tennyson, 1809–1892）、"The Wild Honey Suckle"（Philip Freneau, 1752–1832）、"Tall Nettles"（Edward Thomas, 1878–1917）。
+  - 天文テーマ: "To the Evening Star"（William Blake, 1757–1827）、"Evening Star"（Edgar Allan Poe, 1809–1849）、"To the Moon"（Percy Bysshe Shelley, 1792–1822）。
+  - いずれも作者の死後70年以上が経過しており、パブリックドメインであることを死亡年から確認した。今回は除外候補・無視ページともに無し。
