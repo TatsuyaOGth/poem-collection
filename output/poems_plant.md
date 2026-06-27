@@ -144,3 +144,184 @@ Where my Sun-flower wishes to go.
 
 ### 解説
 ロマン派の詩人・版画家ウィリアム・ブレイクの『経験の歌』に収められた、わずか八行の象徴詩。植物テーマとしては、太陽を追って首を巡らせる向日葵（ヒマワリ）の性質を中心イメージに据えている。時間に縛られ太陽の歩みを数えつづける向日葵は、現世の束縛に疲れ、永遠の「黄金の国」を憧れる魂の象徴として描かれる。欲望に焦がれて死んだ若者と、貞節を守って凍えた乙女という対照的な二人が、向日葵と同じく満たされぬ憧れを抱いて墓から立ち上がるイメージが印象的。地上に根を張りながら天を仰ぐ花の姿に、抑圧された生と来世への希求を重ねる読み解きが見どころとなる。
+
+---
+
+## I Wandered Lonely as a Cloud / 私は雲のようにひとりさまよった
+- Theme: Plant
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間（死後70年）はすでに満了している。1807年初出・1815年改訂の作品で世界的にパブリックドメイン。
+- Source URL: https://americanliterature.com/author/william-wordsworth/poem/i-wandered-lonely-as-a-cloud
+- Added Date: 2026-06-27
+
+### 原文
+I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.
+
+Continuous as the stars that shine
+And twinkle on the milky way,
+They stretched in never-ending line
+Along the margin of a bay:
+Ten thousand saw I at a glance,
+Tossing their heads in sprightly dance.
+
+The waves beside them danced; but they
+Out-did the sparkling waves in glee:
+A poet could not but be gay,
+In such a jocund company:
+I gazed—and gazed—but little thought
+What wealth the show to me had brought:
+
+For oft, when on my couch I lie
+In vacant or in pensive mood,
+They flash upon that inward eye
+Which is the bliss of solitude;
+And then my heart with pleasure fills,
+And dances with the daffodils.
+
+### 日本語訳
+私は雲のようにひとりさまよった、
+谷や丘の上を高く漂う雲のように。
+すると突然、目にしたのだ、群れなして咲く
+無数の黄金の水仙を。
+湖のほとり、木々の下で、
+そよ風にひらひらと舞い踊っていた。
+
+天の川に輝き、きらめく
+星々のように果てしなく連なって、
+それらは入江の縁に沿って
+終わりなき列をなして広がっていた。
+ひと目で一万の花を私は見た、
+頭をふりたてて、陽気に踊っているのを。
+
+そばでは波もまた踊っていた、だが水仙は
+きらめく波にもまさる歓びにあふれていた。
+詩人たる者、これほど愉快な仲間に囲まれて、
+陽気にならずにいられようか。
+私はただ見つめ――見つめ――しかしほとんど思いもしなかった、
+この光景が私にどれほどの富をもたらしたかを。
+
+いまも、しばしば寝椅子に横たわって
+うつろな、あるいは物思いに沈んだ気分でいるとき、
+あの水仙は心の眼に閃いてよみがえる――
+それは孤独のもたらす至福。
+そして私の心は喜びに満たされ、
+水仙とともに踊りだすのだ。
+
+### 解説
+イギリス・ロマン派を代表するワーズワースの最も有名な抒情詩で、「Daffodils（水仙）」の通称でも知られる。植物テーマとしては、湖畔に群れ咲く黄金の水仙を中心イメージに据え、その大群が風にそよぎ「踊る」さまを生き生きと描く。第二連で水仙を天の川の星々になぞらえる比喩が壮麗で、無数の花が果てしなく連なるスケール感を生む。詩の核心は最終連にあり、その場では気づかなかった光景が、のちに孤独な時間のなかで「心の眼（inward eye）」に閃いてよみがえり、喜びをもたらすという点にある。自然との一度きりの出会いが記憶を通して内面の財産となるという、ロマン主義的な自然観・記憶観が読みどころ。
+
+---
+
+## Loveliest of Trees, the Cherry Now / いま最も美しい木、桜は
+- Theme: Plant
+- Author: A. E. Housman
+- Author Years: 1859–1936
+- Public Domain Reason: 作者は1936年に死去しており、著作権保護期間（死後70年）は2006年末に満了している。1896年刊『シュロップシャーの若者（A Shropshire Lad）』所収でパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/A_Shropshire_Lad/II
+- Added Date: 2026-06-27
+
+### 原文
+Loveliest of trees, the cherry now
+Is hung with bloom along the bough,
+And stands about the woodland ride
+Wearing white for Eastertide.
+
+Now, of my threescore years and ten,
+Twenty will not come again,
+And take from seventy springs a score,
+It only leaves me fifty more.
+
+And since to look at things in bloom
+Fifty springs are little room,
+About the woodlands I will go
+To see the cherry hung with snow.
+
+### 日本語訳
+いま最も美しい木、桜は
+枝という枝に花をたわわに垂らし、
+森の小道のあたりに立って、
+復活祭のために白い衣をまとっている。
+
+さて、私の七十年（人の世の寿命）のうち、
+二十年はもう二度と返ってこない。
+七十の春から二十を差し引けば、
+残されたのはたった五十の春。
+
+そして花咲くものを眺めるには
+五十の春など、わずかな間にすぎないから、
+私は森を歩きまわろう、
+雪をまとったような桜を見るために。
+
+### 解説
+イギリスの詩人・古典学者A・E・ハウスマンの詩集『シュロップシャーの若者』第二篇。植物テーマとしては、復活祭の頃に満開となる桜（cherry）を中心に据え、白い花を「復活祭のための白い衣」「雪」と二度たとえる対句的なイメージが印象的。語り手は自らの寿命を「七十年」と数え、すでに二十年を費やし、残るは五十の春と冷静に勘定する。だが結論は悲観ではなく、限りある時間だからこそ花を見に出かけようという、はかなさを受けとめたうえでの能動的な讃美に向かう。「ものを今のうちに味わえ」というカルペ・ディエムの主題を、簡潔で算術的な口調と桜の清冽なイメージで歌い上げる手際が読みどころ。
+
+---
+
+## To the Fringed Gentian / 房咲きリンドウに寄せて
+- Theme: Plant
+- Author: William Cullen Bryant
+- Author Years: 1794–1878
+- Public Domain Reason: 作者は1878年に死去しており、著作権保護期間（死後70年）はすでに満了している。1832年発表の作品で米国でもパブリックドメイン。
+- Source URL: https://americanliterature.com/author/william-cullen-bryant/poem/to-the-fringed-gentian
+- Added Date: 2026-06-27
+
+### 原文
+Thou blossom bright with autumn dew,
+And colored with the heaven's own blue,
+That openest when the quiet light
+Succeeds the keen and frosty night.
+
+Thou comest not when violets lean
+O'er wandering brooks and springs unseen,
+Or columbines, in purple dressed,
+Nod o'er the ground-bird's hidden nest.
+
+Thou waitest late and com'st alone,
+When woods are bare and birds are flown,
+And frosts and shortening days portend
+The aged year is near his end.
+
+Then doth thy sweet and quiet eye
+Look through its fringes to the sky,
+Blue—blue—as if that sky let fall
+A flower from its cerulean wall.
+
+I would that thus, when I shall see
+The hour of death draw near to me,
+Hope, blossoming within my heart,
+May look to heaven as I depart.
+
+### 日本語訳
+秋の露に明るく輝く花よ、
+天そのものの青に染められ、
+鋭く凍てつく夜のあとに
+静かな光が訪れるとき、お前は開く。
+
+お前はやって来ない、菫が
+さまよう小川や人知れぬ泉のうえに身をかがめ、
+紫の衣をまとったオダマキが
+地に巣くう鳥の隠れた巣のうえでうなずく頃には。
+
+お前は遅くまで待ち、ただひとり咲く、
+森が裸となり、鳥たちが去り、
+霜と日ごとに短くなる昼が、
+老いた一年の終わりの近いことを告げる頃に。
+
+そのときお前の優しく静かな眼は、
+房状の縁ごしに空を見上げる、
+青く――青く――まるであの空が
+瑠璃色の壁から一輪の花を落としたかのように。
+
+願わくは私もまた、こうして
+死の時が近づくのを見るとき、
+心のうちに咲きほこる希望が、
+旅立つ私とともに天を仰いでいてほしい。
+
+### 解説
+「アメリカ詩の父」とも呼ばれるウィリアム・カレン・ブライアントが、晩秋に咲く房咲きリンドウ（フリンジド・ゲンチアン）を歌った詩。植物テーマとしては、菫やオダマキが咲く春の賑わいには加わらず、森が裸になり鳥も去った一年の終わり近くに、ただひとり遅れて咲くこの花の生態が中心となる。空と同じ青をたたえ、花弁の房ごしに天を見上げるその姿を「空が瑠璃色の壁から落とした一輪の花」と捉える比喩が美しい。最終連で詩人は、孤独に遅咲きするこの花のように、自らの死に臨んでも心に「希望」を咲かせて天を仰いでいたいと願う。自然観察から静かな信仰的・倫理的瞑想へと昇華してゆく構成が読みどころ。
