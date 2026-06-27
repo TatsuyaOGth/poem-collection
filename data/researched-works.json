@@ -160,5 +160,59 @@
     "status": "added",
     "source_url": "https://poets.org/poem/moon-fragment-0",
     "checked_date": "2026-06-28"
+  },
+  {
+    "title": "To a Mountain Daisy",
+    "author": "Robert Burns",
+    "normalized_key": "to a mountain daisy|robert burns",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/43817/to-a-mountain-daisy",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Trees",
+    "author": "Joyce Kilmer",
+    "normalized_key": "trees|joyce kilmer",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Trees_(Kilmer)",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Consider the Lilies of the Field",
+    "author": "Christina Rossetti",
+    "normalized_key": "consider the lilies of the field|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/Consider-The-Lilies-Of-The-Field",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "The Old Astronomer (to his Pupil)",
+    "author": "Sarah Williams",
+    "normalized_key": "the old astronomer to his pupil|sarah williams",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Twilight_Hours_(1868)/The_Old_Astronomer",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Winter Heavens",
+    "author": "George Meredith",
+    "normalized_key": "winter heavens|george meredith",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/winter-heavens",
+    "checked_date": "2026-06-28"
+  },
+  {
+    "title": "Astronomy",
+    "author": "A. E. Housman",
+    "normalized_key": "astronomy|a e housman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/a-e-housman/poem/astronomy",
+    "checked_date": "2026-06-28"
   }
 ]
