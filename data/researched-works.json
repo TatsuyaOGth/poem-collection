@@ -52,5 +52,59 @@
     "status": "added",
     "source_url": "https://www.scottishpoetrylibrary.org.uk/poetry/poems/escape-bedtime",
     "checked_date": "2026-06-27"
+  },
+  {
+    "title": "I Wandered Lonely as a Cloud",
+    "author": "William Wordsworth",
+    "normalized_key": "i wandered lonely as a cloud|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-wordsworth/poem/i-wandered-lonely-as-a-cloud",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Loveliest of Trees, the Cherry Now",
+    "author": "A. E. Housman",
+    "normalized_key": "loveliest of trees the cherry now|a e housman",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Shropshire_Lad/II",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "To the Fringed Gentian",
+    "author": "William Cullen Bryant",
+    "normalized_key": "to the fringed gentian|william cullen bryant",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-cullen-bryant/poem/to-the-fringed-gentian",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "Stars",
+    "author": "Sara Teasdale",
+    "normalized_key": "stars|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/sara-teasdale/poem/stars",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "The Star",
+    "author": "Jane Taylor",
+    "normalized_key": "the star|jane taylor",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/star",
+    "checked_date": "2026-06-27"
+  },
+  {
+    "title": "The Starlight Night",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "the starlight night|gerard manley hopkins",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poemanalysis.com/gerard-manley-hopkins/the-starlight-night/",
+    "checked_date": "2026-06-27"
   }
 ]
