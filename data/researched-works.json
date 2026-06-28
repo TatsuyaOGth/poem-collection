@@ -214,5 +214,59 @@
     "status": "added",
     "source_url": "https://americanliterature.com/author/a-e-housman/poem/astronomy",
     "checked_date": "2026-06-28"
+  },
+  {
+    "title": "To the Dandelion",
+    "author": "James Russell Lowell",
+    "normalized_key": "to the dandelion|james russell lowell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/dandelion-0",
+    "checked_date": "2026-06-29"
+  },
+  {
+    "title": "To Violets",
+    "author": "Robert Herrick",
+    "normalized_key": "to violets|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.luminarium.org/sevenlit/herrick/toviolets.htm",
+    "checked_date": "2026-06-29"
+  },
+  {
+    "title": "The Primrose",
+    "author": "John Clare",
+    "normalized_key": "the primrose|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryexplorer.net/poem26.php?pid=10048378",
+    "checked_date": "2026-06-29"
+  },
+  {
+    "title": "Astrophil and Stella 31: With how sad steps, O Moon",
+    "author": "Sir Philip Sidney",
+    "normalized_key": "astrophil and stella 31 with how sad steps o moon|sir philip sidney",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/45158/astrophil-and-stella-31-with-how-sad-steps-o-moon-thou-climbst-the-skies",
+    "checked_date": "2026-06-29"
+  },
+  {
+    "title": "To the Moon",
+    "author": "Charlotte Smith",
+    "normalized_key": "to the moon|charlotte smith",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.eighteenthcenturypoetry.org/works/n22cs-w0040.shtml",
+    "checked_date": "2026-06-29"
+  },
+  {
+    "title": "The Moon",
+    "author": "William Henry Davies",
+    "normalized_key": "the moon|william henry davies",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Collected_Poems_of_William_H._Davies/The_Moon",
+    "checked_date": "2026-06-29"
   }
 ]
