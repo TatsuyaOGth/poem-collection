@@ -731,3 +731,365 @@ Nor a thorn nor a threat stain her beauty bright.
 植物テーマとの関係は中心的で、棘をもつバラ、角をもつ羊と対比される「白い百合」という花が、詩のすべての中心に据えられています。
 わずか四行のうちに、自己防衛の象徴（棘・角）と無防備な愛の象徴（百合）を鮮やかに対置するイメージが印象的です。
 『経験の歌』に置かれながらも汚れなき愛の可能性を肯定するこの短詩は、同詩集の「病めるバラ」などと響き合い、ブレイクの花の象徴詩の精髄を示す読みどころとなっています。
+
+---
+
+## The Holly-Tree / ヒイラギの木
+- Theme: Plant
+- Author: Robert Southey
+- Author Years: 1774–1843
+- Public Domain Reason: 作者は1843年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://allpoetry.com/The-Holly-Tree
+- Added Date: 2026-06-30
+
+### 原文
+O reader! hast thou ever stood to see
+The Holly-tree?
+The eye that contemplates it well perceives
+Its glossy leaves
+Ordered by an Intelligence so wise
+As might confound the Atheist's sophistries.
+
+Below, a circling fence, its leaves are seen,
+Wrinkled and keen;
+No grazing cattle, through their prickly round,
+Can reach to wound;
+But, as they grow where nothing is to fear,
+Smooth and unarmed the pointless leaves appear.
+
+I love to view these things with curious eyes,
+And moralize;
+And in this wisdom of the Holly-tree
+Can emblem see
+Wherewith, perchance, to make a pleasant rhyme, -
+One which may profit in the after-time.
+
+Thus, though abroad, perchance, I might appear
+Harsh and austere;
+To those who on my leisure would intrude,
+Reserved and rude;
+Gentle at home amid my friends I'd be,
+Like the high leaves upon the Holly-tree.
+
+And should my youth - as youth is apt, I know, -
+Some harshness show,
+All vain asperities I, day by day,
+Would wear away,
+Till the smooth temper of my age should be
+Like the high leaves upon the Holly-tree.
+
+And as, when all the summer trees are seen
+So bright and green,
+The Holly-leaves their fadeless hues display
+Less bright than they;
+But when the bare and wintry woods we see,
+What then so cheerful as the Holly-tree? -
+
+So, serious should my youth appear among
+The thoughtless throng;
+So would I seem, amid the young and gay,
+More grave than they;
+That in my age as cheerful I might be
+As the green winter of the Holly-tree.
+
+### 日本語訳
+読者よ、君はかつて立ち止まって眺めたことがあるか、
+あのヒイラギの木を。
+よく見つめる目は気づくだろう、
+その艶やかな葉が
+きわめて賢い知性によって整えられ、
+無神論者の詭弁さえ打ち砕くほどであることに。
+
+下のほうでは、囲いの垣のように葉が並び、
+縮れて鋭い。
+草を食む牛も、その棘の輪をくぐって
+傷つけることはできない。
+だが、恐れるもののない高みに育つ葉は、
+滑らかで武装を解き、棘のない姿を見せる。
+
+私はこうした事物を好奇の目で眺め、
+教訓を引き出すのが好きだ。
+このヒイラギの知恵のうちに
+一つの象徴を見いだし、
+それでもって、おそらくは心地よい韻を編もう、
+のちの世に益となるような一篇を。
+
+こうして、外では、おそらく私は
+とげとげしく厳めしく見え、
+私の閑暇に立ち入ろうとする者には
+よそよそしく無礼に映るかもしれぬ。
+だが家にあって友らの中では穏やかでありたい、
+ヒイラギの高みの葉のように。
+
+もし私の若さが――若さとはそうしがちだと知っているが――
+いくらかの荒さを見せるなら、
+むなしい刺々しさをことごとく、日ごとに
+私は擦り減らしてゆこう、
+やがて老いの円熟した気性が
+ヒイラギの高みの葉のようになるまで。
+
+そして、夏の木々がみな
+かくも明るく緑に輝くとき、
+ヒイラギの葉は色あせぬその色合いを見せ、
+それらほど鮮やかではない。
+だが、葉を落とした冬枯れの森を見るとき、
+そのときヒイラギの木ほど快いものがあろうか。
+
+そのように、私の若さは、思慮なき群れの中では
+真面目に見えるがよい。
+そのように、若く陽気な者らの中で
+私は彼らより重々しく見えよう。
+それは、老いてなお私が快活でいられるためだ、
+ヒイラギの緑の冬のように。
+
+### 解説
+主題は、ヒイラギの木を観察し、その葉が低い所では棘をもち鋭いが、高い所では滑らかで棘がないことに着目して、それを人間の心の成熟の象徴に読みかえる教訓詩です。
+植物テーマとの関係は中心的で、ヒイラギという常緑樹の生態（棘・常緑・冬の輝き）が一篇の比喩構造そのものになっています。
+低い葉の棘を「対外的な厳しさ」に、高い葉の滑らかさを「家庭での柔和」に、冬枯れの森で一人輝く常緑を「老いてなお快活であること」に重ねるイメージの連鎖が印象的です。
+自然観察から自己修養の教訓へと展開する18世紀的モラリスト詩の典型で、短い行と長い行を交互に置く独特の詩形のリズムが読みどころです。
+
+---
+
+## To the Daisy / ヒナギクに寄せて
+- Theme: Plant
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poemhunter.com/poem/to-the-daisy/
+- Added Date: 2026-06-30
+
+### 原文
+In youth from rock to rock I went
+From hill to hill in discontent
+Of pleasure high and turbulent,
+Most pleased when most uneasy;
+But now my own delights I make,—
+Thirst at every rill can slake,
+And gladly Nature's love partake,
+Of Thee, sweet Daisy!
+
+Thee Winter in the garland wears
+That thinly decks his few gray hairs;
+Spring parts the clouds with softest airs,
+That she may sun thee;
+Whole Summer-fields are thine by right;
+And Autumn, melancholy Wight!
+Doth in thy crimson head delight
+When rains are on thee.
+
+In shoals and bands, a morrice train,
+Thou greet'st the traveller in the lane;
+Pleased at his greeting thee again;
+Yet nothing daunted,
+Nor grieved if thou be set at nought:
+And oft alone in nooks remote
+We meet thee, like a pleasant thought,
+When such are wanted.
+
+Be violets in their secret mews
+The flowers the wanton Zephyrs choose;
+Proud be the rose, with rains and dew
+Her head impearling,
+Thou liv'st with less ambitious aim,
+Yet hast not gone without thy fame;
+Thou art indeed by many a claim
+The Poet's darling.
+
+If to a rock from rain he fly,
+Or, some bright day of April sky,
+Imprisoned by hot sunshine lie
+Near the green holly,
+And wearily at length should fare;
+He need but look about, and there
+Thou art!—a friend at hand, to care
+His melancholy.
+
+A hundred times, by rock or bower,
+Ere thus I have lain couched an hour,
+Have I derived from thy sweet power
+Some apprehension
+Some steady love; some brief delight;
+Some memory that had taken flight;
+Some chime of fancy wrong or right;
+Of stray invention.
+
+If stately passions in me burn,
+And one chance look to Thee should turn,
+I drink out of an humbler urn
+A lowlier pleasure;
+The homely sympathy that heeds
+The common life, our nature breeds;
+A wisdom fitted to the needs
+Of hearts at leisure.
+
+Fresh-smitten by the morning ray,
+When thou art up, alert and gay,
+Then, cheerful Flower! my spirits play
+With kindred gladness:
+And when, at dusk, by dews opprest
+Thou sink'st, the image of thy rest
+Hath often eased my pensive breast
+Of careful sadness.
+
+And all day long I number yet,
+All seasons through, another debt,
+Which I, wherever thou art met,
+To thee am owing;
+An instinct call it, a blind sense;
+A happy, genial influence,
+Coming one knows not how, nor whence,
+Nor whither going.
+
+Child of the Year! that round dost run
+Thy pleasant course,—when day's begun
+As ready to salute the sun
+As lark or leveret,
+Thy long-lost praise thou shalt regain;
+Nor be less dear to future men
+Than in old time;—thou not in vain
+Art Nature's favourite.
+
+### 日本語訳
+若き日、私は岩から岩へとさまよい、
+丘から丘へと、心満たされぬまま歩いた、
+高ぶり荒れる快楽を求め、
+最も不安なときこそ最も悦んでいた。
+だが今は、自らの喜びを自ら作り出し、
+どの小川でも渇きを癒すことができ、
+喜んで自然の愛にあずかる、
+おまえに、やさしいヒナギクよ！
+
+冬は、その乏しい白髪をうすく飾る花輪に
+おまえを編みこむ。
+春はやわらかな風で雲を分け、
+おまえに陽を当てようとする。
+夏の野はすべて当然おまえのもの。
+そして秋、あの憂いに沈む者は、
+雨がおまえに降りかかるとき
+おまえの紅の頭を喜ぶ。
+
+群れをなし、隊をなして、モリスダンスの一団のように
+おまえは小道の旅人を迎える。
+旅人がまた挨拶を返すのを喜びながら。
+それでいて少しもひるまず、
+無視されても嘆かない。
+そしてしばしば人里離れた片隅でひとり、
+私たちはおまえに出会う、心地よい思いのように、
+そうしたものが欲しいときに。
+
+スミレは秘めた小屋のうちで
+気まぐれな西風の選ぶ花であればよい。
+バラは、雨と露でその頭を真珠に飾り、
+誇り高くあればよい。
+おまえは、より野心の少ない目当てで生きるが、
+それでも名声なしに過ぎてはこなかった。
+おまえはまことに、いくつもの理由から
+詩人の愛児なのだ。
+
+雨を避けて岩へ逃れるときも、
+あるいは四月の明るい空のある日、
+暑い日ざしに閉じこめられて
+緑のヒイラギのそばに横たわり、
+ついに疲れ果てて歩むときも、
+彼はただ見回せばよい、するとそこに
+おまえがいる！――傍らにある友として、
+その憂いを気づかってくれる。
+
+幾度となく、岩のそばや木陰で、
+こうして一時間も身を横たえるうちに、
+私はおまえの甘い力から引き出してきた、
+何かの気づきを、
+ゆるぎない愛を、つかのまの喜びを、
+飛び去っていた何かの記憶を、
+正しかれ誤れ、空想の何かの響きを、
+さまよう着想の。
+
+もし荘厳な情熱が私のうちに燃え、
+ふとした一瞥がおまえへ向くなら、
+私はより慎ましい壺から
+より低い喜びを飲む。
+ありふれた暮らしに心を寄せる
+素朴な共感、それは私たちの本性が育むもの。
+閑かな心の求めに
+ふさわしい知恵を。
+
+朝の光に新たに打たれ、
+おまえが目覚め、きびきびと陽気であるとき、
+そのとき、快活な花よ！私の心も
+同じ喜びに戯れる。
+そして夕暮れ、露に重く押されて
+おまえが沈むとき、その憩いの姿は
+しばしば私の物思う胸から
+気づかわしい悲しみを和らげてくれた。
+
+そして一日じゅう、私はなお数えあげる、
+どの季節を通しても、もう一つの負債を、
+おまえに出会う場所のどこででも、
+私がおまえに負っているものを。
+それを本能と呼べ、盲目の感覚と呼べ、
+幸福で快いある感化、
+いかにして、どこから来るとも知れず、
+どこへ去るとも知れぬものを。
+
+年の子よ！おまえはめぐりめぐって
+その楽しい行路を走る――日が始まれば
+ヒバリや子ウサギにも劣らず
+いそいそと太陽に挨拶する。
+久しく失われたおまえの讃辞を、おまえは取り戻すだろう。
+未来の人々にとっても、昔と変わらず
+愛しいものであるだろう――おまえはむなしくも
+自然の寵児であるのではない。
+
+### 解説
+主題は、ありふれた野の花ヒナギク（デイジー）への讃歌で、若き日の不安定な快楽追求から、素朴な自然の友としての花への愛へと至る詩人の心の成熟を歌います。
+植物テーマとの関係は中心的で、四季を通じて咲き、どこにでも見られるデイジーの姿が全篇の主役となっています。
+冬の白髪を飾る花輪、モリスダンスの群舞のように小道に並ぶ花、夕の露に「沈む」花といったイメージが印象的です。
+華麗なバラやスミレと対比される「慎ましい花」への共感を通して、平凡な日常に宿る幸福を称えるワーズワスのロマン派的自然観が読みどころで、8行スタンザの軽やかなリズムが全篇を運びます。
+
+---
+
+## The Tree / 樹
+- Theme: Plant
+- Author: Jones Very
+- Author Years: 1813–1880
+- Public Domain Reason: 作者は1880年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poemhunter.com/poem/the-tree-54/
+- Added Date: 2026-06-30
+
+### 原文
+I love thee when thy swelling buds appear
+And one by one their tender leaves unfold,
+As if they knew that warmer suns were near,
+Nor longer sought to hide from winter's cold;
+And when with darker growth thy leaves are seen
+To veil from view the early robin's nest,
+I love to lie beneath thy waving skreen
+With limbs by summer's heat and toil opprest;
+And when the autumn winds have stript thee bare,
+And round thee lies the smooth untrodden snow,
+When nought is thine that made thee once so fair,
+I love to watch thy shadowy form below,
+And through thy leafless arms to look above
+On stars that brighter beam when most we need their love.
+
+### 日本語訳
+私はおまえを愛する、ふくらむ芽がほころび、
+一枚また一枚と柔らかな葉が開くときに、
+まるで暖かな陽の近づくのを知っているかのように、
+もはや冬の寒さから身を隠そうとはせぬときに。
+そして葉がいっそう濃く茂って
+早咲きのコマドリの巣を目から覆い隠すとき、
+私はおまえの揺れる緑の帳の下に横たわるのを愛する、
+夏の暑さと労働に手足を重くされながら。
+そして秋風がおまえを裸に剝ぎ、
+おまえのまわりに滑らかな踏まれぬ雪が積もり、
+かつておまえを美しくしたものが何一つ残らぬとき、
+私は下からおまえの影のような姿を見るのを愛する、
+そして葉のない腕ごしに天を仰ぐのを、
+私たちが最もその愛を必要とするときにこそ明るく輝く星々を。
+
+### 解説
+主題は、一本の木を四季を通じて見守り、芽吹き・繁茂・落葉・冬枯れのどの相をも等しく愛するという、自然との静かな一体感を歌う超絶主義（トランセンデンタリズム）のソネットです。
+植物テーマとの関係は中心的で、「樹木」そのものが詩の対象であり、季節ごとに移ろうその姿が構成の軸となっています。
+葉に隠れるコマドリの巣、夏に揺れる「緑の帳」、そして葉を落とした冬の「葉のない腕（leafless arms）」ごしに仰ぐ星々といったイメージが印象的です。
+最終2行で、最も荒涼とした冬の裸木がかえって天の星々への眼差しを開く――植物への愛がそのまま天界への祈りへと昇華していく転回が読みどころです。
