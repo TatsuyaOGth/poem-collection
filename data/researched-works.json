@@ -322,5 +322,79 @@
     "status": "added",
     "source_url": "https://www.poetryfoundation.org/poems/45114/the-waning-moon",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Woodman, Spare That Tree!",
+    "author": "George Pope Morris",
+    "normalized_key": "woodman spare that tree|george pope morris",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_That_Every_Child_Should_Know/Woodman,_Spare_That_Tree!",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Yellow Violet",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the yellow violet|william cullen bryant",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Grass",
+    "author": "Emily Dickinson",
+    "normalized_key": "the grass|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/12242",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Stars",
+    "author": "Emily Brontë",
+    "normalized_key": "stars|emily bronte",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell/Stars",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Night and Death",
+    "author": "Joseph Blanco White",
+    "normalized_key": "night and death|joseph blanco white",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Night_and_Death",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "On the Beach at Night",
+    "author": "Walt Whitman",
+    "normalized_key": "on the beach at night|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/1322",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Sick Rose",
+    "author": "William Blake",
+    "normalized_key": "the sick rose|william blake",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "原文・出典を確認し採用候補としたが、並行実行の別作業（PR #5）が同日に同作を先行追加していたため重複として不採用。代わりに Emily Dickinson \"The Grass\" を採用した。",
+    "source_url": "https://www.gutenberg.org/ebooks/1934",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Hymn to the North Star",
+    "author": "William Cullen Bryant",
+    "normalized_key": "hymn to the north star|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "原文・出典を確認し採用候補としたが、並行実行の別作業（PR #5）が同日に同作を先行追加していたため重複として不採用。代わりに Walt Whitman \"On the Beach at Night\" を採用した。",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-06-30"
   }
 ]
