@@ -558,5 +558,59 @@
     "status": "added",
     "source_url": "https://hellopoetry.com/poem/1463/waiting-both/",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "To an Early Primrose",
+    "author": "Henry Kirke White",
+    "normalized_key": "to an early primrose|henry kirke white",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/to-an-early-primrose/",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Daisy Follows Soft the Sun",
+    "author": "Emily Dickinson",
+    "normalized_key": "the daisy follows soft the sun|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetry-archive.com/d/the_daisy_follows_soft_the_sun/",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "On a Faded Violet",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "on a faded violet|percy bysshe shelley",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/cache/epub/4798/pg4798.txt",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Daisies",
+    "author": "Frank Dempster Sherman",
+    "normalized_key": "daisies|frank dempster sherman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://discoverpoetry.com/poems/frank-dempster-sherman/daisies/",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Light of Stars",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "the light of stars|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/cache/epub/1365/pg1365.txt",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "At a Lunar Eclipse",
+    "author": "Thomas Hardy",
+    "normalized_key": "at a lunar eclipse|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/3168/3168-h/3168-h.htm",
+    "checked_date": "2026-06-30"
   }
 ]
