@@ -268,5 +268,59 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/The_Collected_Poems_of_William_H._Davies/The_Moon",
     "checked_date": "2026-06-29"
+  },
+  {
+    "title": "Go, Lovely Rose",
+    "author": "Edmund Waller",
+    "normalized_key": "go lovely rose|edmund waller",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/45438/song-go-lovely-rose",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "To Blossoms",
+    "author": "Robert Herrick",
+    "normalized_key": "to blossoms|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/To_Blossoms",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Sick Rose",
+    "author": "William Blake",
+    "normalized_key": "the sick rose|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/43682/the-sick-rose",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Falling Star",
+    "author": "Sara Teasdale",
+    "normalized_key": "the falling star|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/falling-star",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Hymn to the North Star",
+    "author": "William Cullen Bryant",
+    "normalized_key": "hymn to the north star|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poetandpoem.com/William-Cullen-Bryant/Hymn-to-the-North-Star",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Waning Moon",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "the waning moon|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/45114/the-waning-moon",
+    "checked_date": "2026-06-30"
   }
 ]
