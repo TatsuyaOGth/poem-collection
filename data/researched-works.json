@@ -396,5 +396,59 @@
     "reason": "原文・出典を確認し採用候補としたが、並行実行の別作業（PR #5）が同日に同作を先行追加していたため重複として不採用。代わりに Walt Whitman \"On the Beach at Night\" を採用した。",
     "source_url": "https://www.gutenberg.org/ebooks/16341",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Oak",
+    "author": "Alfred Tennyson",
+    "normalized_key": "the oak|alfred tennyson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/alfred-lord-tennyson/poem/the-oak",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Binsey Poplars",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "binsey poplars|gerard manley hopkins",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/binsey-poplars",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Violet",
+    "author": "Jane Taylor",
+    "normalized_key": "the violet|jane taylor",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/51917/the-violet",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Moon was but a Chin of Gold",
+    "author": "Emily Dickinson",
+    "normalized_key": "the moon was but a chin of gold|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/the-moon-was-but-a-chin-of-gold",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Galaxy",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "the galaxy|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/henry-wadsworth-longfellow-poems/galaxy",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "To the Evening Star",
+    "author": "Thomas Campbell",
+    "normalized_key": "to the evening star|thomas campbell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/thomas_campbell/to_the_evening_star.html",
+    "checked_date": "2026-06-30"
   }
 ]

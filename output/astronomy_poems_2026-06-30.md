@@ -453,3 +453,187 @@ Or the radiant sisters the Pleiades.
 天文テーマとの関係はきわめて中心的で、王なる星ジュピター（木星）、姉妹星プレアデス、無数の太陽や月といった具体的な天体が、雲に隠されては再び現れる情景として描かれます。
 雲が星を呑むのは「見かけのうえだけ（in apparition）」であり、ジュピターもプレアデスも「不死（immortal）」でふたたび輝き出る、という天文現象を不滅の象徴へと昇華させるイメージが印象的です。
 星の不滅をさらに超える「何か（Something）」を娘にそっと示唆して結ぶ構成が読みどころで、夜空の観察を魂の永遠の暗示へとつなげるホイットマンらしい一篇です。
+
+---
+
+## The Moon was but a Chin of Gold / 月はほんの黄金の頤だった
+- Theme: Astronomy
+- Author: Emily Dickinson
+- Author Years: 1830–1886
+- Public Domain Reason: 作者は1886年に死去しており、著作権保護期間（死後70年）はとうに満了している。本作も1896年（Poems: Third Series）に刊行されており、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poetryverse.com/emily-dickinson-poems/the-moon-was-but-a-chin-of-gold
+- Added Date: 2026-06-30
+
+### 原文
+The Moon was but a Chin of Gold
+A Night or two ago —
+And now she turns
+Her perfect Face
+Upon the World below —
+
+Her Forehead is of Amplest Blonde —
+Her Cheek — a Beryl hewn —
+Her Eye unto the Summer Dew
+The likest I have known —
+
+Her Lips of Amber never part —
+But what must be the smile
+Upon Her Friend she could confer
+Were such Her Silver Will —
+
+And what a privilege to be
+But the remotest Star —
+For Certainty She take Her Way
+Beside Your Palace Door —
+
+Her Bonnet is the Firmament —
+The Universe — Her Shoe —
+The Stars — the Trinkets at Her Belt —
+Her Dimities — of Blue —
+
+### 日本語訳
+月はほんの黄金の頤（おとがい）だった、
+一夜か二夜まえには――
+それがいまは向けている、
+その完き面差しを、
+下界の世にむかって――
+
+その額はこのうえなく豊かな金髪、
+その頬は――彫り出された緑柱石、
+その瞳は、夏の朝露にこそ
+いちばん似ていると、わたしは知っている――
+
+琥珀の唇はけっして開かれない――
+けれど、もし銀の御心のままなら、
+その友に向けて与えうる微笑みは
+どれほどのものだろう――
+
+そして、どれほどの誉れだろう、
+たとえもっとも遠い星であろうとも――
+たしかに彼女は道を行くのだから、
+あなたの宮殿の戸口のかたわらを――
+
+その帽子は大空、
+宇宙は――彼女の靴、
+星々は――その帯につけた飾り、
+彼女の薄絹の衣は――青の色。
+
+### 解説
+主題は、三日月から満月へと姿を変える月を、気高く美しい貴婦人として擬人化した賛美です。
+天文テーマとの関係はきわめて中心的で、「黄金の頤」（三日月）から「完き面差し」（満月）への満ち欠け、そして大空を帽子、宇宙を靴、星々を帯飾りとする壮大な宇宙像が一篇を構成します。
+頬を緑柱石（ベリル）に、瞳を夏の朝露にたとえる宝石のようなイメージや、月を高貴な淑女の装いになぞらえる見立てが印象的です。
+天体を擬人化しつつ、最終連で月の装身具へと一気にスケールを宇宙大へ広げる飛躍が読みどころで、身近な夜空を煌びやかな幻想へと変えるディキンソンの想像力が冴える一篇です。
+
+---
+
+## The Galaxy / 銀河
+- Theme: Astronomy
+- Author: Henry Wadsworth Longfellow
+- Author Years: 1807–1882
+- Public Domain Reason: 作者は1882年に死去しており、著作権保護期間（死後70年）はとうに満了している。本作（1875年刊『The Masque of Pandora and Other Poems』所収）も米国で1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poetryverse.com/henry-wadsworth-longfellow-poems/galaxy
+- Added Date: 2026-06-30
+
+### 原文
+Torrent of light and river of the air,
+Along whose bed the glimmering stars are seen
+Like gold and silver sands in some ravine
+Where mountain streams have left their channels bare!
+
+The Spaniard sees in thee the pathway, where
+His patron saint descended in the sheen
+Of his celestial armor, on serene
+And quiet nights, when all the heavens were fair.
+
+Not this I see, nor yet the ancient fable
+Of Phaeton's wild course, that scorched the skies
+Where'er the hoofs of his hot coursers trod;
+
+But the white drift of worlds o'er chasms of sable,
+The star-dust that is whirled aloft and flies
+From the invisible chariot-wheels of God.
+
+### 日本語訳
+光の奔流、大気の川よ、
+その川床に沿って、またたく星々が見える、
+山あいの渓谷に金や銀の砂が見えるように、
+山の流れがその水路をあらわにした跡のように！
+
+スペイン人はおまえのうちに、あの道筋を見る、
+かの守護聖者が、晴れわたって
+静かな夜々、天がことごとく美しいとき、
+その天上の鎧の輝きのなかを降りてきた道筋を。
+
+わたしが見るのはそれではない、また、
+天を焦がしながら駆けた、あのパエトンの
+荒々しい疾走という古い神話でもない――
+
+見えるのは、漆黒の深淵を渡る、世界の白いただよい、
+高く巻き上げられて飛び散る星屑、
+目には見えぬ神の戦車の車輪から飛び散る星屑だ。
+
+### 解説
+主題は、夜空を横切る天の川（銀河）を仰ぎ、その壮大さに神の働きを見いだす想念です。
+天文テーマとの関係はきわめて中心的で、銀河を「光の奔流」「大気の川」と呼び、星々を川床の金銀の砂にたとえる天文的なイメージが全篇を貫きます。
+スペインの守護聖者伝説やパエトンの神話といった既存の解釈を一度提示しては退け、自分はそこに「神の戦車の車輪から飛び散る星屑」を見るのだと結ぶ構成が印象的です。
+ペトラルカ式ソネットの十四行のなかで、伝承と科学的想像力と信仰とを重ね合わせる手際が読みどころで、夜空の観察を宇宙論的かつ宗教的な幻視へと高めるロングフェローらしい一篇です。
+
+---
+
+## To the Evening Star / 宵の明星に
+- Theme: Astronomy
+- Author: Thomas Campbell
+- Author Years: 1777–1844
+- Public Domain Reason: 作者は1844年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.best-poems.net/thomas_campbell/to_the_evening_star.html
+- Added Date: 2026-06-30
+
+### 原文
+Star that bringest home the bee,
+And sett'st the weary labourer free!
+If any star shed peace, 'tis thou,
+That send'st it from above,
+Appearing when Heaven's breath and brow
+Are sweet as hers we love.
+
+Come to the luxuriant skies,
+Whilst the landscape's odours rise,
+Whilst far-off lowing herds are heard,
+And songs when toil is done,
+From cottages whose smoke unstirr'd
+Curls yellow in the sun.
+
+Star of love's soft interviews,
+Parted lovers on thee muse;
+Their remembrancer in heaven
+Of thrilling vows thou art,
+Too delicious to be riven
+By absence from the heart.
+
+### 日本語訳
+蜜蜂を家路につかせる星よ、
+疲れた働き手を労苦から解き放つ星よ！
+もしいずれかの星が安らぎを降らせるなら、それはおまえ、
+天上からそれを送りくだす星。
+天の息吹とそのおもてが、
+わたしたちの愛する人のように甘やかなとき、おまえは現れる。
+
+ゆたかに茂る空へと出ておいで、
+野の景色のかおりが立ちのぼるあいだに、
+遠くで牛の群れの鳴く声が聞こえ、
+一日の労苦が終わって歌がわきおこるあいだに、
+煙もそよがぬ家々から、
+その煙が陽のなかに黄いろく立ちのぼるあいだに。
+
+愛のひそやかな逢瀬の星よ、
+引き裂かれた恋人たちはおまえを見て物思う。
+おまえは天にあって、
+胸ふるわす誓いを思い出させるよすが、
+あまりに甘美で、別れによっても
+心から引き剝がすことのできないもの。
+
+### 解説
+主題は、日暮れに西の空に現れる宵の明星（金星）への讃歌であり、それがもたらす安らぎと、恋人たちの思慕の象徴としての役割です。
+天文テーマとの関係は中心的で、夕暮れとともに昇る一つの天体（the evening star）への呼びかけが詩全体の枠組みをなしています。
+蜜蜂を巣へ帰し、働き手を労苦から解き放つという、星の出を一日の終わりの合図として描くイメージや、煙が陽のなかに黄いろく立ちのぼる夕景の細部が印象的です。
+天体を「愛のひそやかな逢瀬の星」と呼び、隔てられた恋人たちを結ぶ「天にある誓いのよすが」として歌い上げる結びが読みどころで、自然詩と恋愛詩を一つに溶け合わせたキャンベルらしい抒情が味わえます。
