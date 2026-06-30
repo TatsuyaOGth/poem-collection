@@ -612,5 +612,59 @@
     "status": "added",
     "source_url": "https://www.gutenberg.org/files/3168/3168-h/3168-h.htm",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Garden",
+    "author": "Andrew Marvell",
+    "normalized_key": "the garden|andrew marvell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Miscellaneous_Poems_(Marvell)/The_Garden",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Ivy Green",
+    "author": "Charles Dickens",
+    "normalized_key": "the ivy green|charles dickens",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_That_Every_Child_Should_Know/The_Ivy_Green",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Lent Lily",
+    "author": "A. E. Housman",
+    "normalized_key": "the lent lily|a e housman",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/a-e-housman/poem/a-shropshire-lad-xxix-the-lent-lily",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Night Has a Thousand Eyes",
+    "author": "Francis William Bourdillon",
+    "normalized_key": "the night has a thousand eyes|francis william bourdillon",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Light_(Bourdillon)",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Sun of the Sleepless",
+    "author": "Lord Byron",
+    "normalized_key": "sun of the sleepless|lord byron",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Hebrew_Melodies_(Byron,_1815)/Sun_of_the_sleepless!",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Song of the Stars",
+    "author": "William Cullen Bryant",
+    "normalized_key": "song of the stars|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-cullen-bryant/poem/song-of-the-stars",
+    "checked_date": "2026-07-01"
   }
 ]
