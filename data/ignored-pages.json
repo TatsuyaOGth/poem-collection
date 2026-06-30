@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "url": "https://en.wikisource.org/wiki/The_Holly-Tree",
+    "reason": "ページ全文を確認したが、これは Charles Dickens の散文作品『The Holly-Tree』であり詩ではなかった。Southey の詩『The Holly Tree』の原文取得には使えない。",
+    "checked_date": "2026-06-30"
+  }
+]
