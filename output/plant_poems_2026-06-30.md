@@ -412,3 +412,188 @@ I wish I were the hay!
 植物テーマとの関係は中心的で、野の草（the grass）そのものを擬人化し、その芽生えから枯れて干し草となるまでの生涯を二十行でたどっています。
 蝶や蜜蜂をあやし、陽光を膝に抱き、夜露を「真珠のように糸に通す」といった、ささやかな営みを貴婦人の装いになぞらえるイメージが愛らしく印象的です。
 枯れてなお神々しい香りを放ち、最後に「わたしが干し草であったなら」とおどけて結ぶ飛躍が読みどころで、ありふれた自然のなかに充足を見たディキンソンらしい一篇です。
+
+---
+
+## The Oak / 樫の木
+- Theme: Plant
+- Author: Alfred Tennyson
+- Author Years: 1809–1892
+- Public Domain Reason: 作者は1892年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://americanliterature.com/author/alfred-lord-tennyson/poem/the-oak
+- Added Date: 2026-06-30
+
+### 原文
+Live thy Life,
+Young and old,
+Like yon oak,
+Bright in spring,
+Living gold;
+
+Summer-rich
+Then; and then
+Autumn-changed
+Soberer-hued
+Gold again.
+
+All his leaves
+Fall'n at length,
+Look, he stands,
+Trunk and bough
+Naked strength.
+
+### 日本語訳
+おまえの生を生きよ、
+若くも老いても、
+あの樫の木のように。
+春には輝き、
+生命の黄金となり、
+
+夏には豊かに茂り、
+やがて――やがて
+秋に色を変え、
+よりくすんだ色合いの
+黄金にふたたびなる。
+
+葉という葉が
+ついにみな落ちて、
+見よ、彼は立つ、
+幹と大枝の
+裸の力強さで。
+
+### 解説
+主題は、樫の木の四季の移ろいになぞらえて示された、人の一生の理想的なありようです。
+植物テーマとの関係は中心的で、一本の樫（oak）の春の芽吹き、夏の繁茂、秋の黄葉、冬の落葉という生育のサイクルがそのまま詩の骨格をなしています。
+春の「生命の黄金（Living gold）」と秋の「くすんだ黄金（Gold again）」を響き合わせ、葉を落として「裸の力強さ（Naked strength）」で立つ冬の姿を結びに据えるイメージが印象的です。
+極端に短い行と簡潔な語で生の全行程を描ききる凝縮が読みどころで、老境を衰えではなく本質の力として肯定するテニスン晩年の境地がうかがえます。
+
+---
+
+## Binsey Poplars / バインジーのポプラ
+- Theme: Plant
+- Author: Gerard Manley Hopkins
+- Author Years: 1844–1889
+- Public Domain Reason: 作者は1889年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品（1879年作）も米国で1929年以前刊行のパブリックドメイン。
+- Source URL: https://poets.org/poem/binsey-poplars
+- Added Date: 2026-06-30
+
+### 原文
+(felled 1879)
+
+My aspens dear, whose airy cages quelled,
+   Quelled or quenched in leaves the leaping sun,
+   All felled, felled, are all felled;
+     Of a fresh and following folded rank
+                Not spared, not one
+                That dandled a sandalled
+         Shadow that swam or sank
+On meadow and river and wind-wandering weed-winding bank.
+   O if we but knew what we do
+          When we delve or hew—
+     Hack and rack the growing green!
+           Since country is so tender
+     To touch, her being só slender,
+     That, like this sleek and seeing ball
+     But a prick will make no eye at all,
+     Where we, even where we mean
+                To mend her we end her,
+           When we hew or delve:
+After-comers cannot guess the beauty been.
+   Ten or twelve, only ten or twelve
+      Strokes of havoc únselve
+           The sweet especial scene,
+      Rural scene, a rural scene,
+      Sweet especial rural scene.
+
+### 日本語訳
+（一八七九年に伐採さる）
+
+わが懐かしいポプラたちよ、その風通しよい枝の檻が
+日の光をとらえ、葉のなかに鎮め、また消していたのに、
+みな伐られた、伐られた、すっかり伐り倒された。
+みずみずしく連なり重なっていた一列のうち、
+ただの一本も残されはしなかった――
+影をあやしていた、あの木々は、
+草地と川と、風にさまよい水草に巻きつく岸辺の上に、
+泳ぎ沈むサンダルばきの影を落としていたのに。
+
+おお、わたしたちは知りさえすればよいのに、自分が何をしているかを、
+土を掘り、木を伐るとき――
+育ちゆく緑を切り刻み、痛めつけるとき！
+この国土はあまりに繊細で、
+触れれば壊れるほどに、その命はか細く、
+ちょうどこの滑らかに見えるまなこの球が、
+ほんの一突きで光をすっかり失うように、
+わたしたちは、よかれと思って手を加えるその場所で、
+癒そうとして、かえって終わらせてしまう。
+木を伐り、土を掘るとき――
+後に来る者には、かつての美しさを推し量ることもできない。
+十か十二、たった十か十二の
+破壊の一撃が、その姿を奪い去る、
+あの得がたい光景を、
+野の光景を、田園の光景を、
+得がたい田園の光景を。
+
+### 解説
+主題は、オックスフォード近郊バインジーで一列のポプラ（アスペン）が伐り倒されたことへの痛切な嘆きです。
+植物テーマとの関係はきわめて中心的で、木々が日光を葉に「とらえ、鎮め、消す」さまや、川辺に影を落とす生き生きとした描写から、伐採後の不可逆な喪失までが一篇を貫いています。
+「felled, felled, are all felled」と語をたたみかける音の連なりや、目を一突きで潰す比喩など、ホプキンズ独特の頭韻と造語（únselve＝本来の姿を奪う）が強烈な印象を残します。
+自然破壊の罪深さと、「後に来る者にはかつての美を推し量れない」という不可逆性への洞察が読みどころで、現代の環境意識を先取りした作品としても読まれます。
+
+---
+
+## The Violet / すみれ
+- Theme: Plant
+- Author: Jane Taylor
+- Author Years: 1783–1824
+- Public Domain Reason: 作者は1824年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀初頭の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poetryfoundation.org/poems/51917/the-violet
+- Added Date: 2026-06-30
+
+### 原文
+Down in a green and shady bed,
+A modest violet grew;
+Its stalk was bent, it hung its head,
+As if to hide from view.
+
+And yet it was a lovely flower,
+Its colours bright and fair;
+It might have graced a rosy bower,
+Instead of hiding there.
+
+Yet there it was content to bloom,
+In modest tints arrayed;
+And there diffused its sweet perfume,
+Within the silent shade.
+
+Then let me to the valley go,
+This pretty flower to see;
+That I may also learn to grow
+In sweet humility.
+
+### 日本語訳
+緑なす木かげの花床のおくに、
+つつましい一輪のすみれが咲いていた。
+その茎はうなだれ、花は頭を垂れて、
+人目を避けて隠れるかのよう。
+
+それでもそれは愛らしい花、
+その色は鮮やかで美しく、
+華やかなあずまやを飾ってもよいものを、
+こんなところに隠れていた。
+
+けれどそこで満ち足りて咲き、
+ひかえめな色合いをまとい、
+そのかぐわしい香りをただよわせていた、
+ひっそりとした木かげのなかで。
+
+さあ、わたしも谷へ下りて行こう、
+この可憐な花をひと目見るために。
+わたしもまた学べるように、
+やさしい謙虚さのなかで育つことを。
+
+### 解説
+主題は、人目につかぬ木かげにつつましく咲くすみれに託された、謙虚さの徳の称揚です。
+植物テーマとの関係は中心的で、うなだれた茎、ひかえめな色、ひそやかに漂う香りといった一輪のすみれの具体的な姿が、そのまま道徳的な寓意へと重ねられています。
+華やかなあずまや（rosy bower）を飾れたはずの花が、見られることを求めず木かげで満ち足りて咲くという対比が印象的です。
+最終連で語り手が花に「謙虚さのなかで育つこと」を学ぼうと願う転換が読みどころで、子ども向けの教訓詩を数多く残したジェイン・テイラーらしい、平明で温かな一篇です。
