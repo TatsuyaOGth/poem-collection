@@ -597,3 +597,137 @@ In sweet humility.
 植物テーマとの関係は中心的で、うなだれた茎、ひかえめな色、ひそやかに漂う香りといった一輪のすみれの具体的な姿が、そのまま道徳的な寓意へと重ねられています。
 華やかなあずまや（rosy bower）を飾れたはずの花が、見られることを求めず木かげで満ち足りて咲くという対比が印象的です。
 最終連で語り手が花に「謙虚さのなかで育つこと」を学ぼうと願う転換が読みどころで、子ども向けの教訓詩を数多く残したジェイン・テイラーらしい、平明で温かな一篇です。
+
+---
+
+## The Poplar Field / ポプラの林
+- Theme: Plant
+- Author: William Cowper
+- Author Years: 1731–1800
+- Public Domain Reason: 作者は1800年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も18世紀の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://monadnock.net/cowper/poplar.html
+- Added Date: 2026-06-30
+
+### 原文
+The poplars are felled; farewell to the shade,
+And the whispering sound of the cool colonnade:
+The winds play no longer and sing in the leaves,
+Nor Ouse on his bosom their image receives.
+
+Twelve years have elapsed since I first took a view
+Of my favourite field, and the bank where they grew,
+And now in the grass behold they are laid,
+And the tree is my seat that once lent me a shade.
+
+The blackbird has fled to another retreat
+Where the hazels afford him a screen from the heat;
+And the scene where his melody charmed me before
+Resounds with his sweet-flowing ditty no more.
+
+My fugitive years are all hasting away,
+And I must ere long lie as lowly as they,
+With a turf on my breast and a stone at my head,
+Ere another such grove shall arise in its stead.
+
+'Tis a sight to engage me, if anything can,
+To muse on the perishing pleasures of man;
+Short-lived as we are, our enjoyments, I see,
+Have a still shorter date, and die sooner than we.
+
+### 日本語訳
+ポプラの木々は伐り倒された。さらば、あの木かげよ、
+涼やかな並木がささやいていた音よ。
+風はもう葉のあいだで戯れ歌うこともなく、
+ウーズ川もその水面に木々の姿を映さない。
+
+十二年が過ぎ去った、わたしが初めて
+お気に入りのこの野と、木々の育っていた土手を眺めてから。
+そしていま、見よ、木々は草のなかに横たえられ、
+かつてわたしに木かげを貸してくれた木が、いまはわたしの腰かけだ。
+
+つぐみは別の隠れ家へと逃げ去った、
+そこでは榛（はしばみ）が暑さをさえぎってくれる。
+そして、かつてその調べがわたしを魅了したこの場所には、
+あの甘く流れるさえずりがもう響かない。
+
+逃げゆくわたしの歳月もみな足早に過ぎ去り、
+わたしもやがて、木々のように低く横たわるだろう、
+胸には芝、頭には石をのせて、
+ふたたびこのような木立が立ちのぼるよりも前に。
+
+それは、何ものにもまして、わたしの心を捉える眺めだ――
+滅びゆく人の楽しみに思いをめぐらせること。
+短命なわたしたちだが、その喜びはなお、
+さらに短い命しかなく、わたしたちより先に死んでしまうのだから。
+
+### 解説
+主題は、慣れ親しんだポプラの林が伐り倒されたことを契機にした、自然と人の命のはかなさへの瞑想です。
+植物テーマとの関係は中心的で、木かげをつくり風にそよいでいたポプラ並木の喪失と、草のなかに横たえられた木々の姿が詩の出発点をなしています。
+川面に映る木立、つぐみの去った林、十二年という歳月といった具体的な細部が、失われた風景を鮮やかに呼び起こします。
+木々の死を自らの死へと重ね、「人の楽しみは人より先に死ぬ」と結ぶ省察が読みどころで、後年のホプキンズ「バインジーのポプラ」にも通じる伐採哀歌の系譜に連なる、カウパーらしい静かな抒情詩です。
+
+---
+
+## My Pretty Rose Tree / わたしの可愛いバラの木
+- Theme: Plant
+- Author: William Blake
+- Author Years: 1757–1827
+- Public Domain Reason: 作者は1827年に死去しており、著作権保護期間（死後70年）はとうに満了している。本作（1794年『Songs of Experience』所収）も米国で1929年以前刊行のパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/Songs_of_Innocence_and_of_Experience_(1826)/Songs_of_Experience/My_Pretty_Rose_Tree
+- Added Date: 2026-06-30
+
+### 原文
+A flower was offered to me,
+Such a flower as May never bore;
+But I said, 'I've a pretty rose tree,'
+And I passed the sweet flower o'er.
+
+Then I went to my pretty rose tree,
+To tend her by day and by night;
+But my rose turned away with jealousy,
+And her thorns were my only delight.
+
+### 日本語訳
+一輪の花がわたしに差し出された、
+五月さえ咲かせたことのないほどの花が。
+けれどわたしは言った、「わたしには可愛いバラの木がある」と、
+そしてその甘い花をやり過ごしてしまった。
+
+それからわたしは、自分の可愛いバラの木のもとへ行った、
+昼も夜もその世話をするために。
+だがわたしのバラは嫉妬に顔をそむけ、
+その棘だけが、わたしのただひとつの喜びとなった。
+
+### 解説
+主題は、誘惑を退けて自らのバラに忠実であろうとした者が、かえって嫉妬と棘に報われるという、愛のままならなさです。
+植物テーマとの関係は中心的で、差し出された「花」と、自分の所有する「バラの木」という二つの植物の対比が、詩全体の寓意を支えています。
+「五月さえ咲かせたことのない花」を断りながら、忠実に世話をしたバラには棘で迎えられるという皮肉な反転が印象的です。
+最終行「その棘だけがわたしのただひとつの喜び」に込められた、苦さと諦念の入りまじった余韻が読みどころで、『経験の歌』におけるブレイクの愛の幻滅を凝縮した一篇です。
+
+---
+
+## The Lily / 百合
+- Theme: Plant
+- Author: William Blake
+- Author Years: 1757–1827
+- Public Domain Reason: 作者は1827年に死去しており、著作権保護期間（死後70年）はとうに満了している。本作（1794年『Songs of Experience』所収）も米国で1929年以前刊行のパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/Songs_of_Innocence_and_of_Experience_(1826)/Songs_of_Experience/The_Lily
+- Added Date: 2026-06-30
+
+### 原文
+The modest Rose puts forth a thorn,
+The humble sheep a threat'ning horn:
+While the Lily white shall in love delight,
+Nor a thorn nor a threat stain her beauty bright.
+
+### 日本語訳
+つつましいバラは棘を突き出し、
+おとなしい羊は脅すような角を生やす。
+だが白い百合は愛のうちに喜び、
+棘も脅しも、その輝く美しさを汚すことはない。
+
+### 解説
+主題は、自らを守る棘や角を持たず、ただ純白のままで愛に身をひらく百合の、無垢な美しさの称揚です。
+植物テーマとの関係は中心的で、棘をもつバラ、角をもつ羊と対比される「白い百合」という花が、詩のすべての中心に据えられています。
+わずか四行のうちに、自己防衛の象徴（棘・角）と無防備な愛の象徴（百合）を鮮やかに対置するイメージが印象的です。
+『経験の歌』に置かれながらも汚れなき愛の可能性を肯定するこの短詩は、同詩集の「病めるバラ」などと響き合い、ブレイクの花の象徴詩の精髄を示す読みどころとなっています。

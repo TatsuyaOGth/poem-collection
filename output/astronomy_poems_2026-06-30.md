@@ -637,3 +637,299 @@ By absence from the heart.
 天文テーマとの関係は中心的で、夕暮れとともに昇る一つの天体（the evening star）への呼びかけが詩全体の枠組みをなしています。
 蜜蜂を巣へ帰し、働き手を労苦から解き放つという、星の出を一日の終わりの合図として描くイメージや、煙が陽のなかに黄いろく立ちのぼる夕景の細部が印象的です。
 天体を「愛のひそやかな逢瀬の星」と呼び、隔てられた恋人たちを結ぶ「天にある誓いのよすが」として歌い上げる結びが読みどころで、自然詩と恋愛詩を一つに溶け合わせたキャンベルらしい抒情が味わえます。
+
+---
+
+## The Sun Rising / 日の出
+- Theme: Astronomy
+- Author: John Donne
+- Author Years: 1572–1631
+- Public Domain Reason: 作者は1631年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も17世紀の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/The_Sun_Rising
+- Added Date: 2026-06-30
+
+### 原文
+    Busy old fool, unruly Sun,
+    Why dost thou thus,
+Through windows, and through curtains, call on us?
+Must to thy motions lovers' seasons run?
+    Saucy pedantic wretch, go chide
+    Late school-boys and sour prentices,
+  Go tell court-huntsmen that the king will ride,
+  Call country ants to harvest offices;
+Love, all alike, no season knows nor clime,
+Nor hours, days, months, which are the rags of time.
+
+    Thy beams so reverend, and strong
+    Why shouldst thou think?
+I could eclipse and cloud them with a wink,
+But that I would not lose her sight so long.
+    If her eyes have not blinded thine,
+    Look, and to-morrow late tell me,
+  Whether both th' Indias of spice and mine
+  Be where thou left'st them, or lie here with me.
+Ask for those kings whom thou saw'st yesterday,
+And thou shalt hear, "All here in one bed lay."
+
+    She's all states, and all princes I;
+    Nothing else is;
+Princes do but play us; compared to this,
+All honour's mimic, all wealth alchemy.
+    Thou, Sun, art half as happy as we,
+    In that the world's contracted thus;
+  Thine age asks ease, and since thy duties be
+  To warm the world, that's done in warming us.
+Shine here to us, and thou art everywhere;
+This bed thy center is, these walls thy sphere.
+
+### 日本語訳
+　　忙しない老いた愚か者、気ままな太陽よ、
+　　おまえはなぜこうして、
+窓ごしに、カーテンごしに、わたしたちを呼び立てるのか？
+恋人たちの季節も、おまえの運行に合わせねばならぬのか？
+　　生意気で衒学的な下郎め、行って叱るがいい、
+　　朝寝坊の生徒や、不機嫌な徒弟たちを。
+　行って宮廷の狩人たちに、王が狩りに出ると告げよ、
+　田舎の蟻どもに、刈り入れの務めへと呼ばわるがいい。
+愛は、何ごとにも変わらず、季節も土地も知らず、
+時の切れ端にすぎぬ時間も、日も、月も知らぬのだ。
+
+　　おまえの光がそれほど畏れ多く、強いものと、
+　　なぜおまえは思うのか？
+わたしは瞬きひとつでおまえを曇らせ隠すこともできよう、
+だが、それでは彼女の姿をそれだけ長く見失ってしまう。
+　　もし彼女の瞳がおまえの目をくらませていないなら、
+　　よく見て、明日の暮れに教えてくれ、
+　香料と鉱脈の、東西両インドが、
+　おまえの去り際の場所にあるか、それともここで、わたしと共に横たわっているかを。
+昨日おまえが見た王たちのことを尋ねてみよ、
+すると聞くだろう、「みなここに、ひとつの寝床に横たわっている」と。
+
+　　彼女はすべての国、わたしはすべての君主。
+　　ほかには何ものも存在しない。
+君主たちはわたしたちを真似て演じるだけ。これに比べれば、
+栄誉はみな見せかけ、富はみな錬金術のまやかし。
+　　太陽よ、おまえはわたしたちの半分しか幸せではない、
+　　世界がこうしてひとつに縮められているからには。
+　おまえの老いは安らぎを求めている。そしておまえの務めが
+　世界を温めることなら、それはわたしたちを温めることで果たされる。
+ここでわたしたちを照らせ、そうすればおまえはあらゆる場所にいることになる。
+この寝床こそおまえの中心、これらの壁こそおまえの天球なのだ。
+
+### 解説
+主題は、夜明けに恋人たちを起こす太陽への機知に富んだ抗議であり、二人の愛が宇宙全体に匹敵するという誇張的な讃歌です。
+天文テーマとの関係は中心的で、太陽（the Sun）そのものに語りかけ、その光・運行・天球（sphere）といった天文学的観念を恋の論理へと大胆に取り込んでいます。
+太陽を「忙しない老いた愚か者」と叱り、瞬きひとつで光を遮れると豪語しながら「彼女の姿を見失うから」とためらう逆説が印象的です。
+寝床を宇宙の「中心」、四方の壁を太陽の回る「天球」と言いきる結びの飛躍が読みどころで、天文学の枠組みを恋愛詩に転用するダンらしい形而上派の機知が冴える一篇です。
+
+---
+
+## Star-Gazers / 星を仰ぐ人々
+- Theme: Astronomy
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poetryverse.com/william-wordsworth-poems/stargazers
+- Added Date: 2026-06-30
+
+### 原文
+What crowd is this? what have we here! we must not pass it by;
+A Telescope upon its frame, and pointed to the sky:
+Long is it as a barber's pole, or mast of little boat,
+Some little pleasure-skiff, that doth on Thames's waters float.
+
+The Showman chooses well his place, 'tis Leicester's busy Square;
+And is as happy in his night, for the heavens are blue and fair;
+Calm, though impatient, is the crowd; each stands ready with the fee,
+And envies him that's looking;--what an insight must it be!
+
+Yet, Showman, where can lie the cause? Shall thy Implement have blame,
+A boaster, that when he is tried, fails, and is put to shame?
+Or is it good as others are, and be their eyes in fault?
+Their eyes, or minds? or, finally, is yon resplendent vault?
+
+Is nothing of that radiant pomp so good as we have here?
+Or gives a thing but small delight that never can be dear?
+The silver moon with all her vales, and hills of mightiest fame,
+Doth she betray us when they're seen? or are they but a name?
+
+Or is it rather that Conceit rapacious is and strong,
+And bounty never yields so much but it seems to do her wrong?
+Or is it, that when human Souls a journey long have had
+And are returned into themselves, they cannot but be sad?
+
+Or must we be constrained to think that these Spectators rude,
+Poor in estate, of manners base, men of the multitude,
+Have souls which never yet have risen, and therefore prostrate lie?
+No, no, this cannot be;--men thirst for power and majesty!
+
+Does, then, a deep and earnest thought the blissful mind employ
+Of him who gazes, or has gazed? a grave and steady joy,
+That doth reject all show of pride, admits no outward sign,
+Because not of this noisy world, but silent and divine!
+
+Whatever be the cause, 'tis sure that they who pry and pore
+Seem to meet with little gain, seem less happy than before:
+One after One they take their turn, nor have I one espied
+That doth not slackly go away, as if dissatisfied.
+
+### 日本語訳
+この人だかりは何だ？ ここに何があるのだ。見過ごすわけにはいかぬ。
+枠に据えられた一台の望遠鏡が、空へと向けられている。
+床屋の看板柱ほどに長く、あるいは小舟の帆柱ほど――
+テムズの水を漂う、ささやかな遊覧の小舟の帆柱ほどに。
+
+見世物師はよい場所を選んだ、にぎやかなレスター・スクエア。
+その夜にも彼は満ち足りている、天は青く晴れわたっているのだから。
+群衆は落ち着いて、しかし待ちきれぬ様子、めいめい料金を手に立ち、
+覗いている者をうらやむ――いったいどんな眺めが見えるのかと！
+
+だが見世物師よ、原因はどこにあるのか。おまえの器械に咎があるのか、
+試されると失敗し、恥をさらすほら吹きだとでもいうのか。
+それとも器械は他と変わらず良く、見る者たちの目に咎があるのか。
+彼らの目か、心か、それとも結局のところ、あの輝かしい天空のせいか。
+
+あの燦然たる壮麗のうちに、ここで見るほど良いものは何もないのか。
+それとも、けっして親しみえぬものは、わずかな喜びしか与えぬのか。
+銀色の月、その谷々と、名高い数々の山を擁する月は、
+見られると人を裏切るのか。それともそれらはただの名にすぎぬのか。
+
+それとも、むしろ「うぬぼれ」が貪欲で強く、
+気前のよさがどれほど与えても、それを物足りなく思わせるのか。
+それとも、人の魂が長い旅をして、
+ふたたび自らへと帰りつくとき、悲しまずにはいられぬのか。
+
+それとも、こう考えざるをえぬのか、この粗野な見物人たち、
+財もとぼしく、品もいやしい、群衆のなかの人々は、
+いまだ高みへ昇ったことのない魂を持ち、それゆえ地に伏しているのだと。
+いや、いや、そんなはずはない――人は力と威厳に渇いているのだから！
+
+では、深く真剣な思いが、覗く者の、あるいは覗いた者の
+至福の心を満たしているのか。誇りの色を退け、
+外なるしるしをいっさい見せぬ、おごそかで静かな喜びが。
+それはこの騒がしい世のものではなく、沈黙して神々しいものだから。
+
+原因が何であれ、たしかなのは、覗き込み凝視する者たちが、
+ほとんど得るものなく、覗く前より幸せそうに見えぬということ。
+ひとり、またひとりと順番に覗くが、わたしが見たかぎり、
+気だるげに立ち去らぬ者はいない、まるで満たされぬといった様子で。
+
+### 解説
+主題は、ロンドンのレスター・スクエアで望遠鏡を覗こうと群がる人々が、なぜか満たされぬ顔で立ち去るのを見つめ、その理由を問う思索です。
+天文テーマとの関係は中心的で、望遠鏡、青く晴れた夜空、谷や山を擁する「銀色の月」、輝かしい天空（resplendent vault）といった天体観望の情景が一篇を貫いています。
+器械のせいか、見る者の目や心のせいか、それとも天そのもののせいかと、原因を次々に問いかけてゆく畳みかけの構成が印象的です。
+真の驚異は外なる見世物ではなく「沈黙して神々しい」内なる観想から来るのだ、と示唆する結びが読みどころで、科学的観察と詩的想像力の関係を問うたワーズワスらしい一篇です。
+
+---
+
+## Hymn of Apollo / アポロンの讃歌
+- Theme: Astronomy
+- Author: Percy Bysshe Shelley
+- Author Years: 1792–1822
+- Public Domain Reason: 作者は1822年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_Percy_Bysshe_Shelley_(ed._Hutchinson,_1914)/Hymn_of_Apollo
+- Added Date: 2026-06-30
+
+### 原文
+I
+The sleepless Hours who watch me as I lie,
+Curtained with star-inwoven tapestries
+From the broad moonlight of the sky,
+Fanning the busy dreams from my dim eyes,—
+Waken me when their Mother, the gray Dawn,
+Tells them that dreams and that the moon is gone.
+
+II
+Then I arise, and climbing Heaven's blue dome,
+I walk over the mountains and the waves,
+Leaving my robe upon the ocean foam;
+My footsteps pave the clouds with fire; the caves
+Are filled with my bright presence, and the air
+Leaves the green Earth to my embraces bare.
+
+III
+The sunbeams are my shafts, with which I kill
+Deceit, that loves the night and fears the day;
+All men who do or even imagine ill
+Fly me, and from the glory of my ray
+Good minds and open actions take new might,
+Until diminished by the reign of Night.
+
+IV
+I feed the clouds, the rainbows and the flowers
+With their aethereal colours; the moon's globe
+And the pure stars in their eternal bowers
+Are cinctured with my power as with a robe;
+Whatever lamps on Earth or Heaven may shine
+Are portions of one power, which is mine.
+
+V
+I stand at noon upon the peak of Heaven,
+Then with unwilling steps I wander down
+Into the clouds of the Atlantic even;
+For grief that I depart they weep and frown:
+What look is more delightful than the smile
+With which I soothe them from the western isle?
+
+VI
+I am the eye with which the Universe
+Beholds itself and knows itself divine;
+All harmony of instrument or verse,
+All prophecy, all medicine is mine,
+All light of art or nature;—to my song
+Victory and praise in its own right belong.
+
+### 日本語訳
+一
+眠らぬ時の女神たちが、横たわるわたしを見守る、
+星を織りこんだ帳（とばり）に包まれて、
+空の広い月光をさえぎられながら。
+わたしのおぼろな目から、せわしい夢を扇ぎ払い、
+やがて母なる灰色の暁が、
+夢は去り月も沈んだと告げるとき、彼女らはわたしを目覚めさせる。
+
+二
+そこでわたしは起き上がり、天の青い円蓋をよじ登って、
+山々と波のうえを歩いてゆく、
+わが衣を大洋の泡のうえに残しながら。
+わが足跡は雲を火で敷きつめ、洞窟は
+わたしの輝く存在で満たされ、大気は
+緑なす大地を、わたしの抱擁にむき出しのまま委ねる。
+
+三
+陽の光はわたしの矢、それでわたしは射殺す、
+夜を愛し昼を恐れる「欺き」を。
+悪をなし、あるいは悪を思うだけの者もみな
+わたしから逃げ、わが光の栄光から、
+善き心と公明な行いは新たな力を得る、
+やがて「夜」の支配によって弱められるまで。
+
+四
+わたしは雲を、虹を、花々を養う、
+それらの霊妙な色彩で。月の球も、
+永遠の木かげに憩う清らかな星々も、
+わが力を、衣のようにまとっている。
+地上であれ天上であれ、輝くいかなる灯火も、
+ただひとつの力の分け前、それはわたしの力だ。
+
+五
+わたしは正午に天の頂に立ち、
+それから心ならずも足どりで降りてゆく、
+大西洋の夕暮れの雲のなかへと。
+わたしが去るのを悲しんで、雲は泣き顔をしかめる。
+わたしが西の島から彼らをなだめる微笑みより、
+心地よい眺めがほかにあろうか。
+
+六
+わたしは目だ、その目をもって宇宙は
+自らを見つめ、自らが神聖であることを知る。
+楽器であれ詩であれ、すべての調べ、
+すべての預言、すべての医術はわたしのもの、
+芸術であれ自然であれ、すべての光も。――わが歌に
+勝利と讃美が、それ自身の権利として帰するのだ。
+
+### 解説
+主題は、太陽神アポロンがみずから語る、日々の運行と、世界に光と生命をもたらす万能の力の讃歌です。
+天文テーマとの関係はきわめて中心的で、天の青い円蓋を登り正午に頂へ達して西へ沈む太陽の一日の軌道、月の球や永遠の星々といった天体が一篇の骨格をなしています。
+陽光を「欺きを射殺す矢」とする比喩や、雲・虹・花・月・星のすべてが太陽の力を衣のようにまとうという壮大なイメージが印象的です。
+最終連で太陽を「宇宙が自らを見つめ神聖を知るための目」と定義し、光を芸術・予言・医術の源へと昇華させる飛躍が読みどころで、シェリーの汎神論的な光の崇拝が結晶した一篇です。

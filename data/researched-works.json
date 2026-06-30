@@ -450,5 +450,59 @@
     "status": "added",
     "source_url": "https://www.best-poems.net/thomas_campbell/to_the_evening_star.html",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Poplar Field",
+    "author": "William Cowper",
+    "normalized_key": "the poplar field|william cowper",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://monadnock.net/cowper/poplar.html",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "My Pretty Rose Tree",
+    "author": "William Blake",
+    "normalized_key": "my pretty rose tree|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Songs_of_Innocence_and_of_Experience_(1826)/Songs_of_Experience/My_Pretty_Rose_Tree",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Lily",
+    "author": "William Blake",
+    "normalized_key": "the lily|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Songs_of_Innocence_and_of_Experience_(1826)/Songs_of_Experience/The_Lily",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Sun Rising",
+    "author": "John Donne",
+    "normalized_key": "the sun rising|john donne",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Sun_Rising",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Star-Gazers",
+    "author": "William Wordsworth",
+    "normalized_key": "star gazers|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/william-wordsworth-poems/stargazers",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Hymn of Apollo",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "hymn of apollo|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_Percy_Bysshe_Shelley_(ed._Hutchinson,_1914)/Hymn_of_Apollo",
+    "checked_date": "2026-06-30"
   }
 ]
