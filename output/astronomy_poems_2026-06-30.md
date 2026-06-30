@@ -933,3 +933,131 @@ Victory and praise in its own right belong.
 天文テーマとの関係はきわめて中心的で、天の青い円蓋を登り正午に頂へ達して西へ沈む太陽の一日の軌道、月の球や永遠の星々といった天体が一篇の骨格をなしています。
 陽光を「欺きを射殺す矢」とする比喩や、雲・虹・花・月・星のすべてが太陽の力を衣のようにまとうという壮大なイメージが印象的です。
 最終連で太陽を「宇宙が自らを見つめ神聖を知るための目」と定義し、光を芸術・予言・医術の源へと昇華させる飛躍が読みどころで、シェリーの汎神論的な光の崇拝が結晶した一篇です。
+
+---
+
+## The Moon / 月
+- Theme: Astronomy
+- Author: Robert Louis Stevenson
+- Author Years: 1850–1894
+- Public Domain Reason: 作者は1894年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品（『子供の詩の園』1885年）も米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/A_Child%27s_Garden_of_Verses/The_Moon
+- Added Date: 2026-06-30
+
+### 原文
+The moon has a face like the clock in the hall;
+She shines on thieves on the garden wall,
+On streets and fields and harbour quays,
+And birdies asleep in the forks of the trees.
+
+The squalling cat and the squeaking mouse,
+The howling dog by the door of the house,
+The bat that lies in bed at noon,
+All love to be out by the light of the moon.
+
+But all of the things that belong to the day
+Cuddle to sleep to be out of her way;
+And flowers and children close their eyes
+Till up in the morning the sun shall arise.
+
+### 日本語訳
+月は広間の時計のような顔をしている。
+庭の塀の上の盗人たちを照らし、
+街路や野原や港の波止場を、
+木々の枝の股で眠る小鳥たちを照らす。
+
+鳴きわめく猫と、ちゅうちゅう鳴く鼠、
+家の戸口で吠える犬、
+真昼に寝床に伏せる蝙蝠、
+みな月の光のもとで外に出るのが大好きだ。
+
+けれど昼に属するものはみな、
+月の邪魔にならぬよう身を寄せて眠りにつく。
+そして花々と子供たちは目を閉じる、
+朝になって太陽が昇るまで。
+
+### 解説
+主題は、子供の視点から、月明かりの照らす夜の世界と、それを避けて眠る昼の世界とを対比する童謡詩です。『子供の詩の園（A Child's Garden of Verses）』所収。
+天文テーマとの関係は中心的で、月（the moon）が全篇の主役となり、夜空の月光が地上のあらゆるものを照らし出す視点が骨格をなしています。
+「広間の時計のような顔」をした月の擬人化、月光のもとで活動する猫・鼠・犬・蝙蝠といった夜の生き物たちのイメージが印象的です。
+昼の生き物（花・子供）と夜の生き物の対照を、平易な脚韻と親しみやすい語り口で描く点が読みどころで、スティーヴンソンの子供詩の代表作の一つです。
+
+---
+
+## Is the Moon Tired? / 月は疲れているのだろうか
+- Theme: Astronomy
+- Author: Christina Rossetti
+- Author Years: 1830–1894
+- Public Domain Reason: 作者は1894年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品（『シング・ソング』1872年）も米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://digital.library.upenn.edu/women/rossetti/singsong/singsong.html
+- Added Date: 2026-06-30
+
+### 原文
+Is the moon tired? she looks so pale
+Within her misty veil:
+She scales the sky from east to west,
+And takes no rest.
+
+Before the coming of the night
+The moon shows papery white;
+Before the dawning of the day
+She fades away.
+
+### 日本語訳
+月は疲れているのだろうか？ こんなに青ざめて見える、
+靄の薄衣のうちに。
+月は東から西へと空をよじ登り、
+少しも休まない。
+
+夜の訪れる前には
+月は紙のように白く見え、
+夜明けの来る前には
+月は消え失せてゆく。
+
+### 解説
+主題は、夜空を渡る月を、疲れて青ざめた旅人のように見立てた、わずか8行の童謡です。『シング・ソング（Sing-Song）』所収。
+天文テーマとの関係は中心的で、東から西へ天を渡り、夜明けに薄れて消える月の運行そのものが主題となっています。
+「靄の薄衣（misty veil）」をまとった青白い月、「紙のように白い（papery white）」という質感の比喩、空を「よじ登る（scales）」という擬人化が印象的です。
+子供にもわかる平易な問いかけ（「月は疲れているの？」）で、天体の運行に親密な感情を吹き込むロセッティの簡潔な抒情が読みどころです。
+
+---
+
+## Waiting Both / ともに待つ
+- Theme: Astronomy
+- Author: Thomas Hardy
+- Author Years: 1840–1928
+- Public Domain Reason: 作者は1928年に死去しており、著作権保護期間（死後70年）は1998年に満了している。作品も初出（1924年, The London Mercury／詩集『Human Shows』1925年）が1929年以前で米国でもパブリックドメイン。
+- Source URL: https://hellopoetry.com/poem/1463/waiting-both/
+- Added Date: 2026-06-30
+
+### 原文
+A star looks down at me,
+And says: "Here I and you
+Stand each in our degree:
+What do you mean to do,—
+Mean to do?"
+
+I say: "For all I know,
+Wait, and let Time go by,
+Till my change come."—"Just so,"
+The star says: "So mean I:—
+So mean I."
+
+### 日本語訳
+一つの星が私を見下ろして、
+言う。「ここに、私もおまえも
+それぞれの分に応じて立っている。
+おまえは何をするつもりだ――
+するつもりだ？」
+
+私は言う。「私の知るかぎりでは、
+ただ待って、時の過ぎゆくにまかせよう、
+私の変化が訪れるまで」。――「まさにそのとおり」、
+星は言う。「私もそう思うのだ――
+そう思うのだ」。
+
+### 解説
+主題は、夜空の星と「私」とが、それぞれの定めの場所に立ちながら、「ただ待ち、時の過ぎるにまかせる」という諦念にも似た態度を交わす、簡潔な対話詩です。
+天文テーマとの関係は中心的で、語りかけてくる「星（a star）」が対話の相手であり、天体と人間を同じ「degree（分・等級）」に並べる発想が核となっています。
+人を見下ろして問いかける星の擬人化と、繰り返される語尾（"Mean to do?" / "So mean I"）がもたらす静かな余韻が印象的です。
+星と人間がともに変化＝終わりを「待つ」存在として等しく置かれる、ハーディらしい宇宙的な諦観と、簡潔な反復の音楽性が読みどころです。

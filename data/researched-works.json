@@ -504,5 +504,59 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_Percy_Bysshe_Shelley_(ed._Hutchinson,_1914)/Hymn_of_Apollo",
     "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Holly-Tree",
+    "author": "Robert Southey",
+    "normalized_key": "the holly tree|robert southey",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Holly-Tree",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "To the Daisy",
+    "author": "William Wordsworth",
+    "normalized_key": "to the daisy|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/to-the-daisy/",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Tree",
+    "author": "Jones Very",
+    "normalized_key": "the tree|jones very",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-tree-54/",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "The Moon",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "the moon|robert louis stevenson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Child%27s_Garden_of_Verses/The_Moon",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Is the Moon Tired?",
+    "author": "Christina Rossetti",
+    "normalized_key": "is the moon tired|christina rossetti",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://digital.library.upenn.edu/women/rossetti/singsong/singsong.html",
+    "checked_date": "2026-06-30"
+  },
+  {
+    "title": "Waiting Both",
+    "author": "Thomas Hardy",
+    "normalized_key": "waiting both|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://hellopoetry.com/poem/1463/waiting-both/",
+    "checked_date": "2026-06-30"
   }
 ]
