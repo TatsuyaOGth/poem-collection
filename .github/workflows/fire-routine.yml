@@ -14,29 +14,35 @@ jobs:
       - name: Fire routine
         id: fire
         run: |
-          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.ROUTINE_FIRE_URL }}" \
+          # ボディをファイルに、ステータスコードを変数に分けて取得
+          HTTP_STATUS=$(curl -s \
+            -o /tmp/routine_response.json \
+            -w "%{http_code}" \
+            -X POST "${{ secrets.ROUTINE_FIRE_URL }}" \
             -H "Authorization: Bearer ${{ secrets.ROUTINE_TOKEN }}" \
             -H "anthropic-beta: experimental-cc-routine-2026-04-01" \
             -H "anthropic-version: 2023-06-01" \
             -H "Content-Type: application/json" \
-            -d "{\"text\": \"${{ inputs.message }}\"}")
+            -d '{"text": "${{ inputs.message }}"}')
 
-          HTTP_STATUS=$(echo "$RESPONSE" | tail -n1)
-          BODY=$(echo "$RESPONSE" | head -n-1)
+          SESSION_URL=$(jq -r '.claude_code_session_url // "N/A"' /tmp/routine_response.json)
 
           echo "status=$HTTP_STATUS" >> $GITHUB_OUTPUT
-          echo "body=$BODY" >> $GITHUB_OUTPUT
+          echo "session_url=$SESSION_URL" >> $GITHUB_OUTPUT
 
           echo "### Result" >> $GITHUB_STEP_SUMMARY
-          echo "HTTP Status: $HTTP_STATUS" >> $GITHUB_STEP_SUMMARY
-          echo "Response: $BODY" >> $GITHUB_STEP_SUMMARY
+          echo "- HTTP Status: $HTTP_STATUS" >> $GITHUB_STEP_SUMMARY
+          echo "- Session URL: $SESSION_URL" >> $GITHUB_STEP_SUMMARY
 
       - name: Check result
         run: |
           STATUS="${{ steps.fire.outputs.status }}"
+          SESSION="${{ steps.fire.outputs.session_url }}"
+
           if [ "$STATUS" != "200" ]; then
             echo "Failed with status: $STATUS"
             exit 1
           fi
+
           echo "Routine fired successfully"
-          echo "Session: $(echo '${{ steps.fire.outputs.body }}' | python3 -c \"import sys,json; print(json.load(sys.stdin).get('claude_code_session_url',''))\")"
+          echo "Session: $SESSION"
