@@ -1093,3 +1093,165 @@ On stars that brighter beam when most we need their love.
 植物テーマとの関係は中心的で、「樹木」そのものが詩の対象であり、季節ごとに移ろうその姿が構成の軸となっています。
 葉に隠れるコマドリの巣、夏に揺れる「緑の帳」、そして葉を落とした冬の「葉のない腕（leafless arms）」ごしに仰ぐ星々といったイメージが印象的です。
 最終2行で、最も荒涼とした冬の裸木がかえって天の星々への眼差しを開く――植物への愛がそのまま天界への祈りへと昇華していく転回が読みどころです。
+
+---
+
+## To an Early Primrose / 早咲きのサクラソウに寄せて
+- Theme: Plant
+- Author: Henry Kirke White
+- Author Years: 1785–1806
+- Public Domain Reason: 作者は1806年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀初頭の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poemhunter.com/poem/to-an-early-primrose/
+- Added Date: 2026-06-30
+
+### 原文
+Mild offspring of a dark and sullen sire!
+Whose modest form, so delicately fine,
+Was nursed in whirling storms
+And cradled in the winds;
+
+Thee, when young Spring first questioned Winter's sway,
+And dared the sturdy blusterer to the fight,
+Thee on this bank he threw
+To mark his victory.
+
+In this low vale, the promise of the year,
+Serene, thou openest to the nipping gale,
+Unnoticed and alone,
+Thy tender elegance.
+
+So Virtue blooms, brought forth amid the storms
+Of chill adversity; in some lone walk
+Of life she rears her head,
+Obscure and unobserved;
+
+While every bleaching breeze that on her blows
+Chastens her spotless purity of breast,
+And hardens her to bear
+Serene the ills of life.
+
+### 日本語訳
+暗く陰鬱な父から生まれた、やさしい子よ！
+そのつつましい姿は、かくも繊細に整い、
+渦巻く嵐のなかで育てられ、
+風に揺られて揺りかごに眠った。
+
+若き春が初めて冬の支配に異を唱え、
+あの頑強な荒くれ者に戦いを挑んだとき、
+春はおまえをこの土手に投げ置いた、
+おのれの勝利のしるしとして。
+
+この低い谷間で、一年の約束として、
+おまえは穏やかに、刺すような疾風にもひらく、
+人目につかず、ただひとり、
+そのたおやかな優美さを。
+
+そのように「徳」もまた花ひらく、凍てつく逆境の
+嵐のなかに生まれ出て。人生のどこか寂しい小径で
+おのが頭をもたげる、
+人目につかず、見られることもなく。
+
+そして彼女に吹きつけるあらゆる漂白の風が、
+その汚れなき胸の純潔を清め、
+人生の苦難を穏やかに耐えるよう
+彼女を鍛えあげるのだ。
+
+### 解説
+主題は、まだ冬の名残の嵐が吹くなかに早々と咲く一輪のサクラソウ（プリムローズ）を、逆境のうちに育つ「徳」の象徴として讃える観想詩です。作者が13歳のころの作と伝えられます。
+植物テーマとの関係は中心的で、「早咲きの花」というサクラソウの生態（嵐に育ち、人知れず咲く）が一篇の比喩の核になっています。
+「暗く陰鬱な父（＝冬）」から生まれ「風に揺られて揺りかごに眠った」花という擬人化や、春と冬を戦士に見立てた闘争のイメージが印象的です。
+短い行と長い行を交えた無韻の古典的スタンザ（サッフォー風の詩形）で、花の描写から道徳的省察へと静かに展開していく、18世紀末ロマン派初期の感受性が読みどころです。
+
+---
+
+## The Daisy Follows Soft the Sun / ヒナギクはやわらかに太陽を追う
+- Theme: Plant
+- Author: Emily Dickinson
+- Author Years: 1830–1886
+- Public Domain Reason: 作者は1886年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.poetry-archive.com/d/the_daisy_follows_soft_the_sun/
+- Added Date: 2026-06-30
+
+### 原文
+The daisy follows soft the sun,
+And when his golden walk is done,
+Sits shyly at his feet.
+He, waking, finds the flower near.
+"Wherefore, marauder, art thou here?"
+"Because, sir, love is sweet!"
+
+We are the flower, Thou the sun!
+Forgive us, if as days decline,
+We nearer steal to Thee,—
+Enamoured of the parting west,
+The peace, the flight, the amethyst,
+Night's possibility!
+
+### 日本語訳
+ヒナギクはやわらかに太陽を追い、
+その黄金の歩みが終わると、
+おずおずと彼の足もとに座る。
+彼は目覚めて、すぐそばに花を見いだす。
+「なぜだ、略奪者よ、おまえはここにいる？」
+「だって、あなた、愛は甘いのですもの！」
+
+私たちは花、あなたは太陽！
+日が傾くにつれ、私たちが
+あなたへとそっと近づいても、どうかお赦しを――
+去りゆく西空に魅せられて、
+あの安らぎ、あの飛翔、あの紫水晶、
+夜の可能性に！
+
+### 解説
+主題は、一日じゅう太陽を追いかけ、日が暮れるとその足もとに寄り添うヒナギクを、愛する者への慕情になぞらえた小品です。
+植物テーマとの関係は中心的で、太陽の動きを追う向日性の花（デイジー）と太陽との関係が全篇の骨格となっています。
+太陽を追う花を戯れに「略奪者（marauder）」と呼ぶやりとりや、「私たちは花、あなたは太陽」という呼びかけ、そして「去りゆく西空」「紫水晶」「夜の可能性」と連なる黄昏のイメージが印象的です。
+植物の生態を恋の比喩へと転じ、最後に「夜＝未知の可能性」への憧れをほのめかすディキンソンらしい飛躍が読みどころです。
+
+---
+
+## On a Faded Violet / しおれたスミレに寄せて
+- Theme: Plant
+- Author: Percy Bysshe Shelley
+- Author Years: 1792–1822
+- Public Domain Reason: 作者は1822年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も19世紀前半の詩で、米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.gutenberg.org/cache/epub/4798/pg4798.txt
+- Added Date: 2026-06-30
+
+### 原文
+The odour from the flower is gone
+Which like thy kisses breathed on me;
+The colour from the flower is flown
+Which glowed of thee and only thee!
+
+A shrivelled, lifeless, vacant form,
+It lies on my abandoned breast,
+And mocks the heart which yet is warm,
+With cold and silent rest.
+
+I weep,—my tears revive it not!
+I sigh,—it breathes no more on me;
+Its mute and uncomplaining lot
+Is such as mine should be.
+
+### 日本語訳
+花から香りは消え去った、
+おまえの口づけのように私に息づいていた香りは。
+花から色は飛び去った、
+おまえの、ただおまえだけのために輝いていた色は。
+
+しなびて、命なく、うつろな姿となって、
+それは見捨てられた私の胸の上に横たわり、
+なお温かい私の心を嘲るのだ、
+冷たく沈黙した憩いをもって。
+
+私は泣く――だが涙はそれを甦らせない。
+私は嘆息する――だがそれはもう私に息づかない。
+そのもの言わぬ、不平も言わぬ定めは、
+まさに私のあるべき定めなのだ。
+
+### 解説
+主題は、香りも色も失せた一輪のしおれたスミレを、失われた愛と、やがて来る自らの死の予感に重ねる哀傷詩です。
+植物テーマとの関係は中心的で、枯れたスミレという花そのものが詩の中心の物体であり、その変化（香りと色の喪失、しなびた姿）が全篇を貫いています。
+「口づけのように息づいていた香り」という官能的な比喩、温かい心を「嘲る」冷たい花、涙にも甦らぬ花といったイメージが印象的です。
+花の死をそのまま自己の死へと静かに重ねる結句の諦念が読みどころで、簡潔な3連のうちに恋愛挽歌を凝縮したシェリーの抒情が光ります。

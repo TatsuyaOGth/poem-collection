@@ -1061,3 +1061,213 @@ So mean I."
 天文テーマとの関係は中心的で、語りかけてくる「星（a star）」が対話の相手であり、天体と人間を同じ「degree（分・等級）」に並べる発想が核となっています。
 人を見下ろして問いかける星の擬人化と、繰り返される語尾（"Mean to do?" / "So mean I"）がもたらす静かな余韻が印象的です。
 星と人間がともに変化＝終わりを「待つ」存在として等しく置かれる、ハーディらしい宇宙的な諦観と、簡潔な反復の音楽性が読みどころです。
+
+---
+
+## Daisies / ヒナギク
+- Theme: Astronomy
+- Author: Frank Dempster Sherman
+- Author Years: 1860–1916
+- Public Domain Reason: 作者は1916年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品も米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://discoverpoetry.com/poems/frank-dempster-sherman/daisies/
+- Added Date: 2026-06-30
+
+### 原文
+At evening when I go to bed
+I see the stars shine overhead;
+They are the little daisies white
+That dot the meadow of the Night.
+
+And often while I'm dreaming so,
+Across the sky the Moon will go;
+It is a lady, sweet and fair,
+Who comes to gather daisies there.
+
+For, when at morning I arise,
+There's not a star left in the skies;
+She's picked them all and dropped them down
+Into the meadows of the town.
+
+### 日本語訳
+夕方、私が寝床に入るとき、
+頭の上で星たちが輝くのが見える。
+それらは小さな白いヒナギク、
+夜の牧場に点々と咲いている。
+
+そしてしばしば、そうして夢を見ているうちに、
+空を横切って月が渡ってゆく。
+月は優しく美しい一人の貴婦人、
+そこへヒナギクを摘みに来るのだ。
+
+なぜなら、朝に私が起きるとき、
+空には星が一つも残っていないから。
+貴婦人はそれらをみな摘み取り、落としていった、
+町の牧場のなかへと。
+
+### 解説
+主題は、夜空の星々を白いヒナギクに、月をその花を摘みに来る貴婦人に見立てた、子供のための愛らしい幻想詩です。
+天文テーマとの関係は中心的で、星と月という天体が全篇の主役となり、夜から朝への天空の移ろいが物語の骨格をなしています。
+「夜の牧場に点々と咲く白いヒナギク」としての星々、星を摘んで町に落としてゆく月の貴婦人といったイメージが印象的です。
+星が朝に消える理由を「月が摘み取って地上の花にした」と説く、素朴で一貫したメタファーの楽しさが読みどころで、星を花に喩える発想は植物詩とも美しく響き合います。
+
+---
+
+## The Light of Stars / 星々の光
+- Theme: Astronomy
+- Author: Henry Wadsworth Longfellow
+- Author Years: 1807–1882
+- Public Domain Reason: 作者は1882年に死去しており、著作権保護期間（死後70年）はとうに満了している。作品（『Voices of the Night』1839年）も米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.gutenberg.org/cache/epub/1365/pg1365.txt
+- Added Date: 2026-06-30
+
+### 原文
+The night is come, but not too soon;
+  And sinking silently,
+All silently, the little moon
+  Drops down behind the sky.
+
+There is no light in earth or heaven
+  But the cold light of stars;
+And the first watch of night is given
+  To the red planet Mars.
+
+Is it the tender star of love?
+  The star of love and dreams?
+O no! from that blue tent above,
+  A hero's armor gleams.
+
+And earnest thoughts within me rise,
+  When I behold afar,
+Suspended in the evening skies,
+  The shield of that red star.
+
+O star of strength! I see thee stand
+  And smile upon my pain;
+Thou beckonest with thy mailed hand,
+  And I am strong again.
+
+Within my breast there is no light
+  But the cold light of stars;
+I give the first watch of the night
+  To the red planet Mars.
+
+The star of the unconquered will,
+  He rises in my breast,
+Serene, and resolute, and still,
+  And calm, and self-possessed.
+
+And thou, too, whosoe'er thou art,
+  That readest this brief psalm,
+As one by one thy hopes depart,
+  Be resolute and calm.
+
+O fear not in a world like this,
+  And thou shalt know erelong,
+Know how sublime a thing it is
+  To suffer and be strong.
+
+### 日本語訳
+夜が来た、だが早すぎはしない。
+　そして音もなく沈み、
+すべて静かに、小さな月が
+　空の彼方へと落ちてゆく。
+
+地にも天にも光はない、
+　ただ星々の冷たい光のほかは。
+そして夜の最初の見張りは
+　赤い惑星マルス（火星）に委ねられる。
+
+それは愛のやさしい星なのか？
+　愛と夢の星なのか？
+いや違う！ あの蒼い天幕の上から、
+　一人の英雄の鎧がきらめいているのだ。
+
+そして真摯な思いが私のうちに湧きあがる、
+　遠くを見やるとき、
+夕べの空に懸かる
+　あの赤い星の盾を。
+
+おお、力の星よ！ おまえが立ち、
+　私の痛みに微笑みかけるのが見える。
+おまえは鎧の手で招き、
+　私は再び強くなる。
+
+私の胸のうちにも光はない、
+　ただ星々の冷たい光のほかは。
+私は夜の最初の見張りを
+　赤い惑星マルスに捧げる。
+
+不屈の意志の星が、
+　私の胸のうちに昇る、
+静かで、決然として、揺るがず、
+　穏やかに、おのれを保って。
+
+そしておまえもまた、誰であろうと、
+　この短い讃歌を読む者よ、
+おまえの希望が一つまた一つと去ってゆくとき、
+　決然と、穏やかにあれ。
+
+おお、このような世にあっても恐れるな、
+　そしておまえはやがて知るだろう、
+いかに崇高なことであるかを、
+　苦しみ、そして強くあることが。
+
+### 解説
+主題は、夜空に赤く輝く惑星マルス（火星＝軍神マルス）を「力の星」「不屈の意志の星」と仰ぎ、人生の苦難に耐える勇気を歌う詩です。詩人自身が「第二の人生讃歌」と呼びました。
+天文テーマとの関係は中心的で、沈む月、冷たい星の光、そして赤い火星という天体が全篇の中心に据えられています。
+「夜の最初の見張りを火星に委ねる」という反復句、英雄の鎧・盾としての火星、「鎧の手で招く」星の擬人化といったイメージが印象的です。
+天体観察を内面の強さへと転じ、最終連で読者に向かって「苦しみ、そして強くあれ」と呼びかける構成が読みどころで、火星＝マルス神話を生かした堂々たる調子が一篇を貫きます。
+
+---
+
+## At a Lunar Eclipse / 月食に際して
+- Theme: Astronomy
+- Author: Thomas Hardy
+- Author Years: 1840–1928
+- Public Domain Reason: 作者は1928年に死去しており、著作権保護期間（死後70年）は1998年に満了している。作品（詩集『Poems of the Past and the Present』1901年）も米国でも1929年以前刊行のパブリックドメイン。
+- Source URL: https://www.gutenberg.org/files/3168/3168-h/3168-h.htm
+- Added Date: 2026-06-30
+
+### 原文
+Thy shadow, Earth, from Pole to Central Sea,
+Now steals along upon the Moon's meek shine
+In even monochrome and curving line
+Of imperturbable serenity.
+
+How shall I link such sun-cast symmetry
+With the torn troubled form I know as thine,
+That profile, placid as a brow divine,
+With continents of moil and misery?
+
+And can immense Mortality but throw
+So small a shade, and Heaven's high human scheme
+Be hemmed within the coasts yon arc implies?
+
+Is such the stellar gauge of earthly show,
+Nation at war with nation, brains that teem,
+Heroes, and women fairer than the skies?
+
+### 日本語訳
+大地よ、おまえの影は、極から中央の海まで、
+いま月の柔らかな輝きの上を忍び進んでゆく、
+均一なモノクロームと、弧を描く線をなして、
+動じることのない静謐のうちに。
+
+どうして私は、この陽の投げかける整然たる対称を、
+私の知るおまえの、引き裂かれ乱れた姿と――
+神々しい額のように穏やかなあの横顔と、
+苦役と悲惨の大陸とを、結びつけられようか。
+
+そして、巨大な「死すべき人類」が投げかける影が、
+これほど小さくありうるのか。天の高き人間の営みが、
+あの弧の示す岸辺の内に閉じこめられうるのか。
+
+これが地上のさまざまの出来事を測る天の物差しなのか――
+国が国と戦い、無数の思念がひしめき、
+英雄たち、そして空よりも美しい女たちの、その営みを。
+
+### 解説
+主題は、月食を観察し、地球の影が静かに月面を覆う天文現象と、地上の人間世界の混乱・悲惨・営みの大きさとを対比して、人間存在のちっぽけさを問うソネットです。
+天文テーマとの関係は中心的で、月食という天体現象そのものが詩の対象であり、月面を覆ってゆく地球の影が中心イメージとなっています。
+月面を「忍び進む」地球の影、「神々しい額のように穏やかな横顔」としての月、人類が投げかける「これほど小さな影」という逆説的なイメージが印象的です。
+静かな天体現象から、戦争・英雄・美といった人間の壮大な営みが宇宙的には微小でしかないという省察へと展開する後半の問いかけの畳みかけが読みどころで、ハーディらしい宇宙的懐疑が結晶した一篇です。
