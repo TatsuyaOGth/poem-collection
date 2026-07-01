@@ -814,5 +814,79 @@
     "reason": "植物テーマ・パブリックドメイン（作者1799–1888）ともに満たすが、末尾の反復連（第1連のリフレイン）の有無など出典間で全文の異同があり、確定的な全文を一意に定めきれなかったため今回は不採用。",
     "source_url": "https://allpoetry.com/The-Broom-Flower",
     "checked_date": "2026-07-01"
+  },
+  {
+    "title": "To Daisies, not to shut so soon",
+    "author": "Robert Herrick",
+    "normalized_key": "to daisies not to shut so soon|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://englishverse.com/poems/to_daisies_not_to_shut_so_soon",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Wild Flower's Song",
+    "author": "William Blake",
+    "normalized_key": "the wild flowers song|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_wild_flowers_song",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Snowdrop",
+    "author": "Mary Robinson",
+    "normalized_key": "the snowdrop|mary robinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Snowdrop",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Harvest Moon",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "the harvest moon|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/harvest-moon",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "Sonnet: To the Autumnal Moon",
+    "author": "Samuel Taylor Coleridge",
+    "normalized_key": "sonnet to the autumnal moon|samuel taylor coleridge",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://lyrics.lol/artist/777-samuel-taylor-coleridge/lyrics/166787-sonnet-to-the-autumnal-moon",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "While Gazing on the Moon's Light",
+    "author": "Thomas Moore",
+    "normalized_key": "while gazing on the moons light|thomas moore",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://allpoetry.com/While-Gazing-on-the-Moon's-Light",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Firmament",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the firmament|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "天文テーマ・パブリックドメイン（作者1794–1878）ともに満たす候補だが、全8連と長く、複数の取得ソースで本文を一意の確定全文としてクリーンに取得できなかったため今回は不採用。",
+    "source_url": "https://www.litscape.com/author/William_Cullen_Bryant/The_Firmament.html",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Snowdrop",
+    "author": "Anna Laetitia Barbauld",
+    "normalized_key": "the snowdrop|anna laetitia barbauld",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "作者1743–1825でパブリックドメインだが、確認できたのは6行のみで、これが完結した独立作品か長篇の断片かを確定できなかったため、完全性の懸念から不採用（代わりに Mary Robinson の『The Snowdrop』を採用）。",
+    "source_url": "https://inmymindinmyheart.com/2022/11/21/the-snowdrop-anna-laetitia-barbauld/",
+    "checked_date": "2026-07-02"
   }
 ]
