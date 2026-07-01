@@ -322,3 +322,222 @@ That dies on Easter Day.
 
 ### 解説
 A・E・ハウスマンの詩集『シュロップシャーの若者』第29歌。「Lent Lily（四旬節の百合）」とは野生の黄水仙（ラッパズイセン）の英国での古い俗称で、四旬節の頃に咲き、復活祭の頃には散ってしまうことからこう呼ばれる。植物テーマとの関係は明白で、桜草・アネモネ（windflower）・黄水仙という春の野の花々を列挙しながら、なかでも命の短い水仙に焦点を絞ってゆく。読みどころは、明るく軽快な春の摘み草の歌でありながら、その底に「美しいものほど早く死ぬ」というハウスマン特有の無常観が静かに流れている点である。「復活祭の日に死ぬ」という繰り返しは、再生を祝う祝祭日にあえて「死」を重ね、束の間の春を惜しむ哀感を際立たせている。
+
+---
+
+## To Autumn / 秋に寄す
+- Theme: Plant
+- Author: John Keats
+- Author Years: 1795–1821
+- Public Domain Reason: 作者は1821年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も1820年刊行で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://americanliterature.com/author/john-keats/poem/to-autumn
+- Added Date: 2026-07-01
+
+### 原文
+Season of mists and mellow fruitfulness,
+Close bosom-friend of the maturing sun;
+Conspiring with him how to load and bless
+With fruit the vines that round the thatch-eves run;
+To bend with apples the moss'd cottage-trees,
+And fill all fruit with ripeness to the core;
+To swell the gourd, and plump the hazel shells
+With a sweet kernel; to set budding more,
+And still more, later flowers for the bees,
+Until they think warm days will never cease,
+For summer has o'er-brimm'd their clammy cells.
+
+Who hath not seen thee oft amid thy store?
+Sometimes whoever seeks abroad may find
+Thee sitting careless on a granary floor,
+Thy hair soft-lifted by the winnowing wind;
+Or on a half-reap'd furrow sound asleep,
+Drows'd with the fume of poppies, while thy hook
+Spares the next swath and all its twined flowers:
+And sometimes like a gleaner thou dost keep
+Steady thy laden head across a brook;
+Or by a cyder-press, with patient look,
+Thou watchest the last oozings hours by hours.
+
+Where are the songs of Spring? Ay, where are they?
+Think not of them, thou hast thy music too,—
+While barred clouds bloom the soft-dying day,
+And touch the stubble-plains with rosy hue;
+Then in a wailful choir the small gnats mourn
+Among the river sallows, borne aloft
+Or sinking as the light wind lives or dies;
+And full-grown lambs loud bleat from hilly bourn;
+Hedge-crickets sing; and now with treble soft
+The red-breast whistles from a garden-croft;
+And gathering swallows twitter in the skies.
+
+### 日本語訳
+霧ともの静かな豊穣の季節、
+実らせる太陽の親しい胸の友よ。
+太陽と語らい、藁葺きの軒をめぐる蔓に
+どう実を負わせ、恵もうかと企てる。
+苔むした庭木を林檎の重みでたわませ、
+すべての果実を芯まで熟れさせ、
+瓢を膨らませ、榛の殻を
+甘い実で満たし、なおも芽吹かせて、
+蜜蜂のために遅咲きの花をさらに咲かせる。
+蜂たちは暖かな日々が絶えぬと思い込む、
+夏がすでに粘りつく巣房を溢れさせたのだから。
+
+蓄えのただ中に佇む汝を、誰が見なかったろう。
+外を探し求める者は時に見いだす、
+穀倉の床に無造作に腰を下ろし、
+選り分ける風に髪をやさしく揺らす汝を。
+あるいは刈りかけの畝で深く眠り込み、
+罌粟の香に酔い、汝の鎌は
+次のひと薙ぎと絡み合う花々を残しておく。
+また時には落穂拾いのように、
+重い頭をまっすぐ支えて小川を渡り、
+あるいは林檎搾り機のかたわらで辛抱づよく、
+最後のしたたりを時々刻々と見つめる。
+
+春の歌はいずこに。ああ、いずこにあるのか。
+それを思うな、汝には汝の調べがある——
+筋を引く雲が沈みゆく日を花のように染め、
+刈り株の平野を薔薇色に染めるあいだ。
+すると哀しげな合唱で小さな蚋の群れが嘆く、
+川辺の柳のあいだで、軽い風が
+生き、また死ぬにつれて舞い上がり、また沈みながら。
+育ちきった仔羊は丘の境から高く鳴き、
+垣根の蟋蟀は歌い、いまや柔らかな高音で
+駒鳥が庭の一隅から口笛を吹く。
+そして群れ集う燕たちが空でさえずる。
+
+### 解説
+秋の豊穣とその静かな成熟から緩やかな衰えへと移りゆく時間を、三つの連で描いた頌歌。第一連は果実・瓢・榛・遅咲きの花と蜜蜂という植物の実りのイメージに満ち、第二連は擬人化された「秋」が収穫の情景の中に佇む姿を、第三連は刈り株の野と虫の声のうちに秋の音楽を聴き取る。植物テーマとしては、熟れる果実や花々そのものが主題であり、生命の充溢とその終わりを植物の営みに託して歌う点が核心である。「筋を引く雲が沈みゆく日を花のように染める（barred clouds bloom the soft-dying day）」など、視覚と音のイメージが緻密に織り上げられており、嘆きに沈まず秋自身の調べを肯定する結びが読みどころ。
+
+---
+
+## Spring / 春
+- Theme: Plant
+- Author: Gerard Manley Hopkins
+- Author Years: 1844–1889
+- Public Domain Reason: 作者は1889年に死去しており、著作権保護期間（死後70年）は満了。作品は1918年刊行の詩集『Poems of Gerard Manley Hopkins』所収で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/Poems_of_Gerard_Manley_Hopkins/Spring
+- Added Date: 2026-07-01
+
+### 原文
+Nothing is so beautiful as spring—
+When weeds, in wheels, shoot long and lovely and lush;
+Thrush's eggs look little low heavens, and thrush
+Through the echoing timber does so rinse and wring
+The ear, it strikes like lightnings to hear him sing;
+The glassy peartree leaves and blooms, they brush
+The descending blue; that blue is all in a rush
+With richness; the racing lambs too have fair their fling.
+
+What is all this juice and all this joy?
+A strain of the earth's sweet being in the beginning
+In Eden garden.—Have, get, before it cloy,
+Before it cloud, Christ, lord, and sour with sinning,
+Innocent mind and Mayday in girl and boy,
+Most, O maid's child, thy choice and worthy the winning.
+
+### 日本語訳
+春ほど美しいものはない——
+雑草が渦を巻いて、長く、愛らしく、みずみずしく萌え出るとき。
+鶫の卵は小さな低い天のように見え、鶫は
+反響する木立を通して、耳をすすぎ絞るように鳴く。
+その歌を聞けば、稲妻のように胸を打つ。
+つやめく梨の木は葉と花を茂らせ、
+降りてくる青空をそっと掃く。その青は
+豊かさに満ちてほとばしり、駆ける仔羊もまた思うさま跳ねまわる。
+
+このみずみずしい精気と歓びのすべては、何なのか。
+それは大地の甘美な存在の、始原における一節——
+エデンの園にあったもの。得よ、掴め、それが飽きに変わる前に、
+曇り、腐り、罪に酸っぱくなってしまう前に、キリスト、主よ。
+少女と少年のうちにある無垢な心と五月祭を、
+何よりも、おお処女の御子よ、汝の選びとし、勝ち取るに値するものとせよ。
+
+### 解説
+イタリア式ソネットの形式をとりつつ、ホプキンズ独特の「跳ねるリズム（sprung rhythm）」と頭韻で春の生命力を歌い上げた作品。前半八行は、萌え出る雑草、鶫の卵と歌声、花咲く梨の木、駆ける仔羊といった春の情景を畳みかけ、植物テーマとしては噴き出す草木の勢いそのものが主役となっている。後半六行では、その溢れる生命力を楽園の無垢へと結びつけ、汚れる前の純真さを保つよう祈る宗教的転回を見せる。「雑草が渦を巻いて萌える（weeds, in wheels, shoot long and lovely and lush）」の音の躍動や、鶫の卵を「小さな低い天」に喩える鮮烈なイメージが読みどころ。
+
+---
+
+## The Death of the Flowers / 花の死
+- Theme: Plant
+- Author: William Cullen Bryant
+- Author Years: 1794–1878
+- Public Domain Reason: 作者は1878年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も1825年発表で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://americanliterature.com/author/william-cullen-bryant/poem/the-death-of-the-flowers
+- Added Date: 2026-07-01
+
+### 原文
+The melancholy days are come, the saddest of the year,
+Of wailing winds, and naked woods, and meadows brown and sere.
+Heaped in the hollows of the grove, the autumn leaves lie dead;
+They rustle to the eddying gust, and to the rabbit's tread;
+The robin and the wren are flown, and from the shrubs the jay,
+And from the wood-top calls the crow through all the gloomy day.
+
+Where are the flowers, the fair young flowers, that lately sprang and stood
+In brighter light and softer airs, a beauteous sisterhood?
+Alas! they all are in their graves, the gentle race of flowers
+Are lying in their lowly beds, with the fair and good of ours.
+The rain is falling where they lie, but the cold November rain
+Calls not from out the gloomy earth the lovely ones again.
+
+The wind-flower and the violet, they perished long ago,
+And the brier-rose and the orchis died amid the summer glow;
+But on the hills the golden-rod, and the aster in the wood,
+And the yellow sun-flower by the brook in autumn beauty stood,
+Till fell the frost from the clear cold heaven, as falls the plague on men,
+And the brightness of their smile was gone, from upland, glade, and glen.
+
+And now, when comes the calm mild day, as still such days will come,
+To call the squirrel and the bee from out their winter home;
+When the sound of dropping nuts is heard, though all the trees are still,
+And twinkle in the smoky light the waters of the rill,
+The south wind searches for the flowers whose fragrance late he bore,
+And sighs to find them in the wood and by the stream no more.
+
+And then I think of one who in her youthful beauty died,
+The fair meek blossom that grew up and faded by my side.
+In the cold moist earth we laid her, when the forests cast the leaf,
+And we wept that one so lovely should have a life so brief:
+Yet not unmeet it was that one, like that young friend of ours,
+So gentle and so beautiful, should perish with the flowers.
+
+### 日本語訳
+物憂い日々がやってきた、一年でもっとも悲しい日々が、
+すすり泣く風、裸の森、そして茶色く枯れた牧場の日々が。
+木立のくぼみに山と積もり、秋の落葉は死んで横たわる。
+渦巻く突風に、また兎の足音にかさかさと鳴りながら。
+駒鳥も鷦鷯も飛び去り、灌木からは橿鳥が去り、
+暗い一日じゅう、梢からは鴉が鳴いている。
+
+花々はいずこに、あの美しい若い花々は、つい先ごろ萌え出て立っていた、
+より明るい光とやわらかな大気のなか、麗しい姉妹たちよ。
+ああ、みな墓のなかにある、優しい花の一族は、
+低い床に横たわっている、私たちの善き美しい者たちとともに。
+花の眠る上に雨は降るが、冷たい十一月の雨は
+陰鬱な大地から、あの愛らしい者たちを再び呼び出しはしない。
+
+秋咲きの銀蓮花とすみれは、とうの昔に枯れ果て、
+野薔薇と蘭は夏の輝きのなかで死んだ。
+けれど丘には秋の麒麟草が、林には紫菀が、
+小川のほとりには黄のひまわりが、秋の美しさのうちに立っていた。
+澄んで冷たい天から霜が下りるまで、人に疫病が下るように。
+そして高地にも空き地にも谷にも、その微笑みの輝きは消え去った。
+
+いまや、穏やかで和やかな日がやってくると、なおもそんな日は来るものだが、
+栗鼠と蜜蜂を冬ごもりの家から呼び出すために、
+木々はみな静まっているのに、木の実の落ちる音が聞こえ、
+煙るような光のなかで小川の水がきらめくと、
+南風は、さきごろ運んだあの花々の香りを探し求め、
+森にも流れのほとりにも、もう見いだせぬと嘆息する。
+
+そのとき私は思う、若い盛りの美しさのうちに死んだひとを、
+私のかたわらで育ち、そして萎れていった、麗しくつつましい花を。
+冷たく湿った土に私たちは彼女を横たえた、森が葉を落とすころに、
+そしてこれほど愛らしい者が、これほど短い命であることを嘆いて泣いた。
+けれど、それはふさわしからぬことではなかった、あの若き友のように、
+かくも優しくかくも美しい者が、花々とともに滅びゆくのは。
+
+### 解説
+晩秋、霜に打たれて枯れゆく野の花々を悼み、そこに早世した若い女性の面影を重ねた哀歌。植物テーマとしては、銀蓮花・すみれ・野薔薇・蘭・麒麟草・紫菀・ひまわりといった具体的な草花が次々に名指され、その萌え出でから枯死までの循環が詩の骨格をなす。花々を「麗しい姉妹たち（a beauteous sisterhood）」と擬人化し、その死を人の死と静かに交差させる構図が印象的である。冒頭の「物憂い日々がやってきた、一年でもっとも悲しい日々が」という重い調べから、最終連で個人的な喪失へと収斂していく流れが読みどころで、自然の枯死を人の生の儚さの鏡とする19世紀アメリカ抒情詩の典型を示す。
