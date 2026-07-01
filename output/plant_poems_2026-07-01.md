@@ -541,3 +541,168 @@ So gentle and so beautiful, should perish with the flowers.
 
 ### 解説
 晩秋、霜に打たれて枯れゆく野の花々を悼み、そこに早世した若い女性の面影を重ねた哀歌。植物テーマとしては、銀蓮花・すみれ・野薔薇・蘭・麒麟草・紫菀・ひまわりといった具体的な草花が次々に名指され、その萌え出でから枯死までの循環が詩の骨格をなす。花々を「麗しい姉妹たち（a beauteous sisterhood）」と擬人化し、その死を人の死と静かに交差させる構図が印象的である。冒頭の「物憂い日々がやってきた、一年でもっとも悲しい日々が」という重い調べから、最終連で個人的な喪失へと収斂していく流れが読みどころで、自然の枯死を人の生の儚さの鏡とする19世紀アメリカ抒情詩の典型を示す。
+
+---
+
+## To a Snowdrop / スノードロップに寄す
+- Theme: Plant
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も1819年発表で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://poemanalysis.com/william-wordsworth/to-a-snowdrop/
+- Added Date: 2026-07-01
+
+### 原文
+Lone Flower, hemmed in with snows and white as they
+But hardier far, once more I see thee bend
+Thy forehead, as if fearful to offend,
+Like an unbidden guest. Though day by day,
+Storms, sallying from the mountain-tops, waylay
+The rising sun, and on the plains descend;
+Yet art thou welcome, welcome as a friend
+Whose zeal outruns his promise! Blue-eyed May
+Shall soon behold this border thickly set
+With bright jonquils, their odours lavishing
+On the soft west-wind and his frolic peers;
+Nor will I then thy modest grace forget,
+Chaste Snowdrop, venturous harbinger of Spring,
+And pensive monitor of fleeting years!
+
+### 日本語訳
+孤独な花よ、雪に囲まれ、雪のように白く、
+それでいてはるかに強く、私はふたたび見る、汝が
+額をかしげるさまを、まるで人を煩わせるのを恐れるかのように、
+招かれざる客のように。日ごとに
+嵐が山の頂から打って出て、
+のぼる朝日を待ち伏せ、平野へと降りてくるとしても、
+それでも汝は歓迎される、友のように歓迎される、
+その熱意が約束を追い越してしまう友のように。青い瞳の五月が
+まもなくこの花壇を、鮮やかな黄水仙で
+びっしりと彩り、その香りを惜しみなく
+やわらかな西風とその陽気な仲間たちに振りまくだろう。
+そのときも私は、汝のつつましい優雅さを忘れはしまい、
+清らかなスノードロップよ、春を告げる勇敢な先触れよ、
+そして過ぎゆく歳月を静かに戒める者よ。
+
+### 解説
+早春、まだ雪の残るなかに真っ先に咲くスノードロップ（待雪草）を讃えたペトラルカ式ソネット。植物テーマとしては、雪に囲まれてなお咲く一輪の花そのものが主題であり、その慎ましくも強靭な姿が中心に据えられている。「額をかしげる（bend thy forehead）」というように花を人になぞらえ、うつむき加減に咲く様子を「招かれざる客」の遠慮になぞらえる擬人化が印象的である。やがて訪れる五月の黄水仙の華やぎを予告しつつ、この先駆けの花を「春を告げる勇敢な先触れ」「過ぎゆく歳月を静かに戒める者」と結ぶ二重の把握が読みどころで、季節のめぐりと人生の時間とを重ね合わせている。
+
+---
+
+## Four-Leaf Clover / 四つ葉のクローバー
+- Theme: Plant
+- Author: Ella Higginson
+- Author Years: 1862–1940
+- Public Domain Reason: 作品は1890年に雑誌 West Shore で発表され、詩集『When the Birds Go North Again』(1898) 等に収録された1929年以前刊行の作品で、米国パブリックドメイン。作者は1940年に死去しており、死後70年（2010年満了）の基準でもパブリックドメイン。
+- Source URL: https://poets.org/poem/four-leaf-clover
+- Added Date: 2026-07-01
+
+### 原文
+I know a place where the sun is like gold,
+    And the cherry blooms burst with snow,
+And down underneath is the loveliest nook,
+    Where the four-leaf clovers grow.
+
+One leaf is for hope, and one is for faith,
+    And one is for love, you know,
+And God put another in for luck—
+    If you search, you will find where they grow.
+
+But you must have hope, and you must have faith,
+    You must love and be strong—and so—
+If you work, if you wait, you will find the place
+    Where the four-leaf clovers grow.
+
+### 日本語訳
+私は知っている、太陽が黄金のようにかがやく場所を、
+　　桜の花が雪のようにぱっと咲きこぼれ、
+その下にはこのうえなく愛らしい片隅がある、
+　　四つ葉のクローバーの生えるところが。
+
+一枚の葉は希望のため、一枚は信仰のため、
+　　そして一枚は愛のため、ご存じのとおり、
+神さまはもう一枚を幸運のために添えてくださった——
+　　探しさえすれば、その生えるところが見つかるだろう。
+
+でも、あなたは希望を持たねばならない、信仰を持たねばならない、
+　　愛し、強くあらねばならない——そうして——
+働き、待つならば、あなたはきっと見つけるだろう、
+　　四つ葉のクローバーの生えるその場所を。
+
+### 解説
+めったに見つからない四つ葉のクローバーを探すことに、人生の希望・信仰・愛・幸運を託した平明で親しみやすい詩。植物テーマとしては、四つ葉のクローバーという具体的な草そのものが全篇の主役であり、その四枚の葉に象徴的な意味を与える着想が核心である。黄金の太陽、雪のように咲く桜、地面の愛らしい片隅といった明るいイメージで理想郷めいた場所を描き出し、最終連で「探し・働き・待て」と読み手に呼びかけて幸運が努力の先にあることを示す。ヒギンソンの代表作として広く愛唱され（しばしば誤ってディキンソン作とされるほど）、素朴な希望の歌として読みどころのある小品である。
+
+---
+
+## The Small Celandine / 小さなクサノオウ（ヒメリュウキンカ）
+- Theme: Plant
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も1804年作・1807年発表で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_2/The_small_Celandine
+- Added Date: 2026-07-01
+
+### 原文
+There is a Flower, the Lesser Celandine,
+That shrinks, like many more, from cold and rain;
+And, the first moment that the sun may shine,
+Bright as the sun itself, 'tis out again!
+
+When hailstones have been falling, swarm on swarm,
+Or blasts the green field and the trees distress'd,
+Oft have I seen it muffled up from harm,
+In close self-shelter, like a Thing at rest.
+
+But lately, one rough day, this Flower I pass'd,
+And recognized it, though an alter'd Form,
+Now standing forth an offering to the Blast,
+And buffeted at will by Rain and Storm.
+
+I stopp'd, and said with inly-muttered voice,
+"It doth not love the shower, nor seek the cold;
+This neither is its courage nor its choice,
+But its necessity in being old.
+
+"The sunshine may not bless it, nor the dew;
+It cannot help itself in its decay;
+Stiff in its members, withered, changed of hue."
+And, in my spleen, I smiled that it was grey.
+
+To be a Prodigal's Favorite—then, worse truth,
+A Miser's Pensioner—behold our lot!
+O Man! that from thy fair and shining youth
+Age might but take the things Youth needed not!
+
+### 日本語訳
+ひとつの花がある、小さなヒメリュウキンカ、
+ほかの多くの花と同じく、寒さと雨に身を縮める。
+そして、太陽が射しそめる最初の瞬間には、
+太陽そのもののように輝いて、また花開く。
+
+霰が群れをなして次々に降りしきったとき、
+あるいは突風が緑の野を打ち、木々を苦しめたとき、
+私はしばしば見た、この花が害から身を包み、
+固く自らを閉ざして、憩う者のように潜んでいるのを。
+
+だが最近、ある荒れた日、私はこの花のそばを通り、
+姿は変わっていたけれど、それと見分けた。
+いまや突風に身を差し出すように立ちつくし、
+雨と嵐にほしいままに打たれていた。
+
+私は立ちどまり、心のうちでつぶやくように言った、
+「これは雨を好むのでも、寒さを求めるのでもない。
+これはこの花の勇気でも選びでもなく、
+ただ老いてしまったがゆえの、避けがたいさだめなのだ。
+
+日の光もこの花を祝福せず、露も潤さない。
+おのれの衰えを、どうすることもできない。
+節々はこわばり、しおれ、色も変わってしまった。」
+そして私は、腹立たしさのうちに、その花の灰色になったのを見て微笑んだ。
+
+蕩児の寵児となり——そしてなお悪いことに、
+守銭奴の年金受給者となる——見よ、これがわれらのさだめ。
+おお、人よ。汝の美しく輝かしい若さから、
+老いがただ、若さには要らなかったものだけを奪ってくれたなら。
+
+### 解説
+早春に真っ先に咲き、日が射せば開き寒さには身を縮めるヒメリュウキンカ（小さなクサノオウ）を三たび詠んだ連作の一篇で、本作はその「老い」を見つめる後日譚にあたる。植物テーマとしては、天候に応じて開閉するこの野の花の生態そのものが観察の対象であり、かつては陽光に応えて輝いた花が、老いてもはや身を守るすべもなく嵐にさらされる姿を描く。花の衰えを人間の老いと重ね、若さのうちに得たものを老いが奪っていく理不尽を嘆く結びが核心である。かつて溌溂と咲いた花への賛美（別の二篇）と対をなし、自然観察から人生の省察へと転じるワーズワスらしい構成が読みどころ。

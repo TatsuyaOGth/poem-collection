@@ -357,3 +357,150 @@ So I can never go!
 
 ### 解説
 月と星という天体を「あなたたち」と親しく呼びかけ、その途方もない遠さを、より届かぬ「彼（He）」への思いへと重ねてゆく詩。天文テーマとしては、月・星・天空（firmament）を主要なモチーフに据え、天体間の距離を「キュビト」という尺度で測るなど、宇宙的な遠近の感覚が全篇を貫いている。雲雀のボンネットや羚羊の銀の長靴・鐙を「借りて」天へ駆け上がろうという奇想と、それでも決して届かぬ存在があるという反転が核心で、遠い天体すら越えていけそうな想像力と、越えられぬ隔たりの痛切さとが対をなす。ダッシュと大文字を多用するディキンソン独特の息づかいのなかに、憧れと諦念を凝縮した小品である。
+
+---
+
+## Lucifer in Starlight / 星明かりのルシファー
+- Theme: Astronomy
+- Author: George Meredith
+- Author Years: 1828–1909
+- Public Domain Reason: 作者は1909年に死去しており、著作権保護期間（死後70年）は満了。作品も1883年発表で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://www.poetryfoundation.org/poems/44701/lucifer-in-starlight
+- Added Date: 2026-07-01
+
+### 原文
+On a starred night Prince Lucifer uprose.
+Tired of his dark dominion swung the fiend
+Above the rolling ball in cloud part screened,
+Where sinners hugged their spectre of repose.
+Poor prey to his hot fit of pride were those.
+And now upon his western wing he leaned,
+Now his huge bulk o'er Afric's sands careened,
+Now the black planet shadowed Arctic snows.
+Soaring through wider zones that pricked his scars
+With memory of the old revolt from Awe,
+He reached a middle height, and at the stars,
+Which are the brain of heaven, he looked, and sank.
+Around the ancient track marched, rank on rank,
+The army of unalterable law.
+
+### 日本語訳
+星のまたたく夜、ルシファー公は身を起こした。
+おのれの暗き支配に倦み、その魔王は舞い上がった、
+雲に半ば隠された、転がる球（地球）の上へと、
+罪人たちがまやかしの安らぎを抱きしめているその上へ。
+彼の激しい高慢の発作の、憐れな餌食がその者たちだった。
+そしていま彼は西へ向かう翼にもたれ、
+いまその巨大な体をアフリカの砂漠の上に傾け、
+いまその黒き惑星は北極の雪に影を落とした。
+より広い天の帯を舞い上がりながら、その傷痕は
+かつての「畏れ」への反逆の記憶に疼いた。
+彼はある中ほどの高みに達し、そして星々を——
+天の頭脳ともいうべき星々を見上げ、そして沈み落ちた。
+古の軌道をめぐって、隊列を組み、列また列と行進していた、
+変わることなき法則の軍勢が。
+
+### 解説
+堕天使ルシファーが暗黒の支配に倦んで地球の上空へ舞い上がり、天の高みで整然と運行する星々を見上げて、みずからの反逆の無力を悟り墜ちてゆくさまを描いた十四行詩（ソネット）。天文テーマとしては、星空・惑星・天の帯（zones）・「天の頭脳」たる星々といった宇宙的スケールのイメージが全篇を貫き、天体の運行が主要な舞台となっている。白眉は結びの二行——星々を「隊列を組んで行進する変わることなき法則の軍勢（The army of unalterable law）」と捉え、天体力学の秩序そのものを神的な不変の法として提示する点である。魔王の傲慢と、それを圧する宇宙の冷厳な秩序との対比が読みどころで、科学時代の宇宙観と神話的想像力とを融合させた名品として名高い。
+
+---
+
+## The Evening Star / 宵の明星
+- Theme: Astronomy
+- Author: Henry Wadsworth Longfellow
+- Author Years: 1807–1882
+- Public Domain Reason: 作者は1882年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も詩集『The Belfry of Bruges and Other Poems』(1846) 所収で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://www.hwlongfellow.org/poems_poem.php?pid=69
+- Added Date: 2026-07-01
+
+### 原文
+Lo! in the painted oriel of the West,
+Whose panes the sunken sun incarnadines,
+Like a fair lady at her casement, shines
+The evening star, the star of love and rest!
+
+And then anon she doth herself divest
+Of all her radiant garments, and reclines
+Behind the sombre screen of yonder pines,
+With slumber and soft dreams of love oppressed.
+
+O my beloved, my sweet Hesperus!
+My morning and my evening star of love!
+My best and gentlest lady! even thus,
+As that fair planet in the sky above,
+Dost thou retire unto thy rest at night,
+And from thy darkened window fades the light.
+
+### 日本語訳
+見よ、西空という彩られた出窓に、
+その窓ガラスを、沈んだ太陽が緋色に染めるなか、
+窓辺に立つ麗しい貴婦人のように、輝いている、
+宵の明星が、愛と憩いの星が。
+
+やがてまもなく、彼女はおのれの
+かがやく衣をすべて脱ぎ捨て、
+かなたの松の暗い帳のうしろに身を横たえる、
+まどろみと、愛のやわらかな夢とに満たされて。
+
+おお、わが愛する人よ、わが甘きヘスペロスよ！
+わが明けの星、わが宵の星、愛の星よ！
+わがもっとも善く、もっともやさしき貴婦人よ！ ちょうどそのように、
+空高くのあの美しい惑星のように、
+汝も夜には憩いへと退き、
+そして汝の暗くなった窓から、光は消えてゆく。
+
+### 解説
+西空に輝く宵の明星（金星＝ヘスペロス）を、窓辺に立ちやがて眠りにつく貴婦人になぞらえ、それをそのまま愛する人への呼びかけへと重ねてゆくソネット。天文テーマとしては、日没後に西空に現れる金星が全篇の中心的な天体として据えられ、「愛と憩いの星」「空高くのあの美しい惑星」とその運行が丹念に描かれる。暮れゆく西空を「彩られた出窓」に、沈む夕日を窓を緋色に染める光に見立てる絵画的な導入が鮮やかで、星が衣を脱いで松のかげに沈む＝人が窓辺の灯を消して眠りにつくという比喩の二重写しが白眉。天体の運行と人の営みとを優雅に重ね合わせた、ロングフェローらしい端正な抒情が読みどころ。
+
+---
+
+## The Moon / 月
+- Theme: Astronomy
+- Author: Henry David Thoreau
+- Author Years: 1817–1862
+- Public Domain Reason: 作者は1862年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も19世紀の詩で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://www.thoreau-online.org/the-moon.html
+- Added Date: 2026-07-01
+
+### 原文
+Time wears her not; she doth his chariot guide;
+Mortality below her orb is placed.
+                                        —Raleigh
+
+The full-orbed moon with unchanged ray
+Mounts up the eastern sky,
+Not doomed to these short nights for aye,
+But shining steadily.
+
+She does not wane, but my fortune,
+Which her rays do not bless,
+My wayward path declineth soon,
+But she shines not the less.
+
+And if she faintly glimmers here,
+And paled is her light,
+Yet alway in her proper sphere
+She's mistress of the night.
+
+### 日本語訳
+時は彼女を古びさせない。彼女こそ時の戦車を導く者。
+死すべき定めは、彼女の球（天体）の下に置かれている。
+　　　　　　　　　　　　　　　　　　　　　　——ローリー
+
+満ち足りた月は、変わらぬ光をたたえて
+東の空へとのぼってゆく、
+この短い夜々に永久に縛られることなく、
+ただ揺るぎなく輝きながら。
+
+彼女は欠けはしない、だが私の運命は——
+その光の祝福を受けぬ私の運命は、
+気ままな私の道は、じきに傾いてゆく、
+それでも彼女は、少しも変わらず輝いている。
+
+そしてたとえこの地上で、彼女がかすかにしか瞬かず、
+その光が青ざめて見えようとも、
+なお彼女は、そのふさわしき天球にあって
+夜を統べる女王なのだ。
+
+### 解説
+夜空にのぼる満月の不変の輝きを、移ろいゆく人の運命と対比させた小品。冒頭にウォルター・ローリーの詩句を掲げ、時に古びることなく「時の戦車」を導く月＝死すべき人間界を超えた存在という主題を先取りする。天文テーマとしては、東天にのぼり、満ち欠けを繰り返しながらも「そのふさわしき天球にあって夜を統べる女王」たる月そのものが全篇の中心である。地上からは青ざめてかすかに見えることがあっても、月は本来の天球では変わらず輝いているという把握が核心で、天体の恒常性と人の運命の下降とを鮮やかに対置する。ソローの透徹した自然観照がうかがえる点が読みどころ。
