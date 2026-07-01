@@ -190,3 +190,170 @@ To the veil of whose brow your lamps are dim."
 
 ### 解説
 アメリカ詩の父と称されるウィリアム・カレン・ブライアントが、天地創造の瞬間を壮大な合唱劇として描いた頌歌（しょうか）。主題は、神の息吹によって闇から生み出された星々が、生まれたばかりの宇宙を歓喜とともに駆けめぐる「創造の朝」の情景である。天文テーマとの関係はきわめて濃密で、太陽・惑星・自転する極・無限の蒼穹・流星のように疾走する天体群といった天文学的イメージが全篇を埋め尽くす。読みどころは、星々自身が一人称で歌う大胆な趣向にある。彼らは自らを擬人化し、自転する惑星や、緑の島と白い雲を抱く世界、昼夜を分かつ「夜の影の円錐（地球の影）」までも生き生きと描写する。科学的な宇宙像と讃美歌的な敬虔さが融合し、最終連で全天体の舞踏が創造主の「目に見える微笑」へと収斂してゆく構成は、19世紀ロマン主義の宇宙観を雄大に体現している。
+
+---
+
+## Canopus / カノープス
+- Theme: Astronomy
+- Author: Bert Leston Taylor
+- Author Years: 1866–1921
+- Public Domain Reason: 作者は1921年に死去しており、著作権保護期間（死後70年）は満了。作品も1910年代末〜1920年代初頭発表で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://www.bartleby.com/104/39.html
+- Added Date: 2026-07-01
+
+### 原文
+When quacks with pills political would dope us,
+When politics absorbs the livelong day,
+I like to think about that star Canopus,
+So far, so far away.
+
+Greatest of visioned suns, they say who list 'em;
+To weigh it science almost must despair.
+Its shell would hold our whole dinged solar system,
+Nor even know 'twas there.
+
+When temporary chairmen utter speeches,
+And frenzied henchmen howl their battle hymns,
+My thoughts float out across the cosmic reaches
+To where Canopus swims.
+
+When men are calling names and making faces,
+And all the world's ajangle and ajar,
+I meditate on interstellar spaces
+And smoke a mild seegar.
+
+For after one has had about a week of
+The argument of friends as well as foes,
+A star that has no parallax to speak of
+Conduces to repose.
+
+### 日本語訳
+政治好きの藪医者どもが処方薬でこちらを痺れさせようとするとき、
+政治が一日じゅうを飲み込んでしまうとき、
+私はあの星カノープスに思いを馳せるのが好きだ、
+はるか、はるか遠くの星に。
+
+その星に詳しい者たちが言うには、見えるかぎり最も大きな太陽。
+それを量ろうとすれば、科学もほとんど匙を投げる。
+その殻はわれらの太陽系まるごとを収めてしまい、
+しかもそこにあることにさえ気づくまい。
+
+臨時の議長たちが演説をぶち、
+逆上した子分どもが闘いの賛歌を吠えるとき、
+私の思いは宇宙の広がりを越えて漂い出る、
+カノープスが泳ぐあたりへと。
+
+人々が罵り合い、しかめ面をつくり、
+世界じゅうが騒がしく軋み合うとき、
+私は星と星のあいだの空間に思いを凝らし、
+一本の穏やかな葉巻をくゆらせる。
+
+というのも、味方も敵も含めて
+一週間ほど議論に付き合わされたあとには、
+取り立てて言うほどの視差も持たぬ星こそが、
+安らぎをもたらしてくれるのだから。
+
+### 解説
+喧しい政治論争や人間界のいざこざに倦んだ語り手が、南天でシリウスに次いで明るい巨星カノープスに想いを寄せ、心の安らぎを得るというユーモラスな詩。天文テーマとしては、実在の恒星カノープスを主題に据え、「その殻はわれらの太陽系まるごとを収めてしまう」という巨大さや「視差（parallax）」といった天文学の語彙を巧みに用いている点が明確である。地上の騒々しさと、それに一切関知しない星の悠々たる遠さとを対比させる構成が核で、葉巻をくゆらせながら星間空間に瞑想するという飄々とした結びが読みどころ。新聞コラムニストらしい軽妙な諧謔のうちに、宇宙的なスケール感を差し込んだ小品である。
+
+---
+
+## Aldebaran at Dusk / 黄昏のアルデバラン
+- Theme: Astronomy
+- Author: George Sterling
+- Author Years: 1869–1926
+- Public Domain Reason: 作者は1926年に死去しており、著作権保護期間（死後70年）は満了。作品は詩集『The House of Orchids and Other Poems』（1911年）所収で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: http://www.poetry-archive.com/s/aldebaran_at_dusk.html
+- Added Date: 2026-07-01
+
+### 原文
+Thou art the star for which all evening waits—
+O star of peace, come tenderly and soon
+Nor heed the drowsy and enchanted moon,
+Who dreams in silver at the eastern gates
+Ere yet she brim with light the blue estates
+Abandoned by the eagles of the noon.
+But shine thou swiftly on the darkling dune
+And woodlands where the twilight hesitates.
+
+Above that wide and ruby lake to-West,
+Wherein the sunset waits reluctantly,
+Stir silently the purple wings of Night.
+She stands afar, upholding to her breast,
+As mighty murmurs reach her from the sea,
+Thy lone and everlasting rose of light.
+
+### 日本語訳
+汝こそは、あらゆる夕べが待ち望む星——
+おお、平安の星よ、やさしく、はやく来たれ、
+まどろみ魅せられた月には構うな、
+月は東の門で銀に染まって夢を見ている、
+昼の鷲たちに見捨てられた青き領土を
+その光でなみなみと満たすよりも前に。
+だが汝は、暗みゆく砂丘のうえに、
+そして黄昏がためらう森のうえに、すみやかに輝け。
+
+西方のあの広くルビー色に燃える湖の上、
+そこでは落日が名残り惜しげに佇んでいる、
+その上で「夜」の紫の翼が音もなく動く。
+「夜」ははるか彼方に立ち、その胸に掲げ持つ——
+海から力強いざわめきが届くなか——
+汝のただ一つの、永遠に消えぬ光の薔薇を。
+
+### 解説
+黄昏どきに現れる牡牛座の一等星アルデバランを「平安の星」と呼び、その到来を待ち焦がれる十四行詩（ソネット）。天文テーマとしては、実在の星アルデバランと月とを対比させ、日没から夜への移ろいを天体の運行として描く点が明確である。まどろむ月、昼を支配していた「鷲」に見捨てられた青空、紫の翼をもつ擬人化された「夜」といった荘重なイメージが積み重ねられ、最終行で星そのものを「永遠に消えぬ光の薔薇（everlasting rose of light）」と結晶させる比喩が白眉。スターリングの緻密な形式感覚と絢爛たるイメージが評価された代表的ソネットで、静謐な自然描写のうちに宇宙的な永遠性を漂わせる点が読みどころ。
+
+---
+
+## Ah, Moon — and Star! / ああ、月よ、星よ！
+- Theme: Astronomy
+- Author: Emily Dickinson
+- Author Years: 1830–1886
+- Public Domain Reason: 作者は1886年に死去しており、著作権保護期間（死後70年）はとうに満了。作品も19世紀の詩で、米国でも1929年以前刊行のためパブリックドメイン。
+- Source URL: https://allpoetry.com/Ah-Moon--and-Star!
+- Added Date: 2026-07-01
+
+### 原文
+Ah, Moon — and Star!
+You are very far —
+But were no one
+Farther than you —
+Do you think I'd stop
+For a Firmament —
+Or a Cubit — or so?
+
+I could borrow a Bonnet
+Of the Lark —
+And a Chamois' Silver Boot —
+And a stirrup of an Antelope —
+And be with you — Tonight!
+
+But, Moon, and Star,
+Though you're very far —
+There is one — farther than you —
+He — is more than a firmament — from Me —
+So I can never go!
+
+### 日本語訳
+ああ、月よ——そして星よ！
+あなたたちはとても遠い——
+でも、もしあなたたちより
+遠くにいる者が誰もいないのなら——
+私が立ち止まると思って？
+天空ひとつくらいのために——
+あるいは一キュビト——かそこらのために？
+
+私は雲雀から
+ボンネットを借りることもできる——
+それに羚羊の銀の長靴を——
+それに羚羊の鐙を——
+そうしてあなたたちのもとへ——今宵！
+
+でも、月よ、星よ、
+あなたたちはとても遠いけれど——
+あなたたちよりもっと遠くにいる者がいる——
+彼は——ひとつの天空よりも——私から遠い——
+だから私は、けっして行くことができない！
+
+### 解説
+月と星という天体を「あなたたち」と親しく呼びかけ、その途方もない遠さを、より届かぬ「彼（He）」への思いへと重ねてゆく詩。天文テーマとしては、月・星・天空（firmament）を主要なモチーフに据え、天体間の距離を「キュビト」という尺度で測るなど、宇宙的な遠近の感覚が全篇を貫いている。雲雀のボンネットや羚羊の銀の長靴・鐙を「借りて」天へ駆け上がろうという奇想と、それでも決して届かぬ存在があるという反転が核心で、遠い天体すら越えていけそうな想像力と、越えられぬ隔たりの痛切さとが対をなす。ダッシュと大文字を多用するディキンソン独特の息づかいのなかに、憧れと諦念を凝縮した小品である。

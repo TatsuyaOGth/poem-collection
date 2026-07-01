@@ -666,5 +666,89 @@
     "status": "added",
     "source_url": "https://americanliterature.com/author/william-cullen-bryant/poem/song-of-the-stars",
     "checked_date": "2026-07-01"
+  },
+  {
+    "title": "To Autumn",
+    "author": "John Keats",
+    "normalized_key": "to autumn|john keats",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/john-keats/poem/to-autumn",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Spring",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "spring|gerard manley hopkins",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_of_Gerard_Manley_Hopkins/Spring",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Death of the Flowers",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the death of the flowers|william cullen bryant",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-cullen-bryant/poem/the-death-of-the-flowers",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Canopus",
+    "author": "Bert Leston Taylor",
+    "normalized_key": "canopus|bert leston taylor",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/104/39.html",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Aldebaran at Dusk",
+    "author": "George Sterling",
+    "normalized_key": "aldebaran at dusk|george sterling",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "http://www.poetry-archive.com/s/aldebaran_at_dusk.html",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Ah, Moon — and Star!",
+    "author": "Emily Dickinson",
+    "normalized_key": "ah moon and star|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://allpoetry.com/Ah-Moon--and-Star!",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Buttercups and Daisies",
+    "author": "Mary Howitt",
+    "normalized_key": "buttercups and daisies|mary howitt",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "植物テーマ・パブリックドメイン（作者1799–1888）ともに条件を満たすが、原文の連区分と末尾連（Welcome yellow buttercups…）の有無が出典間で食い違い、確定的な「全文」を一意に定められなかったため今回は不採用。",
+    "source_url": "https://en.wikisource.org/wiki/Poems_That_Every_Child_Should_Know/Buttercups_and_Daisies",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "A Clear Midnight",
+    "author": "Walt Whitman",
+    "normalized_key": "a clear midnight|walt whitman",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "パブリックドメイン（作者1819–1892）だが、天文の語は末尾の \"Night, sleep, death and the stars\" の stars のみで天文テーマの明確性が弱いと判断し、より明確な作品を優先して不採用。",
+    "source_url": "https://poets.org/poem/clear-midnight",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Comet",
+    "author": "Charlotte Smith",
+    "normalized_key": "the comet|charlotte smith",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "Charlotte Smith（1749–1806）作としてこの題の詩を確認できず、原文全文を取得できなかったため不採用。",
+    "source_url": "https://www.eighteenthcenturypoetry.org/works/n22cs.shtml",
+    "checked_date": "2026-07-01"
   }
 ]
