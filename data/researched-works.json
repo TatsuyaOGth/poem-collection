@@ -750,5 +750,69 @@
     "reason": "Charlotte Smith（1749–1806）作としてこの題の詩を確認できず、原文全文を取得できなかったため不採用。",
     "source_url": "https://www.eighteenthcenturypoetry.org/works/n22cs.shtml",
     "checked_date": "2026-07-01"
+  },
+  {
+    "title": "To a Snowdrop",
+    "author": "William Wordsworth",
+    "normalized_key": "to a snowdrop|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poemanalysis.com/william-wordsworth/to-a-snowdrop/",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Four-Leaf Clover",
+    "author": "Ella Higginson",
+    "normalized_key": "fourleaf clover|ella higginson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/four-leaf-clover",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Small Celandine",
+    "author": "William Wordsworth",
+    "normalized_key": "the small celandine|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_2/The_small_Celandine",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "Lucifer in Starlight",
+    "author": "George Meredith",
+    "normalized_key": "lucifer in starlight|george meredith",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/44701/lucifer-in-starlight",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Evening Star",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "the evening star|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.hwlongfellow.org/poems_poem.php?pid=69",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Moon",
+    "author": "Henry David Thoreau",
+    "normalized_key": "the moon|henry david thoreau",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.thoreau-online.org/the-moon.html",
+    "checked_date": "2026-07-01"
+  },
+  {
+    "title": "The Broom Flower",
+    "author": "Mary Howitt",
+    "normalized_key": "the broom flower|mary howitt",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "植物テーマ・パブリックドメイン（作者1799–1888）ともに満たすが、末尾の反復連（第1連のリフレイン）の有無など出典間で全文の異同があり、確定的な全文を一意に定めきれなかったため今回は不採用。",
+    "source_url": "https://allpoetry.com/The-Broom-Flower",
+    "checked_date": "2026-07-01"
   }
 ]
