@@ -888,5 +888,59 @@
     "reason": "作者1743–1825でパブリックドメインだが、確認できたのは6行のみで、これが完結した独立作品か長篇の断片かを確定できなかったため、完全性の懸念から不採用（代わりに Mary Robinson の『The Snowdrop』を採用）。",
     "source_url": "https://inmymindinmyheart.com/2022/11/21/the-snowdrop-anna-laetitia-barbauld/",
     "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Flower",
+    "author": "Alfred Tennyson",
+    "normalized_key": "the flower|alfred tennyson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/alfred-lord-tennyson/poem/the-flower",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "September",
+    "author": "Helen Hunt Jackson",
+    "normalized_key": "september|helen hunt jackson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/helen_hunt_jackson/september.html",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Pumpkin",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the pumpkin|john greenleaf whittier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-pumpkin/",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "In the Wide Awe and Wisdom of the Night",
+    "author": "Charles G.D. Roberts",
+    "normalized_key": "in the wide awe and wisdom of the night|charles gd roberts",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/57102/57102-h/57102-h.htm",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "Winter Stars",
+    "author": "Sara Teasdale",
+    "normalized_key": "winter stars|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/53214/winter-stars-56d2324fcb793",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Starre",
+    "author": "George Herbert",
+    "normalized_key": "the starre|george herbert",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Starre",
+    "checked_date": "2026-07-02"
   }
 ]
