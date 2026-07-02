@@ -443,3 +443,160 @@ Golden-tinted and fair as thy own Pumpkin pie!
 
 ### 解説
 主題は南瓜（パンプキン）への賛歌と、それが呼び起こす感謝祭や少年時代の郷愁である。植物テーマとの関係は、瓜科の蔓植物である南瓜そのものを主役に据え、地を這う蔓、黄金の実、九月の畑での結実を具体的に描く点にある。旧約聖書ヨナ書のニネベに生えた草（とうごま）への言及や、スペインやキューバの南方の実りと北国ヤンキーの収穫との対比が、詩に地理的な広がりを与えている。印象的なのは、南瓜をくり抜いて作るジャック・オ・ランタン（「闇のなかから睨む醜い顔」）や、南瓜の殻の馬車に鼠を従えた妖精（シンデレラを想起させる）のイメージだ。読みどころは、素朴な野菜への愛着が、家族の再会と感謝の祈りへとふくらんでいく、温かく人間味あふれる結びである。
+
+## Maple Leaves / 楓の葉
+- Theme: Plant
+- Author: Thomas Bailey Aldrich
+- Author Years: 1836–1907
+- Public Domain Reason: 作者は1907年に死去しており、著作権保護期間は満了しているため、パブリックドメインである。作品は1876年の詩集『Flower and Thorn』所収。
+- Source URL: https://www.litscape.com/author/Thomas_Bailey_Aldrich/Maple_Leaves.html
+- Added Date: 2026-07-02
+
+### 原文
+October turned my maple's leaves to gold;
+The most are gone now; here and there one lingers:
+Soon these will slip from out the twigs' weak hold,
+Like coins between a dying miser's fingers.
+
+### 日本語訳
+十月はわたしの楓の葉を黄金に変えた。
+その大半はもう散ってしまった。あちらこちらに一枚だけ残っている。
+やがてこれらも小枝の弱い手から滑り落ちるだろう、
+死にゆく守銭奴の指のあいだからこぼれる硬貨のように。
+
+### 解説
+主題は晩秋、楓の落葉のはかなさである。植物テーマとの関係は、黄金に色づいた楓の葉そのものを主題に据え、その散り際を描く点にある。わずか四行の小品ながら、散り残った黄金の葉を「死にゆく守銭奴の指からこぼれ落ちる硬貨」にたとえる鮮烈な比喩が読みどころだ。黄金＝富という連想と、それをどうしても手放さざるを得ない死の必然とを重ね合わせ、秋の落葉のなかに無常の感覚を凝縮している。
+
+## Flowers / 花々
+- Theme: Plant
+- Author: Thomas Hood
+- Author Years: 1799–1845
+- Public Domain Reason: 作者は1845年に死去しており、著作権保護期間は満了しているため、パブリックドメインである。
+- Source URL: https://www.poemhunter.com/poem/flowers-2/
+- Added Date: 2026-07-02
+
+### 原文
+I will not have the mad Clytie,
+Whose head is turned by the sun;
+The tulip is a courtly queen,
+Whom, therefore, I will shun;
+The cowslip is a country wench,
+The violet is a nun; -
+But I will woo the dainty rose,
+The queen of everyone.
+
+The pea is but a wanton witch,
+In too much haste to wed,
+And clasps her rings on every hand
+The wolfsbane I should dread; -
+Nor will I dreary rosemary
+That always mourns the dead; -
+But I will woo the dainty rose,
+With her cheeks of tender red.
+
+The lily is all in white, like a saint,
+And so is no mate for me -
+And the daisy's cheek is tipped with blush,
+She is of such low degree;
+Jasmine is sweet, and has many loves,
+And the broom's betrothed to the bee; -
+But I will plight with the dainty rose,
+For fairest of all is she.
+
+### 日本語訳
+狂おしいクリュティエは要らない、
+陽に向かって頭を回されてしまう娘は。
+チューリップは宮廷ふうの女王、
+だからこそ私は遠ざけよう。
+サクラソウは田舎娘、
+スミレは尼僧。――
+けれど私は可憐な薔薇に求愛しよう、
+すべての花の女王に。
+
+エンドウはただの浮気な魔女、
+あまりに急いで嫁ごうとして、
+どの手にも指環を巻きつける。
+トリカブトは私が恐れるもの。――
+陰気なローズマリーも要らない、
+いつも死者を悼んでばかりいるから。――
+けれど私は可憐な薔薇に求愛しよう、
+やさしく赤らむその頬とともに。
+
+百合は聖女のように真っ白で、
+だから私の伴侶にはならない。――
+ヒナギクの頬は赤らみを帯びているが、
+あまりに身分が低い。
+ジャスミンは甘く、恋人が多すぎる、
+エニシダは蜜蜂と婚約している。――
+けれど私は可憐な薔薇と契りを結ぼう、
+すべてのなかで最も美しいのは薔薇なのだから。
+
+### 解説
+主題は、さまざまな花を女性になぞらえ、そのなかから伴侶として薔薇を選ぶという、機知に富んだ寓意である。植物テーマとの関係は、クリュティエ（太陽を追うヒマワリ）、チューリップ、サクラソウ、スミレ、エンドウ、トリカブト、ローズマリー、百合、ヒナギク、ジャスミン、エニシダ、薔薇と、多彩な花を次々に列挙し、それぞれの性質を擬人化して描く点にある。花ごとに「宮廷の女王」「田舎娘」「尼僧」「浮気な魔女」といった人物像を割り当てる見立ての面白さが読みどころだ。ローズマリー＝追悼、トリカブト＝毒といった花にまつわる連想も織り込みつつ、最後に薔薇を「すべての花の女王」として選ぶ結びが軽やかである。
+
+## The Grape-Vine Swing / 葡萄蔓のブランコ
+- Theme: Plant
+- Author: William Gilmore Simms
+- Author Years: 1806–1870
+- Public Domain Reason: 作者は1870年に死去しており、著作権保護期間は満了しているため、パブリックドメインである。
+- Source URL: https://poemlake.com/the-grape-vine-swing
+- Added Date: 2026-07-02
+
+### 原文
+Lithe and long as the serpent train,
+Springing and clinging from tree to tree,
+Now darting upward, now down again,
+With a twist and a twirl that are strange to see;
+Never took serpent a deadlier hold,
+Never the cougar a wilder spring,
+Strangling the oak with the boa's fold,
+Spanning the beach with the condor's wing.
+
+Yet no foe that we fear to seek,—
+The boy leaps wild to thy rude embrace;
+Thy bulging arms bear as soft a cheek
+As ever on lover's breast found place;
+On thy waving train is a playful hold
+Thou shalt never to lighter grasp persuade,
+While a maiden sits in thy drooping fold,
+And swings and sings in the noonday shade!
+
+O giant strange of our Southern woods!
+I dream of thee still in the well-known spot,
+Though our vessel strains o'er the ocean floods,
+And the northern forest beholds thee not;
+I think of thee still with a sweet regret,
+As the cordage yields to my playful grasp,—
+Dost thou spring and cling in our woodlands yet?
+Does the maiden still swing in thy giant clasp?
+
+### 日本語訳
+蛇の胴のようにしなやかで長く、
+木から木へと跳ね、からみつき、
+いま上へ躍り上がり、いままた下りてくる、
+見れば奇妙な、ねじれとひねりを見せながら。
+蛇とてこれほど死をはらむ絡みつきはせず、
+クーガーとてこれほど荒々しく跳びはしない、
+大蛇のとぐろで樫の木を締めあげ、
+コンドルの翼のように浜辺をまたぐ。
+
+だが、これは私たちが恐れて避ける敵ではない――
+少年はその荒々しい抱擁へと勢いよく跳びつく。
+そのふくらんだ腕は、恋人の胸に抱かれた頬にも劣らぬ
+やわらかな頬を受けとめる。
+その波打つ胴には、遊び心の握りがあり、
+それはけっしてより軽い握りへとゆるむことはない。
+少女はその垂れ下がる輪のなかに腰かけ、
+真昼の木陰で揺れながら歌う！
+
+おお、わが南部の森の、奇妙な巨人よ！
+あの見慣れた場所で、今も私はおまえを夢に見る、
+たとえ私たちの船が大洋の潮を切って進み、
+北国の森がおまえを目にすることはなくとも。
+甘い悔恨とともに、私は今もおまえを思う、
+綱具が私の遊び心の握りに従うとき――
+おまえは今も私たちの森で跳ね、からみついているか？
+少女は今もおまえの巨人の抱擁のなかで揺れているか？
+
+### 解説
+主題は、アメリカ南部の森に生い茂る野生の葡萄蔓（グレープヴァイン）と、それをブランコにして遊んだ日々への郷愁である。植物テーマとの関係は、木から木へと這い絡みつく葡萄の蔓そのものを主役に据え、その旺盛な生態を蛇・クーガー・大蛇・コンドルといった猛々しい生き物にたとえて描く点にある。前半では蔓の力強い絡みつきを畏怖をもって描き、後半では少年少女がその蔓に跳びつき、揺れて遊ぶ長閑な情景へと転じる。この荒々しさと安らぎの対比が印象的だ。読みどころは、故郷を離れて船上にある語り手が、遠い南部の森の蔓を「奇妙な巨人」と呼んで懐かしむ、望郷の念のこもった結びである。
