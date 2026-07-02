@@ -996,5 +996,59 @@
     "status": "added",
     "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=17509",
     "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Blossom",
+    "author": "William Blake",
+    "normalized_key": "the blossom|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-blake/book/songs-of-innocence/the-blossom",
+    "checked_date": "2026-07-03"
+  },
+  {
+    "title": "The Bluebell",
+    "author": "Emily Brontë",
+    "normalized_key": "the bluebell|emily bronte",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/The_Bluebell",
+    "checked_date": "2026-07-03"
+  },
+  {
+    "title": "The Rose",
+    "author": "Christina Rossetti",
+    "normalized_key": "the rose|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=26816",
+    "checked_date": "2026-07-03"
+  },
+  {
+    "title": "The Comet at Yell'ham",
+    "author": "Thomas Hardy",
+    "normalized_key": "the comet at yellham|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=7286",
+    "checked_date": "2026-07-03"
+  },
+  {
+    "title": "Night",
+    "author": "Sara Teasdale",
+    "normalized_key": "night|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poeticearthmonth.com/night-by-sara-teasdale/",
+    "checked_date": "2026-07-03"
+  },
+  {
+    "title": "Move eastward, happy earth, and leave",
+    "author": "Alfred Tennyson",
+    "normalized_key": "move eastward happy earth and leave|alfred tennyson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Tennyson,_1843)/Volume_2",
+    "checked_date": "2026-07-03"
   }
 ]
