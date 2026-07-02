@@ -350,3 +350,236 @@ Sure thou wilt joy, by gaining me
 
 ### 解説
 主題は、天から放たれた「星の火花」に語りかけ、それを自らの心に招いて罪を焼き清め、ついには天の光のもとへ飛び立ちたいと願う宗教的黙想である。天文テーマとの関係は、星（そこから飛んだ一片の火花）を詩全体の中心的な比喩に据え、その光・運動・熱を霊的な浄化と昇天のイメージに重ねる点にある。ジョージ・ハーバートの詩集『神殿（The Temple, 1633）』所収で、長短の行を組み合わせた独特の詩形をとる。印象的なのは、星の火花を心に宿すという発想、「光・運動・熱の三位一体」という語、そして最終連で魂を「荷を負うた蜜蜂」が「光の巣（hive of beams）」へ帰るさまにたとえる比喩だ。読みどころは、天体の光を神の恩寵の象徴として展開し、罪の浄化から天への飛翔へと高まっていく祈りの構成である。
+
+## The New Moon / 新月
+- Theme: Astronomy
+- Author: William Cullen Bryant
+- Author Years: 1794–1878
+- Public Domain Reason: 作者は1878年に死去しており、著作権保護期間は満了しているため、パブリックドメインである。
+- Source URL: https://www.poemhunter.com/poem/the-new-moon-6/
+- Added Date: 2026-07-02
+
+### 原文
+When, as the garish day is done,
+Heaven burns with the descended sun,
+'Tis passing sweet to mark,
+Amid that flush of crimson light,
+The new moon's modest bow grow bright,
+As earth and sky grow dark.
+
+Few are the hearts too cold to feel
+A thrill of gladness o'er them steal,
+When first the wandering eye
+Sees faintly, in the evening blaze,
+That glimmering curve of tender rays
+Just planted in the sky.
+
+The sight of that young crescent brings
+Thoughts of all fair and youthful things
+The hopes of early years;
+And childhood's purity and grace,
+And joys that like a rainbow chase
+The passing shower of tears.
+
+The captive yields him to the dream
+Of freedom, when that virgin beam
+Comes out upon the air:
+And painfully the sick man tries
+To fix his dim and burning eyes
+On the soft promise there.
+
+Most welcome to the lover's sight,
+Glitters that pure, emerging light;
+For prattling poets say,
+That sweetest is the lovers' walk,
+And tenderest is their murmured talk,
+Beneath its gentle ray.
+
+And there do graver men behold
+A type of errors, loved of old,
+Forsaken and forgiven;
+And thoughts and wishes not of earth,
+Just opening in their early birth,
+Like that new light in heaven.
+
+### 日本語訳
+きらびやかな一日が終わり、
+天が沈みゆく太陽で燃えるとき、
+こよなく甘く感じられるのは、
+あの深紅の光の火照りのなかに、
+新月のつつましい弓が明るさを増してゆくのを見ることだ、
+大地も空も暗くなってゆくにつれて。
+
+その心があまりに冷たくて感じられぬ者はほとんどいない、
+喜びの震えが身をよぎるのを――
+さまよう目が初めて、
+夕べの燃え立つ光のなかに、
+あのやさしい光線のかすかな曲線が
+空にちょうど植えられたのを見るときには。
+
+その若い三日月の姿は、
+すべての美しく若々しいものへの想いを運んでくる――
+若き日々の希望を、
+子ども時代の清らかさと優雅さを、
+そして虹のように、涙のにわか雨を
+追いかけてゆく喜びを。
+
+囚われ人はその夢に身をゆだねる、
+自由の夢に、あの清らかな光線が
+大気のなかに現れ出るとき。
+そして病める者は苦しげに、
+かすみ、燃えるその目を、
+そこにある柔らかな約束へと据えようとする。
+
+恋する者の目にはこよなく歓迎される、
+あの純粋な、生まれ出たばかりの光は。
+おしゃべりな詩人たちが言うには、
+恋人たちの散歩がいちばん甘く、
+ささやき交わす語らいがいちばん優しいのは、
+その穏やかな光のもとでのことだから。
+
+そしてより思慮深い人々は、そこに見る、
+昔なつかしい過ちの、
+見捨てられ、そして許された姿を。
+そして地上のものならぬ思いと願いが、
+生まれたばかりで開きはじめるさまを、
+天にかかるあの新しい光のように。
+
+### 解説
+主題は、日没後の西空に細く現れる新月（三日月）が、見る者それぞれの心に呼び起こすさまざまな想いである。天文テーマとの関係は、新月の「つつましい弓」「やさしい光線の曲線」という形状と、日没の残光のなかに立ち現れる出現の瞬間を克明に描く点にある。囚われ人は自由を、病者は快癒の約束を、恋人は逢瀬を、思慮深い人は悔悟と再生を――同じ一つの三日月が、立場の異なる人々にそれぞれ別の希望を映し出すという構成が読みどころだ。「空に植えられた（planted in the sky）」光という比喩や、日ごとに満ちてゆく月に人の心の芽生えを重ねて結ぶところが印象的である。
+
+## A Night-Piece / 夜の小景
+- Theme: Astronomy
+- Author: William Wordsworth
+- Author Years: 1770–1850
+- Public Domain Reason: 作者は1850年に死去しており、著作権保護期間は満了しているため、パブリックドメインである。作品は1815年版詩集所収。
+- Source URL: https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/A_Night_Piece
+- Added Date: 2026-07-02
+
+### 原文
+The sky is overcast
+With a continuous cloud of texture close,
+Heavy and wan, all whitened by the Moon,
+Which through that veil is indistinctly seen,
+A dull, contracted circle, yielding light
+So feebly spread that not a shadow falls,
+Chequering the ground, from rock, plant, tree, or tower.
+At length a pleasant instantaneous gleam
+Startles the pensive traveller as he treads
+His lonesome path, with unobserving eye
+Bent earthwards; he looks up—the clouds are split
+Asunder,—and above his head he sees
+The clear moon, and the glory of the heavens.
+There, in a black blue vault she sails along,
+Followed by multitudes of stars, that, small
+And sharp, and bright, along the dark abyss
+Drive as she drives;—how fast they wheel away,
+Yet vanish not!—the wind is in the tree,
+But they are silent;—still they roll along
+Immeasureably distant;—and the vault,
+Built round by those white clouds, enormous clouds,
+Still deepens its unfathomable depth.
+At length the Vision closes; and the mind,
+Not undisturbed by the delight it feels,
+Which slowly settles into peaceful calm,
+Is left to muse upon the solemn scene.
+
+### 日本語訳
+空はすっかり雲に覆われている、
+きめ細かく途切れない一枚の雲に、
+重く青ざめ、月によってすべて白ませられて。
+その月は雲の帳ごしにおぼろに見える、
+鈍く縮こまった円となって、光を放つが、
+その光はあまりに弱々しく広がるので、影ひとつ落ちず、
+岩や、草や、木や、塔から地面を斑に染めることもない。
+やがて、ひとすじの快い、瞬時のきらめきが、
+物思いにふける旅人をはっとさせる、彼が
+そのさびしい道を、何を見るともなく目を地に伏せて
+歩んでいるときに。彼は見上げる――雲は
+二つに裂け、頭上高くに彼は見る、
+澄んだ月と、天の栄光を。
+そこ、青黒い天蓋のなかを、月は帆走してゆく、
+おびただしい星々を従えて。星々は、小さく、
+鋭く、明るく、暗い深淵に沿って、
+月が駆けるように駆けてゆく――なんと速く車輪のように過ぎ去りながら、
+それでも消えはしない！――風は木々のなかにあるが、
+星々は音もなく――なおも転がりゆく、
+測りしれぬほど遠くを――そして天蓋は、
+あの白い雲、巨大な雲にぐるりと築かれて、
+なおもその底知れぬ深さを深めてゆく。
+やがてその幻は閉じる。そして心は、
+おのれの感じる喜びに乱されぬではないが、
+その喜びはゆっくりと安らかな静けさへと沈み、
+あの厳かな情景を思いめぐらすままに残される。
+
+### 解説
+主題は、曇り空の下を歩く旅人が、雲の裂け目から不意に現れた月と満天の星を目にする、一瞬の啓示的な体験である。天文テーマとの関係は、雲を透かすおぼろな月から、雲が裂けて現れる澄んだ月と、それを追う無数の星々の運行まで、夜空の変化を克明に描く点にある。無韻詩（ブランクヴァース）で書かれ、「青黒い天蓋を帆走する月」と、それに従って「駆け、車輪のように過ぎ去りながらも消えない」星々の躍動的な描写が読みどころだ。幻が閉じたのち、旅人の興奮が静かな瞑想へと沈んでゆく結びに、自然を通じて精神が高められるさまを描くワーズワスらしさがよく表れている。
+
+## Betelgeuse / ベテルギウス
+- Theme: Astronomy
+- Author: Humbert Wolfe
+- Author Years: 1885–1940
+- Public Domain Reason: 作者は1940年に死去しており、死後70年以上が経過して著作権保護期間は満了しているため、パブリックドメインである。作品は1925年の詩集『The Unknown Goddess』所収。
+- Source URL: https://www.lieder.net/lieder/get_text.html?TextId=17509
+- Added Date: 2026-07-02
+
+### 原文
+On Betelgeuse
+the gold leaves hang in golden aisles
+for twice a hundred million miles,
+and twice a hundred million years
+they golden hang and nothing stirs,
+on Betelgeuse.
+
+Space is a wind that does
+not blow on Betelgeuse,
+and time — oh time — is a bird,
+whose wings have never stirred
+the golden avenues of leaves
+on Betelgeuse.
+
+On Betelgeuse
+there is nothing that joys or grieves
+the unstirred multitude of leaves,
+nor ghost of evil or good
+haunts the gold multitude
+on Betelgeuse.
+
+And birth they do not use
+nor death on Betelgeuse,
+and the God, of whom we are
+infinite dust, is there
+a single leaf of those gold leaves
+on Betelgeuse.
+
+### 日本語訳
+ベテルギウスでは
+黄金の葉が黄金の並木道に垂れている、
+二億マイルにわたって、
+そして二億年のあいだ、
+黄金に垂れたまま、何ひとつ動かない、
+ベテルギウスでは。
+
+空間とは、吹くことのない風だ、
+ベテルギウスでは。
+そして時間は――ああ時間は――一羽の鳥、
+その翼はけっして動いたことがない、
+黄金の並木道の葉のうえで、
+ベテルギウスでは。
+
+ベテルギウスでは
+喜ぶものも悲しむものも何ひとつない、
+微動だにせぬ葉の群れには。
+善悪いずれの亡霊も
+その黄金の群れにとり憑くことはない、
+ベテルギウスでは。
+
+そして誕生も彼らは用いず、
+死もまた、ベテルギウスでは。
+そして、われらがその無限の塵にすぎぬ神も、
+そこではただ一枚の葉なのだ、
+あの黄金の葉のうちの、
+ベテルギウスの。
+
+### 解説
+主題は、遥か彼方の巨星ベテルギウスを、時間も空間も生死も存在しない永遠の静止世界として想像した幻想的な瞑想である。天文テーマとの関係は、オリオン座の一等星ベテルギウスを詩全体の舞台に据え、「二億マイル」「二億年」という天文的スケールで、その途方もない遠さと不動性を描く点にある。星の表面を「黄金の葉が垂れる並木道」に見立てる幻想的なイメージや、「空間とは吹かない風」「時間とは翼を動かさぬ鳥」という逆説的な比喩が印象的だ。読みどころは、最終連で、人間がその無限の塵にすぎない神さえ、この星ではただ一枚の黄金の葉にすぎないと歌い、宇宙の広大な静寂の前に神も人も溶け入ってしまう結びである。

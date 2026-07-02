@@ -942,5 +942,59 @@
     "status": "added",
     "source_url": "https://allpoetry.com/The-Starre",
     "checked_date": "2026-07-02"
+  },
+  {
+    "title": "Maple Leaves",
+    "author": "Thomas Bailey Aldrich",
+    "normalized_key": "maple leaves|thomas bailey aldrich",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.litscape.com/author/Thomas_Bailey_Aldrich/Maple_Leaves.html",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "Flowers",
+    "author": "Thomas Hood",
+    "normalized_key": "flowers|thomas hood",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/flowers-2/",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The Grape-Vine Swing",
+    "author": "William Gilmore Simms",
+    "normalized_key": "the grapevine swing|william gilmore simms",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poemlake.com/the-grape-vine-swing",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "The New Moon",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the new moon|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-new-moon-6/",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "A Night-Piece",
+    "author": "William Wordsworth",
+    "normalized_key": "a nightpiece|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/A_Night_Piece",
+    "checked_date": "2026-07-02"
+  },
+  {
+    "title": "Betelgeuse",
+    "author": "Humbert Wolfe",
+    "normalized_key": "betelgeuse|humbert wolfe",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=17509",
+    "checked_date": "2026-07-02"
   }
 ]
