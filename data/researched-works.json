@@ -1050,5 +1050,109 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/Poems_(Tennyson,_1843)/Volume_2",
     "checked_date": "2026-07-03"
+  },
+  {
+    "title": "Almond Blossom",
+    "author": "Edwin Arnold",
+    "normalized_key": "almond blossom|edwin arnold",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/44573/almond-blossom",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "The Tuft of Flowers",
+    "author": "Robert Frost",
+    "normalized_key": "the tuft of flowers|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Tuft_of_Flowers",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "The Use of Flowers",
+    "author": "Mary Howitt",
+    "normalized_key": "the use of flowers|mary howitt",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetrynook.com/poem/use-flowers",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "Canis Major",
+    "author": "Robert Frost",
+    "normalized_key": "canis major|robert frost",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://gutenberg.ca/ebooks/frostr-westrunningbrook/frostr-westrunningbrook-00-h-dir/frostr-westrunningbrook-00-h.html",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "Under the Harvest Moon",
+    "author": "Carl Sandburg",
+    "normalized_key": "under the harvest moon|carl sandburg",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poetrymagazine/poems/13231/under-the-harvest-moon",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "Hymn to Diana",
+    "author": "Ben Jonson",
+    "normalized_key": "hymn to diana|ben jonson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/101/184.html",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "In Flanders Fields",
+    "author": "John McCrae",
+    "normalized_key": "in flanders fields|john mccrae",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "パブリックドメイン（McCrae没年1918）で原文全文も確認できたが、詩の中心主題は戦争と追悼であり、ケシ（poppy）は象徴として登場するにとどまる。既存コレクションの植物詩は植物そのものを主題とする作品で統一されているため、『植物』テーマに明確に該当するとは言い難く不採用とした。",
+    "source_url": "https://poets.org/poem/flanders-fields",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "The Flower",
+    "author": "George Herbert",
+    "normalized_key": "the flower|george herbert",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "パブリックドメイン（1633年刊）で明確な植物テーマの好作だが、利用ツールで全7連の原文全文を確実な形で取得できず、原文全文の正確性を担保できなかったため今回は不採用とした。",
+    "source_url": "https://www.ccel.org/h/herbert/temple/Flower.html",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "A Prayer in Spring",
+    "author": "Robert Frost",
+    "normalized_key": "a prayer in spring|robert frost",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "条件を満たす好作（1913年『A Boy's Will』所収、米国PD）だが、同一作者Robert Frostの作品が本回で既に複数となるため、作者の多様性を優先して不採用とした。",
+    "source_url": "https://poets.org/poem/prayer-spring",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "The Garden Year",
+    "author": "Sara Coleridge",
+    "normalized_key": "the garden year|sara coleridge",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "パブリックドメインだが、12か月の季節を歌う暦の詩であり、雪や霜も含む季節詩で『植物』テーマに明確に該当するとは言えないため不採用とした。",
+    "source_url": "https://poets.org/poem/garden-year",
+    "checked_date": "2026-07-04"
+  },
+  {
+    "title": "The Planting of the Apple-Tree",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the planting of the apple tree|william cullen bryant",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "明確に植物テーマの好作（Bryant没年1878でPD）だが、長詩の原文全文を利用ツールで確実に取得できず全文の正確性を担保できなかったため今回は不採用とした。",
+    "source_url": "https://poets.org/poem/planting-apple-tree",
+    "checked_date": "2026-07-04"
   }
 ]
