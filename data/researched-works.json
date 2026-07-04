@@ -1154,5 +1154,59 @@
     "reason": "明確に植物テーマの好作（Bryant没年1878でPD）だが、長詩の原文全文を利用ツールで確実に取得できず全文の正確性を担保できなかったため今回は不採用とした。",
     "source_url": "https://poets.org/poem/planting-apple-tree",
     "checked_date": "2026-07-04"
+  },
+  {
+    "title": "Flowers",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "flowers|henry wadsworth longfellow",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Voices_of_the_Night/Flowers",
+    "checked_date": "2026-07-05"
+  },
+  {
+    "title": "The Columbine",
+    "author": "Jones Very",
+    "normalized_key": "the columbine|jones very",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Columbine",
+    "checked_date": "2026-07-05"
+  },
+  {
+    "title": "The Trailing Arbutus",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the trailing arbutus|john greenleaf whittier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_John_Greenleaf_Whittier/The_Trailing_Arbutus",
+    "checked_date": "2026-07-05"
+  },
+  {
+    "title": "Stars",
+    "author": "Robert Frost",
+    "normalized_key": "stars|robert frost",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/3021/3021-h/3021-h.htm",
+    "checked_date": "2026-07-05"
+  },
+  {
+    "title": "The Crescent Moon",
+    "author": "Amy Lowell",
+    "normalized_key": "the crescent moon|amy lowell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/crescent-moon",
+    "checked_date": "2026-07-05"
+  },
+  {
+    "title": "A Day",
+    "author": "Emily Dickinson",
+    "normalized_key": "a day|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Dickinson)/A_Day",
+    "checked_date": "2026-07-05"
   }
 ]
