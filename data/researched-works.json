@@ -1208,5 +1208,59 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/Poems_(Dickinson)/A_Day",
     "checked_date": "2026-07-05"
+  },
+  {
+    "title": "The Ragwort",
+    "author": "John Clare",
+    "normalized_key": "the ragwort|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "http://johnclare.blogspot.com/2004/08/ragwort.html",
+    "checked_date": "2026-07-06"
+  },
+  {
+    "title": "To the Willow-Tree",
+    "author": "Robert Herrick",
+    "normalized_key": "to the willowtree|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.luminarium.org/sevenlit/herrick/willow.htm",
+    "checked_date": "2026-07-06"
+  },
+  {
+    "title": "The Gentian weaves her fringes",
+    "author": "Emily Dickinson",
+    "normalized_key": "the gentian weaves her fringes|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/the-gentian-weaves-her-fringes",
+    "checked_date": "2026-07-06"
+  },
+  {
+    "title": "In Vision I Roamed",
+    "author": "Thomas Hardy",
+    "normalized_key": "in vision i roamed|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/3167/3167-h/3167-h.htm",
+    "checked_date": "2026-07-06"
+  },
+  {
+    "title": "O Lady Moon",
+    "author": "Christina Rossetti",
+    "normalized_key": "o lady moon|christina rossetti",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://digital.library.upenn.edu/women/rossetti/singsong/singsong.html",
+    "checked_date": "2026-07-06"
+  },
+  {
+    "title": "The Occultation of Orion",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "the occultation of orion|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/henry-wadsworth-longfellow/poem/the-occultation-of-orion",
+    "checked_date": "2026-07-06"
   }
 ]
