@@ -1262,5 +1262,59 @@
     "status": "added",
     "source_url": "https://americanliterature.com/author/henry-wadsworth-longfellow/poem/the-occultation-of-orion",
     "checked_date": "2026-07-06"
+  },
+  {
+    "title": "The Evening Primrose",
+    "author": "John Clare",
+    "normalized_key": "the evening primrose|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetrycat.com/john-clare/evening-primrose",
+    "checked_date": "2026-07-07"
+  },
+  {
+    "title": "To Marigolds",
+    "author": "Robert Herrick",
+    "normalized_key": "to marigolds|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetrycat.com/robert-herrick/to-marigolds",
+    "checked_date": "2026-07-07"
+  },
+  {
+    "title": "What Do We Plant?",
+    "author": "Henry Abbey",
+    "normalized_key": "what do we plant|henry abbey",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poeticous.com/henry-abbey/what-do-we-plant",
+    "checked_date": "2026-07-07"
+  },
+  {
+    "title": "Arcturus is his other name",
+    "author": "Emily Dickinson",
+    "normalized_key": "arcturus is his other name|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/%22Arcturus%22_is_his_other_name_%E2%80%94",
+    "checked_date": "2026-07-07"
+  },
+  {
+    "title": "The Wind and the Moon",
+    "author": "George MacDonald",
+    "normalized_key": "the wind and the moon|george macdonald",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/wind-and-moon",
+    "checked_date": "2026-07-07"
+  },
+  {
+    "title": "The Star and the Water-Lily",
+    "author": "Oliver Wendell Holmes",
+    "normalized_key": "the star and the waterlily|oliver wendell holmes",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetrycat.com/oliver-wendell-holmes/the-star-and-the-water-lily",
+    "checked_date": "2026-07-07"
   }
 ]
