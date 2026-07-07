@@ -1316,5 +1316,59 @@
     "status": "added",
     "source_url": "https://www.poetrycat.com/oliver-wendell-holmes/the-star-and-the-water-lily",
     "checked_date": "2026-07-07"
+  },
+  {
+    "title": "There is a flower that Bees prefer",
+    "author": "Emily Dickinson",
+    "normalized_key": "there is a flower that bees prefer|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "http://bloggingdickinson.blogspot.com/2018/06/there-is-flower-that-bees-prefer.html",
+    "checked_date": "2026-07-08"
+  },
+  {
+    "title": "Field Flowers",
+    "author": "Thomas Campbell",
+    "normalized_key": "field flowers|thomas campbell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://dvpp.uvic.ca/poems/chambers_series/1833/pom_3127_field_flowers.html",
+    "checked_date": "2026-07-08"
+  },
+  {
+    "title": "The Brave Old Oak",
+    "author": "Henry Fothergill Chorley",
+    "normalized_key": "the brave old oak|henry fothergill chorley",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://discoverpoetry.com/poems/henry-fothergill-chorley/the-brave-old-oak/",
+    "checked_date": "2026-07-08"
+  },
+  {
+    "title": "On Looking Up by Chance at the Constellations",
+    "author": "Robert Frost",
+    "normalized_key": "on looking up by chance at the constellations|robert frost",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poeticous.com/frost/on-looking-up-by-chance-at-the-constellations",
+    "checked_date": "2026-07-08"
+  },
+  {
+    "title": "Shut Out That Moon",
+    "author": "Thomas Hardy",
+    "normalized_key": "shut out that moon|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetrynook.com/poem/shut-out-moon",
+    "checked_date": "2026-07-08"
+  },
+  {
+    "title": "The Moon upon her fluent Route",
+    "author": "Emily Dickinson",
+    "normalized_key": "the moon upon her fluent route|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Moon_upon_her_fluent_Route",
+    "checked_date": "2026-07-08"
   }
 ]
