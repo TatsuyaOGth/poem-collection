@@ -1370,5 +1370,59 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/The_Moon_upon_her_fluent_Route",
     "checked_date": "2026-07-08"
+  },
+  {
+    "title": "A Contemplation upon Flowers",
+    "author": "Henry King",
+    "normalized_key": "a contemplation upon flowers|henry king",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://englishverse.com/poems/a_contemplation_upon_flowers",
+    "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Crocus",
+    "author": "Harriet Beecher Stowe",
+    "normalized_key": "the crocus|harriet beecher stowe",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/44778/44778-h/44778-h.htm",
+    "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Voice of the Grass",
+    "author": "Sarah Roberts Boyle",
+    "normalized_key": "the voice of the grass|sarah roberts boyle",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/360/5/170.html",
+    "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Half Moon",
+    "author": "Christina Rossetti",
+    "normalized_key": "the half moon|christina rossetti",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/diverse-worlds-time-and-eternity",
+    "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Stars Are With the Voyager",
+    "author": "Thomas Hood",
+    "normalized_key": "the stars are with the voyager|thomas hood",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poeticous.com/thomas-hood/the-stars-are-with-the-voyager",
+    "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Moon's the North Wind's Cooky",
+    "author": "Vachel Lindsay",
+    "normalized_key": "the moons the north winds cooky|vachel lindsay",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/cache/epub/1021/pg1021.txt",
+    "checked_date": "2026-07-09"
   }
 ]
