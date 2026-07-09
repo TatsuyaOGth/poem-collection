@@ -1424,5 +1424,59 @@
     "status": "added",
     "source_url": "https://www.gutenberg.org/cache/epub/1021/pg1021.txt",
     "checked_date": "2026-07-09"
+  },
+  {
+    "title": "The Water-Lily",
+    "author": "John Banister Tabb",
+    "normalized_key": "the waterlily|john banister tabb",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.litscape.com/author/John_Banister_Tabb/The_Water_Lily.html",
+    "checked_date": "2026-07-10"
+  },
+  {
+    "title": "The Morning-Glory",
+    "author": "Maria White Lowell",
+    "normalized_key": "the morningglory|maria white lowell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Morning-Glory",
+    "checked_date": "2026-07-10"
+  },
+  {
+    "title": "The Sunflower",
+    "author": "James Montgomery",
+    "normalized_key": "the sunflower|james montgomery",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://archive.org/stream/poetj01mont/poetj01mont_djvu.txt",
+    "checked_date": "2026-07-10"
+  },
+  {
+    "title": "To the Evening Star",
+    "author": "Samuel Taylor Coleridge",
+    "normalized_key": "to the evening star|samuel taylor coleridge",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryexplorer.net/poem.php?id=10049628",
+    "checked_date": "2026-07-10"
+  },
+  {
+    "title": "The Pleiades",
+    "author": "Amy Lowell",
+    "normalized_key": "the pleiades|amy lowell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Pleiades",
+    "checked_date": "2026-07-10"
+  },
+  {
+    "title": "Chrysaor",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "chrysaor|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/henry-wadsworth-longfellow/poem/chrysaor",
+    "checked_date": "2026-07-10"
   }
 ]
