@@ -1478,5 +1478,69 @@
     "status": "added",
     "source_url": "https://americanliterature.com/author/henry-wadsworth-longfellow/poem/chrysaor",
     "checked_date": "2026-07-10"
+  },
+  {
+    "title": "Nothing Gold Can Stay",
+    "author": "Robert Frost",
+    "normalized_key": "nothing gold can stay|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Nothing_Gold_Can_Stay",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "New feet within my garden go",
+    "author": "Emily Dickinson",
+    "normalized_key": "new feet within my garden go|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/new-feet-within-my-garden-go",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "The Rose",
+    "author": "William Cowper",
+    "normalized_key": "the rose|william cowper",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.luminarium.org/eightlit/cowper/rose.htm",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "The Young May Moon",
+    "author": "Thomas Moore",
+    "normalized_key": "the young may moon|thomas moore",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.libraryireland.com/Irish-Melodies/The-young-may-moon-1.php",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "Serenade (Stars of the Summer Night)",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "serenade stars of the summer night|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/serenade-from-the-spanish-student/",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "My Star",
+    "author": "Robert Browning",
+    "normalized_key": "my star|robert browning",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/43769/my-star",
+    "checked_date": "2026-07-11"
+  },
+  {
+    "title": "I'll tell you how the Sun rose",
+    "author": "Emily Dickinson",
+    "normalized_key": "ill tell you how the sun rose|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "既に『A Day』（同一作品の別題）として追加済みのため、重複として不採用。",
+    "source_url": "https://www.emilydickinsonmuseum.org/ill-tell-you-how-the-sun-rose/",
+    "checked_date": "2026-07-11"
   }
 ]
