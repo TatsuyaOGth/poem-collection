@@ -1542,5 +1542,59 @@
     "reason": "既に『A Day』（同一作品の別題）として追加済みのため、重複として不採用。",
     "source_url": "https://www.emilydickinsonmuseum.org/ill-tell-you-how-the-sun-rose/",
     "checked_date": "2026-07-11"
+  },
+  {
+    "title": "Spring and Fall",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "spring and fall|gerard manley hopkins",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/44400/spring-and-fall",
+    "checked_date": "2026-07-12"
+  },
+  {
+    "title": "Flower God, God of the Spring",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "flower god god of the spring|robert louis stevenson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/441/441-h/441-h.htm",
+    "checked_date": "2026-07-12"
+  },
+  {
+    "title": "Spring Goeth All in White",
+    "author": "Robert Bridges",
+    "normalized_key": "spring goeth all in white|robert bridges",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/spring-goeth-all-in-white/",
+    "checked_date": "2026-07-12"
+  },
+  {
+    "title": "August Moonrise",
+    "author": "Sara Teasdale",
+    "normalized_key": "august moonrise|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/sara-teasdale/poem/august-moonrise",
+    "checked_date": "2026-07-12"
+  },
+  {
+    "title": "The Moon Looks In",
+    "author": "Thomas Hardy",
+    "normalized_key": "the moon looks in|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-moon-looks-in/",
+    "checked_date": "2026-07-12"
+  },
+  {
+    "title": "Yet Gentle Will the Griffin Be",
+    "author": "Vachel Lindsay",
+    "normalized_key": "yet gentle will the griffin be|vachel lindsay",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://quod.lib.umich.edu/a/amverse/BAH8721.0001.001",
+    "checked_date": "2026-07-12"
   }
 ]
