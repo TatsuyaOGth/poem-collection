@@ -1596,5 +1596,79 @@
     "status": "added",
     "source_url": "https://quod.lib.umich.edu/a/amverse/BAH8721.0001.001",
     "checked_date": "2026-07-12"
+  },
+  {
+    "title": "A Green Cornfield",
+    "author": "Christina Rossetti",
+    "normalized_key": "a green cornfield|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/a-green-cornfield/",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "The Poppy",
+    "author": "Jane Taylor",
+    "normalized_key": "the poppy|jane taylor",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/51918/the-poppy",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "The Rose Family",
+    "author": "Robert Frost",
+    "normalized_key": "the rose family|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/robert-frost/poem/the-rose-family",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "Moonrise",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "moonrise|gerard manley hopkins",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/moonrise-1",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "Daylight and Moonlight",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "daylight and moonlight|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.hwlongfellow.org/poems_poem.php?pid=136",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "The Moon is distant from the Sea",
+    "author": "Emily Dickinson",
+    "normalized_key": "the moon is distant from the sea|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/52198/the-moon-is-distant-from-the-sea-387",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "Orion",
+    "author": "Charles Tennyson Turner",
+    "normalized_key": "orion|charles tennyson turner",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "天文（オリオン座）テーマの好適なソネットだが、利用ツールで複数ソースを試みても原文全文を確実に取得できなかったため不採用。",
+    "source_url": "http://www.sonnets.org/turner.htm",
+    "checked_date": "2026-07-13"
+  },
+  {
+    "title": "The Sun Has Long Been Set",
+    "author": "William Wordsworth",
+    "normalized_key": "the sun has long been set|william wordsworth",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "星・半月など天体の語はあるが、六月の夜の田園賛美が主題で天文テーマへの明確な該当がやや弱く、より天体主題の明確な作品を優先したため不採用。",
+    "source_url": "https://poets.org/poem/sun-has-long-been-set",
+    "checked_date": "2026-07-13"
   }
 ]
