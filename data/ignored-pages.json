@@ -3,5 +3,10 @@
     "url": "https://en.wikisource.org/wiki/The_Holly-Tree",
     "reason": "ページ全文を確認したが、これは Charles Dickens の散文作品『The Holly-Tree』であり詩ではなかった。Southey の詩『The Holly Tree』の原文取得には使えない。",
     "checked_date": "2026-06-30"
+  },
+  {
+    "url": "http://www.sonnets.org/turner.htm",
+    "reason": "Charles Tennyson Turner のソネット『Orion』の原文取得を試みたが、当該ツールでは本文が取得できず（トラッキング要素のみ返る）、原文全文を確認できなかった。",
+    "checked_date": "2026-07-13"
   }
 ]
