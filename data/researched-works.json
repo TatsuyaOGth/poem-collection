@@ -1670,5 +1670,69 @@
     "reason": "星・半月など天体の語はあるが、六月の夜の田園賛美が主題で天文テーマへの明確な該当がやや弱く、より天体主題の明確な作品を優先したため不採用。",
     "source_url": "https://poets.org/poem/sun-has-long-been-set",
     "checked_date": "2026-07-13"
+  },
+  {
+    "title": "Lilacs",
+    "author": "Amy Lowell",
+    "normalized_key": "lilacs|amy lowell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/amy-lowell/lilacs.html",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "A Field Flower",
+    "author": "James Montgomery",
+    "normalized_key": "a field flower|james montgomery",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Daisy---On-Finding-one-in-Bloom-on-Christmas-day",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "The Flowers",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "the flowers|robert louis stevenson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Child%27s_Garden_of_Verses/The_Flowers",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "On the Beach at Night Alone",
+    "author": "Walt Whitman",
+    "normalized_key": "on the beach at night alone|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/beach-night-alone",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "Ode to Heaven",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "ode to heaven|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/ode-to-heaven/",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "The Star",
+    "author": "Sara Teasdale",
+    "normalized_key": "the star|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://allpoetry.com/poem/8504177-The-Star-by-Sara-Teasdale",
+    "checked_date": "2026-07-14"
+  },
+  {
+    "title": "Fireflies in the Garden",
+    "author": "Robert Frost",
+    "normalized_key": "fireflies in the garden|robert frost",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "初出年に諸説（1928年『West-Running Brook』所収説と1942年『A Witness Tree』説）があり、米国におけるパブリックドメイン判定が曖昧なため採用を見送った。",
+    "source_url": "https://www.poetryfoundation.org/poems/42892/fireflies-in-the-garden",
+    "checked_date": "2026-07-14"
   }
 ]
