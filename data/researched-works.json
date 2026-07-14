@@ -1734,5 +1734,59 @@
     "reason": "初出年に諸説（1928年『West-Running Brook』所収説と1942年『A Witness Tree』説）があり、米国におけるパブリックドメイン判定が曖昧なため採用を見送った。",
     "source_url": "https://www.poetryfoundation.org/poems/42892/fireflies-in-the-garden",
     "checked_date": "2026-07-14"
+  },
+  {
+    "title": "The Poppy",
+    "author": "Francis Thompson",
+    "normalized_key": "the poppy|francis thompson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Thompson)/The_Poppy",
+    "checked_date": "2026-07-15"
+  },
+  {
+    "title": "The Ivy-Wife",
+    "author": "Thomas Hardy",
+    "normalized_key": "the ivywife|thomas hardy",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/121/32.html",
+    "checked_date": "2026-07-15"
+  },
+  {
+    "title": "A Flower of Mullein",
+    "author": "Lizette Woodworth Reese",
+    "normalized_key": "a flower of mullein|lizette woodworth reese",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.theotherpages.org/poems/reese01.html",
+    "checked_date": "2026-07-15"
+  },
+  {
+    "title": "Wynken, Blynken, and Nod",
+    "author": "Eugene Field",
+    "normalized_key": "wynken blynken and nod|eugene field",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/wynken-blynken-and-nod",
+    "checked_date": "2026-07-15"
+  },
+  {
+    "title": "The Freedom of the Moon",
+    "author": "Robert Frost",
+    "normalized_key": "the freedom of the moon|robert frost",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/robert-frost-poems/the-freedom-of-the-moon",
+    "checked_date": "2026-07-15"
+  },
+  {
+    "title": "Night",
+    "author": "William Blake",
+    "normalized_key": "night|william blake",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryloverspage.com/poets/blake/night.html",
+    "checked_date": "2026-07-15"
   }
 ]
