@@ -1788,5 +1788,59 @@
     "status": "added",
     "source_url": "https://www.poetryloverspage.com/poets/blake/night.html",
     "checked_date": "2026-07-15"
+  },
+  {
+    "title": "Yew-Trees",
+    "author": "William Wordsworth",
+    "normalized_key": "yew trees|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/Yew_Trees",
+    "checked_date": "2026-07-16"
+  },
+  {
+    "title": "An Apple Gathering",
+    "author": "Christina Rossetti",
+    "normalized_key": "an apple gathering|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)/An_Apple_Gathering",
+    "checked_date": "2026-07-16"
+  },
+  {
+    "title": "The Palm-Tree",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the palm tree|john greenleaf whittier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_John_Greenleaf_Whittier/The_Palm-Tree",
+    "checked_date": "2026-07-16"
+  },
+  {
+    "title": "To Night",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "to night|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_Percy_Bysshe_Shelley_(ed._Hutchinson,_1914)/To_Night",
+    "checked_date": "2026-07-16"
+  },
+  {
+    "title": "Hymn to the Night",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "hymn to the night|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Voices_of_the_Night/Hymn_to_the_Night",
+    "checked_date": "2026-07-16"
+  },
+  {
+    "title": "The Juggler of Day",
+    "author": "Emily Dickinson",
+    "normalized_key": "blazing in gold and quenching in purple|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems:_Second_Series_(Dickinson)/The_Juggler_of_Day",
+    "checked_date": "2026-07-16"
   }
 ]

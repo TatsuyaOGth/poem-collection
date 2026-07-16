@@ -13,5 +13,10 @@
     "url": "https://www.poetrynook.com/poem/daisy-16",
     "reason": "James Montgomery の『The Daisy / A Field Flower』を取得しようとしたが、当該URLは無関係な別作品（Wilfrid Wilson Gibson『The Lobster』）を返し、目的の詩の本文取得に使えなかった。",
     "checked_date": "2026-07-14"
+  },
+  {
+    "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Dickinson/Blazing_in_gold_and_quenching_in_purple",
+    "reason": "Emily Dickinson の詩『Blazing in gold and quenching in purple』(The Complete Poems 1924年版収録)の本文取得を試みたが、404エラーでページ本文へのアクセスに失敗した。同作品は Poems: Second Series (1891) 収録の『The Juggler of Day』として別URLから取得済み。",
+    "checked_date": "2026-07-16"
   }
 ]
