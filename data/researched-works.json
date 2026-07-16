@@ -1842,5 +1842,59 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/Poems:_Second_Series_(Dickinson)/The_Juggler_of_Day",
     "checked_date": "2026-07-16"
+  },
+  {
+    "title": "A Musical Instrument",
+    "author": "Elizabeth Barrett Browning",
+    "normalized_key": "a musical instrument|elizabeth barrett browning",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/elizabeth-barrett-browning/poem/a-musical-instrument",
+    "checked_date": "2026-07-17"
+  },
+  {
+    "title": "A White Rose",
+    "author": "John Boyle O'Reilly",
+    "normalized_key": "a white rose|john boyle oreilly",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/In_Bohemia/A_White_Rose",
+    "checked_date": "2026-07-17"
+  },
+  {
+    "title": "Life",
+    "author": "George Herbert",
+    "normalized_key": "life|george herbert",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.georgeherbert.org.uk/archives/selected_work_43.html",
+    "checked_date": "2026-07-17"
+  },
+  {
+    "title": "Wind and Silver",
+    "author": "Amy Lowell",
+    "normalized_key": "wind and silver|amy lowell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://interestingliterature.com/2017/04/10-short-amy-lowell-poems/",
+    "checked_date": "2026-07-17"
+  },
+  {
+    "title": "The Sun's Travels",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "the suns travels|robert louis stevenson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Child's_Garden_of_Verses/The_Sun's_Travels",
+    "checked_date": "2026-07-17"
+  },
+  {
+    "title": "Full Moon",
+    "author": "Sara Teasdale",
+    "normalized_key": "full moon|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/69866/69866-h/69866-h.htm",
+    "checked_date": "2026-07-17"
   }
 ]
