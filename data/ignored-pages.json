@@ -18,5 +18,10 @@
     "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Dickinson/Blazing_in_gold_and_quenching_in_purple",
     "reason": "Emily Dickinson の詩『Blazing in gold and quenching in purple』(The Complete Poems 1924年版収録)の本文取得を試みたが、404エラーでページ本文へのアクセスに失敗した。同作品は Poems: Second Series (1891) 収録の『The Juggler of Day』として別URLから取得済み。",
     "checked_date": "2026-07-16"
+  },
+  {
+    "url": "https://www.poetrynook.com/poem/milky-way-1",
+    "reason": "John Banister Tabb の『The Milky Way』の原文取得を試みたが、当該ページには目的の詩の本文が含まれておらず（Tabb 作の本文を確認できなかった）、原文全文の取得に使えなかった。",
+    "checked_date": "2026-07-18"
   }
 ]

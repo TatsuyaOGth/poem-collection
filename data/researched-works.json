@@ -1896,5 +1896,79 @@
     "status": "added",
     "source_url": "https://www.gutenberg.org/files/69866/69866-h/69866-h.htm",
     "checked_date": "2026-07-17"
+  },
+  {
+    "title": "Blue Squills",
+    "author": "Sara Teasdale",
+    "normalized_key": "blue squills|sara teasdale",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Flame_and_Shadow/Blue_Squills",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "The Gardener",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "the gardener|robert louis stevenson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Child%27s_Garden_of_Verses/The_Gardener",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "A Ballad of Trees and the Master",
+    "author": "Sidney Lanier",
+    "normalized_key": "a ballad of trees and the master|sidney lanier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Ballad_of_Trees_and_the_Master",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "Sonnet—To Science",
+    "author": "Edgar Allan Poe",
+    "normalized_key": "sonnet to science|edgar allan poe",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Sonnet_%E2%80%94_To_Science",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "Endymion",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "endymion|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Endymion_(Longfellow)",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "Lightly stepped a yellow star",
+    "author": "Emily Dickinson",
+    "normalized_key": "lightly stepped a yellow star|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Single_Hound/Lightly_stepped_a_yellow_star",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "The Last Quarter of the Moon",
+    "author": "Amy Lowell",
+    "normalized_key": "the last quarter of the moon|amy lowell",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "月（\"A torn moon flees\"／\"The moon drops into the silver day\"）は登場するが、詩の中心主題は実存的な絶望と自己省察であり、天体そのものは背景的なイメージにとどまる。天文テーマに明確に該当するとは言い難いため不採用（既に不採用とした \"A Clear Midnight\" と同様の判断）。",
+    "source_url": "https://en.wikisource.org/wiki/Sword_Blades_and_Poppy_Seed/The_Last_Quarter_of_the_Moon",
+    "checked_date": "2026-07-18"
+  },
+  {
+    "title": "The Milky Way",
+    "author": "John Banister Tabb",
+    "normalized_key": "the milky way|john banister tabb",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "天文テーマ・パブリックドメイン（作者1845–1909）ともに満たす候補だが、Wikisource に本作の項目がなく、利用可能なソース（poetrynook 等）でも原文全文を確実に取得・照合できなかったため今回は不採用とした。",
+    "source_url": "https://www.poetrynook.com/poem/milky-way-1",
+    "checked_date": "2026-07-18"
   }
 ]
