@@ -1970,5 +1970,69 @@
     "reason": "天文テーマ・パブリックドメイン（作者1845–1909）ともに満たす候補だが、Wikisource に本作の項目がなく、利用可能なソース（poetrynook 等）でも原文全文を確実に取得・照合できなかったため今回は不採用とした。",
     "source_url": "https://www.poetrynook.com/poem/milky-way-1",
     "checked_date": "2026-07-18"
+  },
+  {
+    "title": "To Primroses filled with Morning Dew",
+    "author": "Robert Herrick",
+    "normalized_key": "to primroses filled with morning dew|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.luminarium.org/sevenlit/herrick/primroses.htm",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "The Shepherd's Tree",
+    "author": "John Clare",
+    "normalized_key": "the shepherds tree|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://allpoetry.com/The-Shepherd's-Tree",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "To a Friend who Sent me some Roses",
+    "author": "John Keats",
+    "normalized_key": "to a friend who sent me some roses|john keats",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/friend-who-sent-me-some-roses",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "To the Moon (Composed by the Seaside, on the Coast of Cumberland)",
+    "author": "William Wordsworth",
+    "normalized_key": "to the moon composed by the seaside on the coast of cumberland|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.simple-poetry.com/poems/to-the-moon---composed-by-the-seaside-on-the-coast-of-cumberland-48916834859",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "She sweeps with many-colored Brooms",
+    "author": "Emily Dickinson",
+    "normalized_key": "she sweeps with manycolored brooms|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems:_Second_Series_(Dickinson)/She_sweeps_with_many-colored_brooms",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "Stars",
+    "author": "John Banister Tabb",
+    "normalized_key": "stars|john banister tabb",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poetry.elcore.net/PoetryByJohnBTabb.html",
+    "checked_date": "2026-07-19"
+  },
+  {
+    "title": "Bring me the sunset in a cup",
+    "author": "Emily Dickinson",
+    "normalized_key": "bring me the sunset in a cup|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "パブリックドメイン（作者1830–1886）で原文全文も取得できたが、内容が夕日・朝・ロビン・亀・蜂・虹など多くの自然の主題を並べた謎かけ的な詩で、天文テーマへの明確な該当性が弱いと判断し、より明確な作品を優先して不採用。",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/bring-me-the-sunset-in-a-cup",
+    "checked_date": "2026-07-19"
   }
 ]
