@@ -2034,5 +2034,119 @@
     "reason": "パブリックドメイン（作者1830–1886）で原文全文も取得できたが、内容が夕日・朝・ロビン・亀・蜂・虹など多くの自然の主題を並べた謎かけ的な詩で、天文テーマへの明確な該当性が弱いと判断し、より明確な作品を優先して不採用。",
     "source_url": "https://www.poetryverse.com/emily-dickinson-poems/bring-me-the-sunset-in-a-cup",
     "checked_date": "2026-07-19"
+  },
+  {
+    "title": "The Question",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "the question|percy bysshe shelley",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Question_(Shelley)",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Theme in Yellow",
+    "author": "Carl Sandburg",
+    "normalized_key": "theme in yellow|carl sandburg",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/45041/theme-in-yellow",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "The Lily and the Rose",
+    "author": "William Cowper",
+    "normalized_key": "the lily and the rose|william cowper",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-lily-and-the-rose/",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "The Comet",
+    "author": "Oliver Wendell Holmes",
+    "normalized_key": "the comet|oliver wendell holmes",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://discoverpoetry.com/poems/oliver-wendell-holmes/the-comet/",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Fairy-Land",
+    "author": "Edgar Allan Poe",
+    "normalized_key": "fairyland|edgar allan poe",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/edgar-allan-poe/poem/fairyland",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "'Tis moonlight, summer moonlight",
+    "author": "Emily Brontë",
+    "normalized_key": "tis moonlight summer moonlight|emily bronte",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/'Tis_moonlight,_summer_moonlight",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Goldenrod",
+    "author": "Lucy Larcom",
+    "normalized_key": "goldenrod|lucy larcom",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "植物テーマ・パブリックドメイン（作者1824–1893）ともに満たすが、同題・同主題の複数の詩が存在し出典間で全文が食い違うため、確定的な原文全文を一意に定められず不採用。",
+    "source_url": "https://archive.org/details/poems00larc",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Night Clouds",
+    "author": "Amy Lowell",
+    "normalized_key": "night clouds|amy lowell",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "天文的イメージ（月の白馬・太陽・天の川）を持つ好適な候補だが、利用ツールで原文全文を確実に取得できず、原文全文の正確性を担保できなかったため今回は不採用。",
+    "source_url": "https://en.wikisource.org/wiki/Night_Clouds",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Ode to the Moon",
+    "author": "Thomas Hood",
+    "normalized_key": "ode to the moon|thomas hood",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "月に呼びかける明確な天文テーマの好作（作者1799–1845でPD）だが、利用ツールで全7連の原文全文を確実に取得できず（要約のみ返る）、原文全文の正確性を担保できなかったため今回は不採用。",
+    "source_url": "https://www.litscape.com/author/Thomas_Hood/Ode_To_The_Moon.html",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "The Constellation",
+    "author": "Henry Vaughan",
+    "normalized_key": "the constellation|henry vaughan",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "星・星座を主題とする明確な天文詩（1655年刊でPD）だが、利用ツールで原文全文を確実に取得できず（403/404）、全文の正確性を担保できなかったため今回は不採用。",
+    "source_url": "https://www.poetrynook.com/poem/constellation",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "The Man in the Moon",
+    "author": "James Whitcomb Riley",
+    "normalized_key": "the man in the moon|james whitcomb riley",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "月を主題とする作品（作者1849–1916でPD）だが、方言（dialect）が濃く、原文全文の確実な取得と忠実な翻訳が困難と判断し今回は不採用。",
+    "source_url": "https://www.bartleby.com/360/1/106.html",
+    "checked_date": "2026-07-20"
+  },
+  {
+    "title": "The Stars",
+    "author": "Felicia Hemans",
+    "normalized_key": "the stars|felicia hemans",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "天文テーマ・パブリックドメイン（作者1793–1835）を満たす候補だが、同題作の帰属・版が出典間で不確実で、確定的な原文全文を一意に定められなかったため今回は不採用。",
+    "source_url": "https://internetpoem.com/felicia-dorothea-hemans/the-stars-poem/",
+    "checked_date": "2026-07-20"
   }
 ]
