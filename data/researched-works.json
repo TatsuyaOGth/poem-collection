@@ -2148,5 +2148,59 @@
     "reason": "天文テーマ・パブリックドメイン（作者1793–1835）を満たす候補だが、同題作の帰属・版が出典間で不確実で、確定的な原文全文を一意に定められなかったため今回は不採用。",
     "source_url": "https://internetpoem.com/felicia-dorothea-hemans/the-stars-poem/",
     "checked_date": "2026-07-20"
+  },
+  {
+    "title": "Rose Pogonias",
+    "author": "Robert Frost",
+    "normalized_key": "rose pogonias|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/3021/3021-h/3021-h.htm",
+    "checked_date": "2026-07-21"
+  },
+  {
+    "title": "Pear Tree",
+    "author": "H.D. (Hilda Doolittle)",
+    "normalized_key": "pear tree|h d hilda doolittle",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/pear-tree",
+    "checked_date": "2026-07-21"
+  },
+  {
+    "title": "The Wind-Flower",
+    "author": "Jones Very",
+    "normalized_key": "the wind flower|jones very",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-wind-flower/",
+    "checked_date": "2026-07-21"
+  },
+  {
+    "title": "Silver",
+    "author": "Walter de la Mare",
+    "normalized_key": "silver|walter de la mare",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemtree.com/poems/Silver.htm",
+    "checked_date": "2026-07-21"
+  },
+  {
+    "title": "A Night Thought",
+    "author": "William Wordsworth",
+    "normalized_key": "a night thought|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/william-wordsworth/poem/a-night-thought",
+    "checked_date": "2026-07-21"
+  },
+  {
+    "title": "I watched the Moon around the House",
+    "author": "Emily Dickinson",
+    "normalized_key": "i watched the moon around the house|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/i-watched-the-moon-around-the-house",
+    "checked_date": "2026-07-21"
   }
 ]
