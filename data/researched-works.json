@@ -2202,5 +2202,59 @@
     "status": "added",
     "source_url": "https://www.poetryverse.com/emily-dickinson-poems/i-watched-the-moon-around-the-house",
     "checked_date": "2026-07-21"
+  },
+  {
+    "title": "The Sound of the Trees",
+    "author": "Robert Frost",
+    "normalized_key": "the sound of the trees|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/cache/epub/29345/pg29345.txt",
+    "checked_date": "2026-07-22"
+  },
+  {
+    "title": "Spring",
+    "author": "Christina Rossetti",
+    "normalized_key": "spring|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)/Spring",
+    "checked_date": "2026-07-22"
+  },
+  {
+    "title": "Wild Asters",
+    "author": "Sara Teasdale",
+    "normalized_key": "wild asters|sara teasdale",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Helen_of_Troy_and_Other_Poems/Wild_Asters",
+    "checked_date": "2026-07-22"
+  },
+  {
+    "title": "The Constellations",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the constellations|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Thirty_Poems/The_Constellations",
+    "checked_date": "2026-07-22"
+  },
+  {
+    "title": "The Jolly Company",
+    "author": "Rupert Brooke",
+    "normalized_key": "the jolly company|rupert brooke",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Collected_poems_of_Rupert_Brooke/The_Jolly_Company",
+    "checked_date": "2026-07-22"
+  },
+  {
+    "title": "Wanderers",
+    "author": "Walter de la Mare",
+    "normalized_key": "wanderers|walter de la mare",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/cache/epub/3753/pg3753.txt",
+    "checked_date": "2026-07-22"
   }
 ]
