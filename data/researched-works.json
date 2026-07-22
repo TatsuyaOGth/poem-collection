@@ -2256,5 +2256,59 @@
     "status": "added",
     "source_url": "https://www.gutenberg.org/cache/epub/3753/pg3753.txt",
     "checked_date": "2026-07-22"
+  },
+  {
+    "title": "How Roses Came Red",
+    "author": "Robert Herrick",
+    "normalized_key": "how roses came red|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.luminarium.org/sevenlit/herrick/howroses.htm",
+    "checked_date": "2026-07-23"
+  },
+  {
+    "title": "A sepal, petal, and a thorn",
+    "author": "Emily Dickinson",
+    "normalized_key": "a sepal petal and a thorn|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/a-sepal-petal-and-a-thorn",
+    "checked_date": "2026-07-23"
+  },
+  {
+    "title": "To an Early Cowslip",
+    "author": "John Clare",
+    "normalized_key": "to an early cowslip|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://internetpoem.com/john-clare/to-an-early-cowslip-poem/",
+    "checked_date": "2026-07-23"
+  },
+  {
+    "title": "Dusk in Autumn",
+    "author": "Sara Teasdale",
+    "normalized_key": "dusk in autumn|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/sara-teasdale/poem/dusk-in-autumn",
+    "checked_date": "2026-07-23"
+  },
+  {
+    "title": "Nocturne in a Deserted Brickyard",
+    "author": "Carl Sandburg",
+    "normalized_key": "nocturne in a deserted brickyard|carl sandburg",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Chicago_Poems/Nocturne_in_a_Deserted_Brickyard",
+    "checked_date": "2026-07-23"
+  },
+  {
+    "title": "Of Bronze — and Blaze —",
+    "author": "Emily Dickinson",
+    "normalized_key": "of bronze and blaze|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/113/2109.html",
+    "checked_date": "2026-07-23"
   }
 ]
