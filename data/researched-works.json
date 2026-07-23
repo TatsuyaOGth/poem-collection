@@ -2310,5 +2310,79 @@
     "status": "added",
     "source_url": "https://www.bartleby.com/113/2109.html",
     "checked_date": "2026-07-23"
+  },
+  {
+    "title": "The Planting of the Apple-Tree",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the planting of the appletree|william cullen bryant",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/planting-apple-tree",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "Poppies on the Wheat",
+    "author": "Helen Hunt Jackson",
+    "normalized_key": "poppies on the wheat|helen hunt jackson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/poppies-wheat",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "Putting in the Seed",
+    "author": "Robert Frost",
+    "normalized_key": "putting in the seed|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/29345/29345-h/29345-h.htm",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "The Setting Sun",
+    "author": "John Clare",
+    "normalized_key": "the setting sun|john clare",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.smarchive.org.uk/2020/02/04/sonnets-john-clare/",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "Night on the Prairies",
+    "author": "Walt Whitman",
+    "normalized_key": "night on the prairies|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/walt-whitman-poems/night-on-prairies",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "Full Moon",
+    "author": "Walter de la Mare",
+    "normalized_key": "full moon|walter de la mare",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.fulltextarchive.com/book/Peacock-Pie-A-Book-of-Rhymes/",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "Moon Compasses",
+    "author": "Robert Frost",
+    "normalized_key": "moon compasses|robert frost",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "詩集『A Further Range』（1936年）初出であり、1929年以降の刊行のため米国での著作権が満了しておらず、パブリックドメイン判定が確実でないため不採用とした。",
+    "source_url": "https://www.poetryexplorer.net/poem26.php?pid=10022078",
+    "checked_date": "2026-07-24"
+  },
+  {
+    "title": "The Firmament",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the firmament|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "作者は1878年没でパブリックドメイン、天文（大空・星辰）テーマにも適合するが、利用ツールで複数ソースを試みても原文全文を確実に取得できなかったため今回は見送った。",
+    "source_url": "https://www.litscape.com/author/William_Cullen_Bryant/The_Firmament.html",
+    "checked_date": "2026-07-24"
   }
 ]
