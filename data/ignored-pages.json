@@ -33,5 +33,10 @@
     "url": "https://www.poetrynook.com/poem/constellation",
     "reason": "Henry Vaughan の詩『The Constellation』の原文取得を試みたが、当該ページは403（アクセス拒否）で本文を取得できなかった。",
     "checked_date": "2026-07-20"
+  },
+  {
+    "url": "https://www.poetrynook.com/poem/firmament",
+    "reason": "William Cullen Bryant の『The Firmament』の原文取得を試みたが、当該ページは403（アクセス拒否）で本文を取得できなかった。",
+    "checked_date": "2026-07-24"
   }
 ]
