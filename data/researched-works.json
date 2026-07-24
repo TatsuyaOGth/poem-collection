@@ -2384,5 +2384,59 @@
     "reason": "作者は1878年没でパブリックドメイン、天文（大空・星辰）テーマにも適合するが、利用ツールで複数ソースを試みても原文全文を確実に取得できなかったため今回は見送った。",
     "source_url": "https://www.litscape.com/author/William_Cullen_Bryant/The_Firmament.html",
     "checked_date": "2026-07-24"
+  },
+  {
+    "title": "An October Garden",
+    "author": "Christina Rossetti",
+    "normalized_key": "an october garden|christina rossetti",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/october-garden",
+    "checked_date": "2026-07-25"
+  },
+  {
+    "title": "The Wood Anemone",
+    "author": "Madison Julius Cawein",
+    "normalized_key": "the wood anemone|madison julius cawein",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/the-wood-anemone/",
+    "checked_date": "2026-07-25"
+  },
+  {
+    "title": "Divination by a Daffodil",
+    "author": "Robert Herrick",
+    "normalized_key": "divination by a daffodil|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/robert_herrick/divination_by_a_daffodil.html",
+    "checked_date": "2026-07-25"
+  },
+  {
+    "title": "How the old Mountains drip with Sunset",
+    "author": "Emily Dickinson",
+    "normalized_key": "how the old mountains drip with sunset|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/How_the_old_Mountains_drip_with_Sunset",
+    "checked_date": "2026-07-25"
+  },
+  {
+    "title": "The World's Wanderers",
+    "author": "Percy Bysshe Shelley",
+    "normalized_key": "the worlds wanderers|percy bysshe shelley",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_Percy_Bysshe_Shelley_(ed._Hutchinson,_1914)/The_World's_Wanderers",
+    "checked_date": "2026-07-25"
+  },
+  {
+    "title": "Winter Evening",
+    "author": "Archibald Lampman",
+    "normalized_key": "winter evening|archibald lampman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://rpo.library.utoronto.ca/content/winter-evening",
+    "checked_date": "2026-07-25"
   }
 ]
