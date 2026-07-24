@@ -38,5 +38,10 @@
     "url": "https://www.poetrynook.com/poem/firmament",
     "reason": "William Cullen Bryant の『The Firmament』の原文取得を試みたが、当該ページは403（アクセス拒否）で本文を取得できなかった。",
     "checked_date": "2026-07-24"
+  },
+  {
+    "url": "https://bartleby.com/113/2110.html",
+    "reason": "Emily Dickinson『How the old Mountains drip with Sunset』の原文取得を試みたが、当該ページは403（アクセス拒否）で本文を取得できなかった。原文は Wikisource から取得済み。",
+    "checked_date": "2026-07-25"
   }
 ]
