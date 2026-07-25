@@ -2438,5 +2438,79 @@
     "status": "added",
     "source_url": "https://rpo.library.utoronto.ca/content/winter-evening",
     "checked_date": "2026-07-25"
+  },
+  {
+    "title": "A Prayer in Spring",
+    "author": "Robert Frost",
+    "normalized_key": "a prayer in spring|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/A_Prayer_in_Spring",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "Tapestry Trees",
+    "author": "William Morris",
+    "normalized_key": "tapestry trees|william morris",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://victorianweb.org/authors/morris/poems/44.html",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "The Enkindled Spring",
+    "author": "D. H. Lawrence",
+    "normalized_key": "the enkindled spring|d h lawrence",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/enkindled-spring",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "A Clear Midnight",
+    "author": "Walt Whitman",
+    "normalized_key": "a clear midnight|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/clear-midnight",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "Look Down, Fair Moon",
+    "author": "Walt Whitman",
+    "normalized_key": "look down fair moon|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/walt-whitman-poems/look-down-fair-moon",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "Bring me the sunset in a cup",
+    "author": "Emily Dickinson",
+    "normalized_key": "bring me the sunset in a cup|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/bring-me-the-sunset-in-a-cup",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "I'll tell you how the Sun rose",
+    "author": "Emily Dickinson",
+    "normalized_key": "ill tell you how the sun rose|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "同作品は1890年版Poemsでは「A Day」の題で収録されており、既に「A Day / Emily Dickinson」として収録済みの重複作品のため不採用。",
+    "source_url": "https://en.wikisource.org/wiki/I%27ll_tell_you_how_the_Sun_rose",
+    "checked_date": "2026-07-26"
+  },
+  {
+    "title": "The Firmament",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the firmament|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "複数ソース（theotherpages.org・litscape・gutenberg・umich American Verse Project）を試みたが、当該ツールでは詩全文を安定して取得できなかった（404／403／長さ制限による本文非返却）ため、原文全文を確定できず不採用。",
+    "source_url": "https://www.gutenberg.org/files/29700/29700-h/29700-h.htm",
+    "checked_date": "2026-07-26"
   }
 ]
