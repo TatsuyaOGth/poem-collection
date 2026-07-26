@@ -2512,5 +2512,59 @@
     "reason": "複数ソース（theotherpages.org・litscape・gutenberg・umich American Verse Project）を試みたが、当該ツールでは詩全文を安定して取得できなかった（404／403／長さ制限による本文非返却）ため、原文全文を確定できず不採用。",
     "source_url": "https://www.gutenberg.org/files/29700/29700-h/29700-h.htm",
     "checked_date": "2026-07-26"
+  },
+  {
+    "title": "The May Magnificat",
+    "author": "Gerard Manley Hopkins",
+    "normalized_key": "the may magnificat|gerard manley hopkins",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/gerard_manley_hopkins/the_may_magnificat.html",
+    "checked_date": "2026-07-27"
+  },
+  {
+    "title": "How Violets Came Blue",
+    "author": "Robert Herrick",
+    "normalized_key": "how violets came blue|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetrynook.com/poem/260-how-violets-came-blue",
+    "checked_date": "2026-07-27"
+  },
+  {
+    "title": "The Mower against Gardens",
+    "author": "Andrew Marvell",
+    "normalized_key": "the mower against gardens|andrew marvell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/mower-against-gardens",
+    "checked_date": "2026-07-27"
+  },
+  {
+    "title": "Crossing the Tropics",
+    "author": "Herman Melville",
+    "normalized_key": "crossing the tropics|herman melville",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.fulltextarchive.com/book/John-Marr-and-Other-Poems/",
+    "checked_date": "2026-07-27"
+  },
+  {
+    "title": "Where Ships of Purple — gently toss —",
+    "author": "Emily Dickinson",
+    "normalized_key": "where ships of purple gently toss|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "http://bloggingdickinson.blogspot.com/2012/07/normal-0-0-1-100-483-11-4-704-11.html",
+    "checked_date": "2026-07-27"
+  },
+  {
+    "title": "Nox Nocti Indicat Scientiam",
+    "author": "William Habington",
+    "normalized_key": "nox nocti indicat scientiam|william habington",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/lit-hub/the-oxford-book-of-english-verse/298-nox-nocti-indicat-scientiam/",
+    "checked_date": "2026-07-27"
   }
 ]
