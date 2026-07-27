@@ -2566,5 +2566,59 @@
     "status": "added",
     "source_url": "https://www.bartleby.com/lit-hub/the-oxford-book-of-english-verse/298-nox-nocti-indicat-scientiam/",
     "checked_date": "2026-07-27"
+  },
+  {
+    "title": "To Meadows",
+    "author": "Robert Herrick",
+    "normalized_key": "to meadows|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/robert_herrick/to_meadows.html",
+    "checked_date": "2026-07-28"
+  },
+  {
+    "title": "Transformations",
+    "author": "Thomas Hardy",
+    "normalized_key": "transformations|thomas hardy",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/thomas_hardy/transformations.html",
+    "checked_date": "2026-07-28"
+  },
+  {
+    "title": "Fall, leaves, fall",
+    "author": "Emily Brontë",
+    "normalized_key": "fall leaves fall|emily bront",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/emily_bronte/fall_leaves_fall.html",
+    "checked_date": "2026-07-28"
+  },
+  {
+    "title": "The Two Deserts",
+    "author": "Coventry Patmore",
+    "normalized_key": "the two deserts|coventry patmore",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/13672/13672-h/13672-h.htm",
+    "checked_date": "2026-07-28"
+  },
+  {
+    "title": "Summer Sun",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "summer sun|robert louis stevenson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/robert_louis_stevenson/summer_sun.html",
+    "checked_date": "2026-07-28"
+  },
+  {
+    "title": "Signals",
+    "author": "John Banister Tabb",
+    "normalized_key": "signals|john banister tabb",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poetry.elcore.net/PoetryByJohnBTabb.html",
+    "checked_date": "2026-07-28"
   }
 ]
