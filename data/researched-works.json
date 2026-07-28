@@ -2620,5 +2620,69 @@
     "status": "added",
     "source_url": "https://poetry.elcore.net/PoetryByJohnBTabb.html",
     "checked_date": "2026-07-28"
+  },
+  {
+    "title": "The Bluebell",
+    "author": "Anne Brontë",
+    "normalized_key": "the bluebell|anne bronte",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Bluebell",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "Nobody knows this little Rose",
+    "author": "Emily Dickinson",
+    "normalized_key": "nobody knows this little rose|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryverse.com/emily-dickinson-poems/nobody-knows-this-little-rose",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "In a Wood",
+    "author": "Thomas Hardy",
+    "normalized_key": "in a wood|thomas hardy",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Wessex_Poems_and_Other_Verses/In_a_Wood",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "The Stars are Mansions Built by Nature's Hand",
+    "author": "William Wordsworth",
+    "normalized_key": "the stars are mansions built by natures hand|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetseers.org/the-romantics/william-wordsworth/library-2/the-stars-are-mansions-built-by-natures-hand/",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "Meditation under Stars",
+    "author": "George Meredith",
+    "normalized_key": "meditation under stars|george meredith",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/meditation-under-stars-2/",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "Darkness",
+    "author": "Lord Byron",
+    "normalized_key": "darkness|lord byron",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Works_of_Lord_Byron_(ed._Coleridge,_Prothero)/Poetry/Volume_4/Darkness",
+    "checked_date": "2026-07-29"
+  },
+  {
+    "title": "Roses",
+    "author": "George Eliot",
+    "normalized_key": "roses|george eliot",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "確認できた本文が「Over the sea, Queen, where we soon shall go」で途切れる断片的なもので、独立した完結した詩としての原文全文を確定できなかったため。",
+    "source_url": "https://dianamelrose.substack.com/p/roses-by-george-eliot",
+    "checked_date": "2026-07-29"
   }
 ]
