@@ -48,5 +48,10 @@
     "url": "https://quod.lib.umich.edu/a/amverse/BAD0508.0001.001/1:56?rgn=div1&view=fulltext",
     "reason": "William Cullen Bryant「The Firmament」全文取得を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。",
     "checked_date": "2026-07-26"
+  },
+  {
+    "url": "https://www.gutenberg.org/files/21811/21811-h/21811-h.htm",
+    "reason": "Lord Byron「Darkness」の原文取得を目的に全文を確認したが、当該巻(Works of Lord Byron, Poetry Vol.III, 1809–1816の物語詩等)には本作が収録されておらず、この目的では有用な情報が得られなかった。",
+    "checked_date": "2026-07-29"
   }
 ]
