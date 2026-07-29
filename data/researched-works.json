@@ -2684,5 +2684,59 @@
     "reason": "確認できた本文が「Over the sea, Queen, where we soon shall go」で途切れる断片的なもので、独立した完結した詩としての原文全文を確定できなかったため。",
     "source_url": "https://dianamelrose.substack.com/p/roses-by-george-eliot",
     "checked_date": "2026-07-29"
+  },
+  {
+    "title": "Plant a Tree",
+    "author": "Lucy Larcom",
+    "normalized_key": "plant a tree|lucy larcom",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://sharpgiving.com/Sharp/101famouspoems/poems/original/056Larcom.html",
+    "checked_date": "2026-07-30"
+  },
+  {
+    "title": "The Lily",
+    "author": "Mary Tighe",
+    "normalized_key": "the lily|mary tighe",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.eighteenthcenturypoetry.org/works/pmt18-w0390.shtml",
+    "checked_date": "2026-07-30"
+  },
+  {
+    "title": "Perhaps you'd like to buy a flower?",
+    "author": "Emily Dickinson",
+    "normalized_key": "perhaps youd like to buy a flower|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Dickinson)/Perhaps_you%27d_like_to_buy_a_flower",
+    "checked_date": "2026-07-30"
+  },
+  {
+    "title": "Seven Times One",
+    "author": "Jean Ingelow",
+    "normalized_key": "seven times one|jean ingelow",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://rainydaypoems.com/poems-for-kids/poems-teachers-ask-for/seven-times-one-by-jean-ingelow/",
+    "checked_date": "2026-07-30"
+  },
+  {
+    "title": "A Starry Night",
+    "author": "Paul Laurence Dunbar",
+    "normalized_key": "a starry night|paul laurence dunbar",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Paul_Laurence_Dunbar/A_Starry_Night",
+    "checked_date": "2026-07-30"
+  },
+  {
+    "title": "To the Planet Venus",
+    "author": "William Wordsworth",
+    "normalized_key": "to the planet venus|william wordsworth",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.simple-poetry.com/poems/to-the-planet-venus-36324554118",
+    "checked_date": "2026-07-30"
   }
 ]
