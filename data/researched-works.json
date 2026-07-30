@@ -2738,5 +2738,109 @@
     "status": "added",
     "source_url": "https://www.simple-poetry.com/poems/to-the-planet-venus-36324554118",
     "checked_date": "2026-07-30"
+  },
+  {
+    "title": "The Primrose",
+    "author": "Robert Herrick",
+    "normalized_key": "the primrose|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/44388/the-primrose-56d222f4de6f5",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Palm-Tree",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the palmtree|john greenleaf whittier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/9574/9574-h/9574-h.htm",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Mayflowers",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the mayflowers|john greenleaf whittier",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.telelib.com/authors/W/WhittierJohnGreenleaf/verse/poems1/mayflowers.html",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "Mars",
+    "author": "Florence Earle Coates",
+    "normalized_key": "mars|florence earle coates",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Coates_1916)/Volume_I/Mars",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "Sonnet IV: To the Moon",
+    "author": "Charlotte Smith",
+    "normalized_key": "sonnet iv to the moon|charlotte smith",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Elegiac_Sonnets,_and_Other_Poems,_Volume_1,_The_Ninth_Edition/Sonnet_IV",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Stars",
+    "author": "Madison Julius Cawein",
+    "normalized_key": "the stars|madison julius cawein",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.simple-poetry.com/poems/the-stars-71882851304",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Voice of the Grass",
+    "author": "Sarah Roberts Boyle",
+    "normalized_key": "the voice of the grass|sarah roberts boyle",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査済み（2026-07-09にaddedとして登録済み）のため重複回避で不採用。",
+    "source_url": "https://discoverpoetry.com/poems/sarah-roberts-boyle/the-voice-of-the-grass/",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Old Astronomer to His Pupil",
+    "author": "Sarah Williams",
+    "normalized_key": "the old astronomer to his pupil|sarah williams",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査済み（2026-06-28に『The Old Astronomer (to his Pupil)』としてadded登録済み）のため重複回避で不採用。",
+    "source_url": "https://en.wikisource.org/wiki/Twilight_Hours_(1868)/The_Old_Astronomer",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Ivy",
+    "author": "Mary Howitt",
+    "normalized_key": "the ivy|mary howitt",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "Howitt作の『The Ivy』という詩を特定できなかった（『The Ivy Green』はCharles Dickensの別作で収録済み）。原文全文を確認できず不採用。",
+    "source_url": "https://www.poemhunter.com/mary-howitt/poems/",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Comet",
+    "author": "Harriet Monroe",
+    "normalized_key": "the comet|harriet monroe",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "Harriet Monroe作『The Comet』の原文全文を確認できるページを見つけられなかったため不採用。",
+    "source_url": "https://en.wikipedia.org/wiki/Harriet_Monroe",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Falling Star",
+    "author": "Ella Wheeler Wilcox",
+    "normalized_key": "the falling star|ella wheeler wilcox",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "Wilcox作『The Falling Star』の原文全文を確認できるページを見つけられなかったため不採用（同題はSara Teasdaleの別作が既収録）。",
+    "source_url": "https://www.poemhunter.com/ella-wheeler-wilcox/",
+    "checked_date": "2026-07-31"
   }
 ]
