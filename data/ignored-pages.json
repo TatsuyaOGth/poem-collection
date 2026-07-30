@@ -53,5 +53,20 @@
     "url": "https://www.gutenberg.org/files/21811/21811-h/21811-h.htm",
     "reason": "Lord Byron「Darkness」の原文取得を目的に全文を確認したが、当該巻(Works of Lord Byron, Poetry Vol.III, 1809–1816の物語詩等)には本作が収録されておらず、この目的では有用な情報が得られなかった。",
     "checked_date": "2026-07-29"
+  },
+  {
+    "url": "https://www.bartleby.com/360/5/170.html",
+    "reason": "Sarah Roberts Boyle『The Voice of the Grass』取得を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。原文は discoverpoetry から取得済み。",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "url": "https://internetpoem.com/madison-julius-cawein/the-stars-poem/",
+    "reason": "Madison Cawein『The Stars』取得を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-07-31"
+  },
+  {
+    "url": "https://exploreuk.uky.edu/catalog/xt76dj58d80g/text",
+    "reason": "Cawein作品の全文照合を試みたが、当該サイトはbot検出（Anubis）でページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-07-31"
   }
 ]
