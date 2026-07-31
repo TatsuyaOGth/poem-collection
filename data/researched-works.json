@@ -2842,5 +2842,69 @@
     "reason": "Wilcox作『The Falling Star』の原文全文を確認できるページを見つけられなかったため不採用（同題はSara Teasdaleの別作が既収録）。",
     "source_url": "https://www.poemhunter.com/ella-wheeler-wilcox/",
     "checked_date": "2026-07-31"
+  },
+  {
+    "title": "The Lily in a Crystal",
+    "author": "Robert Herrick",
+    "normalized_key": "the lily in a crystal|robert herrick",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://luminarium.org/sevenlit/herrick/lily.htm",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "Through the Dark Sod — as Education",
+    "author": "Emily Dickinson",
+    "normalized_key": "through the dark sod as education|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Further_Poems_of_Emily_Dickinson/Through_the_dark_sod",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "Foresight, or the Charge of a Child to his younger Companion",
+    "author": "William Wordsworth",
+    "normalized_key": "foresight|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems,_in_Two_Volumes_(Wordsworth,_1807)/Volume_2/Foresight",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "The Spacious Firmament on High",
+    "author": "Joseph Addison",
+    "normalized_key": "the spacious firmament on high|joseph addison",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Spacious_Firmament_on_High",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "The Sun's Wooing",
+    "author": "Emily Dickinson",
+    "normalized_key": "the suns wooing|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems:_Second_Series_(Dickinson)/The_Sun%27s_Wooing",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "How Clear She Shines",
+    "author": "Emily Brontë",
+    "normalized_key": "how clear she shines|emily bronte",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/How_Clear_She_Shines",
+    "checked_date": "2026-08-01"
+  },
+  {
+    "title": "Twilight Calm",
+    "author": "Christina Rossetti",
+    "normalized_key": "twilight calm|christina rossetti",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "全文を確認したが、主題が薄暮の自然（動物・鳥・虫）の描写であり、天文（月・星）は末尾に付随的に現れるのみで『天文テーマに明確に該当』とは言えないため不採用。",
+    "source_url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)/Twilight_Calm",
+    "checked_date": "2026-08-01"
   }
 ]
