@@ -68,5 +68,20 @@
     "url": "https://exploreuk.uky.edu/catalog/xt76dj58d80g/text",
     "reason": "Cawein作品の全文照合を試みたが、当該サイトはbot検出（Anubis）でページ本文へのアクセスに失敗した。",
     "checked_date": "2026-07-31"
+  },
+  {
+    "url": "https://americanliterature.com/author/robert-frost/poem/the-star-splitter",
+    "reason": "Robert Frost『The Star-Splitter』の原文取得を試みたが、americanliterature.com はCloudflareのbot保護によりページ本文へのアクセスに失敗した（自動取得では有用な本文が得られない）。",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "url": "https://www.poetrynook.com/poem/broom-flower",
+    "reason": "Mary Howitt『The Broom Flower』の原文取得を試みたが、Cloudflareの保護によりページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "url": "https://allpoetry.com/The-Broom-Flower",
+    "reason": "Mary Howitt『The Broom Flower』の原文取得を試みたが、Cloudflareの保護によりページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-08-02"
   }
 ]
