@@ -2906,5 +2906,79 @@
     "reason": "全文を確認したが、主題が薄暮の自然（動物・鳥・虫）の描写であり、天文（月・星）は末尾に付随的に現れるのみで『天文テーマに明確に該当』とは言えないため不採用。",
     "source_url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)/Twilight_Calm",
     "checked_date": "2026-08-01"
+  },
+  {
+    "title": "To an April Daisy",
+    "author": "John Clare",
+    "normalized_key": "to an april daisy|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/52601/52601-h/52601-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "The Crab-Tree",
+    "author": "John Clare",
+    "normalized_key": "the crabtree|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/52601/52601-h/52601-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "The Tell-Tale Flowers",
+    "author": "John Clare",
+    "normalized_key": "the telltale flowers|john clare",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/52601/52601-h/52601-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "The Chariots of Dawn",
+    "author": "George Sterling",
+    "normalized_key": "the chariots of dawn|george sterling",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/56764/56764-h/56764-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "The Huntress of Stars",
+    "author": "George Sterling",
+    "normalized_key": "the huntress of stars|george sterling",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/56764/56764-h/56764-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "Stars of the Noon",
+    "author": "George Sterling",
+    "normalized_key": "stars of the noon|george sterling",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/56764/56764-h/56764-h.htm",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "The Star-Splitter",
+    "author": "Robert Frost",
+    "normalized_key": "the starsplitter|robert frost",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "原文取得元(americanliterature.com)がCloudflareで保護されておりアクセス失敗、他に信頼できる全文ソースを今回確保できなかったため不採用。",
+    "source_url": "https://americanliterature.com/author/robert-frost/poem/the-star-splitter",
+    "checked_date": "2026-08-02"
+  },
+  {
+    "title": "A Tryst",
+    "author": "Celia Thaxter",
+    "normalized_key": "a tryst|celia thaxter",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "全文を確認したが主題は氷山と難破船（運命）であり、天文（月・星・惑星）テーマに明確に該当しないため不採用。",
+    "source_url": "https://archive.org/stream/poemsofceliathax01thax/poemsofceliathax01thax_djvu.txt",
+    "checked_date": "2026-08-02"
   }
 ]
