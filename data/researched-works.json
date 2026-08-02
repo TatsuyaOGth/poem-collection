@@ -2980,5 +2980,79 @@
     "reason": "全文を確認したが主題は氷山と難破船（運命）であり、天文（月・星・惑星）テーマに明確に該当しないため不採用。",
     "source_url": "https://archive.org/stream/poemsofceliathax01thax/poemsofceliathax01thax_djvu.txt",
     "checked_date": "2026-08-02"
+  },
+  {
+    "title": "Night-Blowing Flowers",
+    "author": "Felicia Hemans",
+    "normalized_key": "night blowing flowers|felicia hemans",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_of_Felicia_Hemans_in_Forget_Me_Not,_1827/Night-Blowing_Flowers",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "A Windflower",
+    "author": "Lizette Woodworth Reese",
+    "normalized_key": "a windflower|lizette woodworth reese",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/windflower",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "To the Bramble Flower",
+    "author": "Ebenezer Elliott",
+    "normalized_key": "to the bramble flower|ebenezer elliott",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poemhunter.com/poem/to-the-bramble-flower/",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "The Kind Moon",
+    "author": "Sara Teasdale",
+    "normalized_key": "the kind moon|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/sara-teasdale/poem/the-kind-moon",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "Stars, I Have Seen Them Fall",
+    "author": "A. E. Housman",
+    "normalized_key": "stars i have seen them fall|a e housman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://kalliope.org/en/text/housman2002020507",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "The Naughty Little Comet",
+    "author": "Ella Wheeler Wilcox",
+    "normalized_key": "the naughty little comet|ella wheeler wilcox",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.yourdailypoem.com/listpoem.jsp?poem_id=2924",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "A Summer Evening's Meditation",
+    "author": "Anna Laetitia Barbauld",
+    "normalized_key": "a summer evenings meditation|anna laetitia barbauld",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "原文全文・作者生没年ともに確認でき条件を満たすが、195行と非常に長大なため今回は不採用。将来の採用候補として記録。",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Barbauld)/A_Summer_Evening's_Meditation",
+    "checked_date": "2026-08-03"
+  },
+  {
+    "title": "Song of a Comet",
+    "author": "Clark Ashton Smith",
+    "normalized_key": "song of a comet|clark ashton smith",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "作者クラーク・アシュトン・スミスは1961年没で著作権保護期間（死後70年）が満了しておらず、パブリックドメイン判定が曖昧なため不採用。",
+    "source_url": "https://en.wikisource.org/wiki/Song_of_a_Comet",
+    "checked_date": "2026-08-03"
   }
 ]
