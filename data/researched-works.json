@@ -3054,5 +3054,79 @@
     "reason": "作者クラーク・アシュトン・スミスは1961年没で著作権保護期間（死後70年）が満了しておらず、パブリックドメイン判定が曖昧なため不採用。",
     "source_url": "https://en.wikisource.org/wiki/Song_of_a_Comet",
     "checked_date": "2026-08-03"
+  },
+  {
+    "title": "A Red, Red Rose",
+    "author": "Robert Burns",
+    "normalized_key": "a red red rose|robert burns",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/red-red-rose",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "A Tulip Garden",
+    "author": "Amy Lowell",
+    "normalized_key": "a tulip garden|amy lowell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/1020",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "The Dandelion's pallid tube",
+    "author": "Emily Dickinson",
+    "normalized_key": "the dandelions pallid tube|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Dandelion%27s_pallid_tube",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "This is the land the Sunset washes",
+    "author": "Emily Dickinson",
+    "normalized_key": "this is the land the sunset washes|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://etc.usf.edu/lit2go/114/the-poems-of-emily-dickinson-series-one/2616/nature-poem-13-the-sea-of-sunset/",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "Moon's Ending",
+    "author": "Sara Teasdale",
+    "normalized_key": "moons ending|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=27478",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "Dawn",
+    "author": "Paul Laurence Dunbar",
+    "normalized_key": "dawn|paul laurence dunbar",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-dawn-1896",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "The Corn-Song",
+    "author": "John Greenleaf Whittier",
+    "normalized_key": "the corn song|john greenleaf whittier",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "条件（英語・詩・植物テーマ・PD・作者生没年）は満たすが、全12連の長詩であり、利用可能なツールでは原文全文を確実に取得できなかったため今回は見送り（将来の採用候補）。",
+    "source_url": "https://www.telelib.com/authors/W/WhittierJohnGreenleaf/verse/poems1/cornsong.html",
+    "checked_date": "2026-08-04"
+  },
+  {
+    "title": "A Star in a Stone-Boat",
+    "author": "Robert Frost",
+    "normalized_key": "a star in a stone boat|robert frost",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "1923年刊『New Hampshire』所収でPD自体は問題ないが、50行を超える長詩であり、利用可能なツールでは原文全文を確実に取得できなかったため今回は見送り（将来の採用候補）。",
+    "source_url": "https://www.gutenberg.org/files/58611/58611-h/58611-h.htm",
+    "checked_date": "2026-08-04"
   }
 ]
