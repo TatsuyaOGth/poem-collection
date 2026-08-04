@@ -3128,5 +3128,99 @@
     "reason": "1923年刊『New Hampshire』所収でPD自体は問題ないが、50行を超える長詩であり、利用可能なツールでは原文全文を確実に取得できなかったため今回は見送り（将来の採用候補）。",
     "source_url": "https://www.gutenberg.org/files/58611/58611-h/58611-h.htm",
     "checked_date": "2026-08-04"
+  },
+  {
+    "title": "The Marigold",
+    "author": "George Wither",
+    "normalized_key": "the marigold|george wither",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Marigold",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "Goldenrod",
+    "author": "Elaine Goodale Eastman",
+    "normalized_key": "goldenrod|elaine goodale eastman",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.friendsofeloisebutler.org/pages/archive/poems/poem2010_18.html",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "A Chanted Calendar",
+    "author": "Sydney Dobell",
+    "normalized_key": "a chanted calendar|sydney dobell",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/101/767.html",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "Stars",
+    "author": "Emily Brontë",
+    "normalized_key": "stars|emily brontë",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://etc.usf.edu/lit2go/75/poems-of-emily-bronte/5180/stars/",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "A Naughty Little Comet",
+    "author": "Ella Wheeler Wilcox",
+    "normalized_key": "a naughty little comet|ella wheeler wilcox",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/7421/7421-h/7421-h.htm",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "A Prairie Sunset",
+    "author": "Walt Whitman",
+    "normalized_key": "a prairie sunset|walt whitman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://whitmanarchive.org/published/periodical/poems/per.00119",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "The Old Astronomer",
+    "author": "Sarah Williams",
+    "normalized_key": "the old astronomer|sarah williams",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "原典『Twilight Hours』(1868)は全10連だが、利用可能なツールでは中間の4連を含む全文を確実に取得できず、広く流布する6連の抄録版しか確認できなかったため今回は見送り。作品自体はPD（作者1868年没）で、全文を確保できれば将来の採用候補。",
+    "source_url": "https://en.wikisource.org/wiki/Twilight_Hours_(1868)/The_Old_Astronomer",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "The Paphian Venus",
+    "author": "Madison Julius Cawein",
+    "normalized_key": "the paphian venus|madison julius cawein",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "惑星ではなく女神ヴィーナスを主題とする長編物語詩で、天文テーマに明確に該当しないため見送り。",
+    "source_url": "https://www.poemhunter.com/poem/the-paphian-venus/",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "The Comet",
+    "author": "John Clare",
+    "normalized_key": "the comet|john clare",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "原文全文を確実に取得できるページを見つけられなかったため見送り。",
+    "source_url": "https://en.wikipedia.org/wiki/John_Clare",
+    "checked_date": "2026-08-05"
+  },
+  {
+    "title": "Song to the Evening Star",
+    "author": "James Beattie",
+    "normalized_key": "song to the evening star|james beattie",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "作者帰属と原文全文を確実に確認できなかったため見送り（有名な同題の詩はThomas Campbell作の可能性が高く混同の恐れ）。",
+    "source_url": "https://allpoetry.com/James_Beattie",
+    "checked_date": "2026-08-05"
   }
 ]
