@@ -3222,5 +3222,139 @@
     "reason": "作者帰属と原文全文を確実に確認できなかったため見送り（有名な同題の詩はThomas Campbell作の可能性が高く混同の恐れ）。",
     "source_url": "https://allpoetry.com/James_Beattie",
     "checked_date": "2026-08-05"
+  },
+  {
+    "title": "Birches",
+    "author": "Robert Frost",
+    "normalized_key": "birches|robert frost",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Mountain_Interval/Birches",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "Nutting",
+    "author": "William Wordsworth",
+    "normalized_key": "nutting|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/12145",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "Flower-de-Luce",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "flowerdeluce|henry wadsworth longfellow",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/1365",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "The Skies",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the skies|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "When the firmament quivers with daylight's young beam",
+    "author": "William Cullen Bryant",
+    "normalized_key": "when the firmament quivers with daylights young beam|william cullen bryant",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "There Will Be Stars",
+    "author": "Sara Teasdale",
+    "normalized_key": "there will be stars|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/ebooks/69866",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "The Conjunction of Jupiter and Venus",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the conjunction of jupiter and venus|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "全90行のうち後半の大半がギリシア独立戦争や帝国の運命をめぐる政治的省察で、天文テーマが全篇に明確に該当しないため見送り。原文全文・PDは確認済み。",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "A Walk at Sunset",
+    "author": "William Cullen Bryant",
+    "normalized_key": "a walk at sunset|william cullen bryant",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "冒頭は夕日への頌歌だが、大半が滅びた先住民族への哀歌に移り、天文テーマが全篇に明確に該当しないため見送り。",
+    "source_url": "https://www.gutenberg.org/ebooks/16341",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "I Know the Stars",
+    "author": "Sara Teasdale",
+    "normalized_key": "i know the stars|sara teasdale",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "冒頭で星（Aldebaran, Altair）とその運行に触れるが、主題は恋の不確かさで天文が中心でないため見送り。同詩人からより明確な 'There Will Be Stars' を採用。",
+    "source_url": "https://www.gutenberg.org/ebooks/591",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "August Night",
+    "author": "Sara Teasdale",
+    "normalized_key": "august night|sara teasdale",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "星月夜の散歩を背景にするが、主題は愛と蛍であり天文が中心でないため見送り。",
+    "source_url": "https://www.gutenberg.org/ebooks/69866",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "Clear Evening",
+    "author": "Sara Teasdale",
+    "normalized_key": "clear evening|sara teasdale",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "三日月と星を背景にするが、主題は死・孤独への省察で天文が中心でないため見送り。",
+    "source_url": "https://www.gutenberg.org/ebooks/69866",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "The Fern Owl's Nest",
+    "author": "John Clare",
+    "normalized_key": "the fern owls nest|john clare",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "ヨタカ（鳥）の巣を主題とし、植物テーマに該当しないため見送り。",
+    "source_url": "https://pickmeuppoetry.org/the-fern-owls-nest-by-john-clare/",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "Sunrise on the Hills",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "sunrise on the hills|henry wadsworth longfellow",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "日の出の山岳風景を描くが、天文よりも風景描写と道徳的省察が主で天文テーマが明確に該当しないため見送り。",
+    "source_url": "https://etc.usf.edu/lit2go/71/henry-wadsworth-longfellow-selected-works/5038/sunrise-on-the-hills/",
+    "checked_date": "2026-08-06"
+  },
+  {
+    "title": "The Southern Cross",
+    "author": "Herman Melville",
+    "normalized_key": "the southern cross|herman melville",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "独立した作品ではなく、既収録の 'Crossing the Tropics' の一節（'The Southern Cross it climbs the sky'）であり、別作品としては追加不可。",
+    "source_url": "https://www.gutenberg.org/files/12841/12841-h/12841-h.htm",
+    "checked_date": "2026-08-06"
   }
 ]
