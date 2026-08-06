@@ -3356,5 +3356,99 @@
     "reason": "独立した作品ではなく、既収録の 'Crossing the Tropics' の一節（'The Southern Cross it climbs the sky'）であり、別作品としては追加不可。",
     "source_url": "https://www.gutenberg.org/files/12841/12841-h/12841-h.htm",
     "checked_date": "2026-08-06"
+  },
+  {
+    "title": "The Snowdrop",
+    "author": "Alfred, Lord Tennyson",
+    "normalized_key": "the snowdrop|alfred lord tennyson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Demeter_and_other_poems/The_Snowdrop",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "Bloom — is Result — to meet a Flower",
+    "author": "Emily Dickinson",
+    "normalized_key": "bloom is result to meet a flower|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Author:Emily_Dickinson/1000-1099",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "The Posie",
+    "author": "Robert Burns",
+    "normalized_key": "the posie|robert burns",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.bartleby.com/lit-hub/poems-and-songs/326-songthe-posie/",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "The Sunrise never failed us yet",
+    "author": "Celia Thaxter",
+    "normalized_key": "the sunrise never failed us yet|celia thaxter",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Sunrise_never_failed_us_yet",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "The New Moon",
+    "author": "Sara Teasdale",
+    "normalized_key": "the new moon|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://americanliterature.com/author/sara-teasdale/poem/the-new-moon",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "Whole Gulfs — of Red, and Fleets — of Red —",
+    "author": "Emily Dickinson",
+    "normalized_key": "whole gulfs of red and fleets of red|emily dickinson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Whole_Gulfs_%E2%80%94_of_Red,_and_Fleets_%E2%80%94_of_Red_%E2%80%94",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "I'll tell you how the Sun rose",
+    "author": "Emily Dickinson",
+    "normalized_key": "ill tell you how the sun rose|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "既収録作「A Day」と同一の詩（同一作品の別タイトル）であるため重複",
+    "source_url": "https://en.wikisource.org/wiki/I'll_tell_you_how_the_Sun_rose_%E2%80%94",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "Blazing in Gold and quenching in Purple",
+    "author": "Emily Dickinson",
+    "normalized_key": "blazing in gold and quenching in purple|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "既収録作「The Juggler of Day」と同一の詩（同一作品の別タイトル）であるため重複",
+    "source_url": "https://en.wikisource.org/wiki/Blazing_in_Gold_and_quenching_in_Purple",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "The Sun just touched the Morning",
+    "author": "Emily Dickinson",
+    "normalized_key": "the sun just touched the morning|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "既収録作「The Sun's Wooing」と同一の詩（同一作品の別タイトル）であるため重複",
+    "source_url": "https://en.wikisource.org/wiki/The_Sun_%E2%80%94_just_touched_the_Morning_%E2%80%94",
+    "checked_date": "2026-08-07"
+  },
+  {
+    "title": "Buttercups and Daisies",
+    "author": "Mary Howitt",
+    "normalized_key": "buttercups and daisies|mary howitt",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査済み・収録済みだったため重複",
+    "source_url": "https://www.poetrynook.com/poem/buttercups-and-daisies",
+    "checked_date": "2026-08-07"
   }
 ]
