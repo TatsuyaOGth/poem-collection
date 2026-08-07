@@ -83,5 +83,10 @@
     "url": "https://allpoetry.com/The-Broom-Flower",
     "reason": "Mary Howitt『The Broom Flower』の原文取得を試みたが、Cloudflareの保護によりページ本文へのアクセスに失敗した。",
     "checked_date": "2026-08-02"
+  },
+  {
+    "url": "https://www.nysun.com/article/poem-of-the-day-a-vagabond-song",
+    "reason": "Bliss Carman『A Vagabond Song』の原文取得を試みたが、当該ページはペイウォール（購読制限）で本文を取得できなかった。原文は Project Gutenberg 版から取得済み。",
+    "checked_date": "2026-08-08"
   }
 ]
