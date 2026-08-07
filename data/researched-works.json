@@ -3450,5 +3450,59 @@
     "reason": "すでに調査済み・収録済みだったため重複",
     "source_url": "https://www.poetrynook.com/poem/buttercups-and-daisies",
     "checked_date": "2026-08-07"
+  },
+  {
+    "title": "Magdalen Walks",
+    "author": "Oscar Wilde",
+    "normalized_key": "magdalen walks|oscar wilde",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/1057/1057-h/1057-h.htm",
+    "checked_date": "2026-08-08"
+  },
+  {
+    "title": "A Vagabond Song",
+    "author": "Bliss Carman",
+    "normalized_key": "a vagabond song|bliss carman",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/18007/18007-h/18007-h.htm",
+    "checked_date": "2026-08-08"
+  },
+  {
+    "title": "Champak Blossoms",
+    "author": "Sarojini Naidu",
+    "normalized_key": "champak blossoms|sarojini naidu",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Bird_of_Time/Songs_of_the_Springtime/Champak_Blossoms",
+    "checked_date": "2026-08-08"
+  },
+  {
+    "title": "Moonset",
+    "author": "E. Pauline Johnson",
+    "normalized_key": "moonset|e pauline johnson",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/moonset",
+    "checked_date": "2026-08-08"
+  },
+  {
+    "title": "Self-Dependence",
+    "author": "Matthew Arnold",
+    "normalized_key": "self dependence|matthew arnold",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_poetical_works_of_Matthew_Arnold/Self-Dependence",
+    "checked_date": "2026-08-08"
+  },
+  {
+    "title": "Aware",
+    "author": "D. H. Lawrence",
+    "normalized_key": "aware|d h lawrence",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/aware",
+    "checked_date": "2026-08-08"
   }
 ]
