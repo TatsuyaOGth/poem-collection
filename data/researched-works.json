@@ -3504,5 +3504,59 @@
     "status": "added",
     "source_url": "https://poets.org/poem/aware",
     "checked_date": "2026-08-08"
+  },
+  {
+    "title": "The Morns are meeker than they were",
+    "author": "Emily Dickinson",
+    "normalized_key": "the morns are meeker than they were|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/56590/the-morns-are-meeker-than-they-were-32",
+    "checked_date": "2026-08-09"
+  },
+  {
+    "title": "The Cherry Trees",
+    "author": "Edward Thomas",
+    "normalized_key": "the cherry trees|edward thomas",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/57266/the-cherry-trees",
+    "checked_date": "2026-08-09"
+  },
+  {
+    "title": "The Last Chrysanthemum",
+    "author": "Thomas Hardy",
+    "normalized_key": "the last chrysanthemum|thomas hardy",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poeticous.com/thomas-hardy/the-last-chrysanthemum",
+    "checked_date": "2026-08-09"
+  },
+  {
+    "title": "Revolution",
+    "author": "A. E. Housman",
+    "normalized_key": "revolution|a e housman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Last_Poems_(Housman)/West_and_away_the_wheels_of_darkness_roll",
+    "checked_date": "2026-08-09"
+  },
+  {
+    "title": "The Unknown God",
+    "author": "George William Russell",
+    "normalized_key": "the unknown god|george william russell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "http://eng-poetry.ru/english/Poem.php?PoemId=9833",
+    "checked_date": "2026-08-09"
+  },
+  {
+    "title": "Christ in the Universe",
+    "author": "Alice Meynell",
+    "normalized_key": "christ in the universe|alice meynell",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Meynell,_1921)/Christ_in_the_Universe",
+    "checked_date": "2026-08-09"
   }
 ]
