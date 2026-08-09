@@ -3558,5 +3558,89 @@
     "status": "added",
     "source_url": "https://en.wikisource.org/wiki/Poems_(Meynell,_1921)/Christ_in_the_Universe",
     "checked_date": "2026-08-09"
+  },
+  {
+    "title": "The Rose",
+    "author": "George Herbert",
+    "normalized_key": "the rose|george herbert",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.georgeherbert.org.uk/archives/selected_work_61.html",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "So bashful when I spied her!",
+    "author": "Emily Dickinson",
+    "normalized_key": "so bashful when i spied her|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Dickinson)/So_bashful_when_I_spied_her",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "Le Jardin",
+    "author": "Oscar Wilde",
+    "normalized_key": "le jardin|oscar wilde",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/The_Poems_of_Oscar_Wilde/Le_Jardin",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "The Sun Cup",
+    "author": "Archibald Lampman",
+    "normalized_key": "the sun cup|archibald lampman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/12664/12664-h/12664-h.htm",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "To Morning",
+    "author": "William Blake",
+    "normalized_key": "to morning|william blake",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "http://spenserians.cath.vt.edu/TextRecord.php?textsid=35021",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "Sunset",
+    "author": "Archibald Lampman",
+    "normalized_key": "sunset|archibald lampman",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/12664/12664-h/12664-h.htm",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "The Old Apple-Tree",
+    "author": "Paul Laurence Dunbar",
+    "normalized_key": "the old apple-tree|paul laurence dunbar",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "明確に植物（りんごの木）テーマで公有だが、方言表記の原文全文を今回のツールでは信頼できる形で正確に取得できず、正確性を担保できなかったため見送り。",
+    "source_url": "https://etc.usf.edu/lit2go/187/lyrics-of-lowly-life/3505/the-old-apple-tree/",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "Clock a Clay",
+    "author": "John Clare",
+    "normalized_key": "clock a clay|john clare",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "詩の主体はテントウムシ（ladybird）であり、cowslip等の植物は背景にとどまるため、植物テーマとして明確に該当するとは言い難いと判断。",
+    "source_url": "https://www.poemhunter.com/poem/clock-o-clay/",
+    "checked_date": "2026-08-10"
+  },
+  {
+    "title": "A Northern Vigil",
+    "author": "Bliss Carman",
+    "normalized_key": "a northern vigil|bliss carman",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "月の描写は含むが、主題は失われた恋人（Guendolen）への追想であり、天文テーマとして明確に該当するとは言い難いと判断。",
+    "source_url": "https://www.best-poems.net/bliss-carman/a-northern-vigil.html",
+    "checked_date": "2026-08-10"
   }
 ]
