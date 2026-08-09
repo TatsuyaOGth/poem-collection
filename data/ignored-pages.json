@@ -88,5 +88,10 @@
     "url": "https://www.nysun.com/article/poem-of-the-day-a-vagabond-song",
     "reason": "Bliss Carman『A Vagabond Song』の原文取得を試みたが、当該ページはペイウォール（購読制限）で本文を取得できなかった。原文は Project Gutenberg 版から取得済み。",
     "checked_date": "2026-08-08"
+  },
+  {
+    "url": "https://www.poeticous.com/archibald-lampman/sunset-from-this-windy-bridge-at-rest",
+    "reason": "Archibald Lampman『Sunset』の原文取得を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。原文は Project Gutenberg 版（Lyrics of Earth）から取得済み。",
+    "checked_date": "2026-08-10"
   }
 ]
