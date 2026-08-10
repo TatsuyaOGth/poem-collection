@@ -3642,5 +3642,59 @@
     "reason": "月の描写は含むが、主題は失われた恋人（Guendolen）への追想であり、天文テーマとして明確に該当するとは言い難いと判断。",
     "source_url": "https://www.best-poems.net/bliss-carman/a-northern-vigil.html",
     "checked_date": "2026-08-10"
+  },
+  {
+    "title": "Sea Rose",
+    "author": "H. D. (Hilda Doolittle)",
+    "normalized_key": "sea rose|h d hilda doolittle",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://poets.org/poem/sea-rose",
+    "checked_date": "2026-08-11"
+  },
+  {
+    "title": "Warble for Lilac-Time",
+    "author": "Walt Whitman",
+    "normalized_key": "warble for lilac time|walt whitman",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://m.daypoems.net/poems/2074.html",
+    "checked_date": "2026-08-11"
+  },
+  {
+    "title": "Seaweed",
+    "author": "Henry Wadsworth Longfellow",
+    "normalized_key": "seaweed|henry wadsworth longfellow",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.poetryexplorer.net/poem.php?id=10028446",
+    "checked_date": "2026-08-11"
+  },
+  {
+    "title": "February Twilight",
+    "author": "Sara Teasdale",
+    "normalized_key": "february twilight|sara teasdale",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.best-poems.net/poem/february-twilight-by-sara-teasdale.html",
+    "checked_date": "2026-08-11"
+  },
+  {
+    "title": "Drummer Hodge",
+    "author": "Thomas Hardy",
+    "normalized_key": "drummer hodge|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://poets.org/poem/drummer-hodge",
+    "checked_date": "2026-08-11"
+  },
+  {
+    "title": "Star-Talk",
+    "author": "Robert Graves",
+    "normalized_key": "star talk|robert graves",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.gutenberg.org/files/47144/47144-h/47144-h.htm",
+    "checked_date": "2026-08-11"
   }
 ]
