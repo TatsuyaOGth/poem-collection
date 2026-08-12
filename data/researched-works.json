@@ -3696,5 +3696,159 @@
     "status": "added",
     "source_url": "https://www.gutenberg.org/files/47144/47144-h/47144-h.htm",
     "checked_date": "2026-08-11"
+  },
+  {
+    "title": "The Lilly",
+    "author": "William Blake",
+    "normalized_key": "the lilly|william blake",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://www.lieder.net/lieder/get_text.html?TextId=2715",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Grass so little has to do",
+    "author": "Emily Dickinson",
+    "normalized_key": "the grass so little has to do|emily dickinson",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://etc.usf.edu/lit2go/114/the-poems-of-emily-dickinson-series-one/2612/nature-poem-9-the-grass/",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "To the Small Celandine",
+    "author": "William Wordsworth",
+    "normalized_key": "to the small celandine|william wordsworth",
+    "theme": "plant",
+    "status": "added",
+    "source_url": "https://en.wikisource.org/wiki/Poems_(Wordsworth,_1815)/Volume_1/To_the_small_Celandine",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Half Moon Shows a Face of Plaintive Sweetness",
+    "author": "Christina Rossetti",
+    "normalized_key": "the half moon shows a face of plaintive sweetness|christina rossetti",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetrynook.com/poem/half-moon-shows-face-plaintive-sweetness",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "I Looked Up from My Writing",
+    "author": "Thomas Hardy",
+    "normalized_key": "i looked up from my writing|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.poetryfoundation.org/poems/57341/i-looked-up-from-my-writing",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "To the Moon",
+    "author": "Thomas Hardy",
+    "normalized_key": "to the moon|thomas hardy",
+    "theme": "astronomy",
+    "status": "added",
+    "source_url": "https://www.online-literature.com/hardy/moments-of-vision/17/",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Death of the Flowers",
+    "author": "William Cullen Bryant",
+    "normalized_key": "the death of the flowers|william cullen bryant",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/The_Death_of_the_Flowers",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Oak",
+    "author": "Alfred, Lord Tennyson",
+    "normalized_key": "the oak|alfred lord tennyson",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/The_Oak_(Tennyson)",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Ivy Green",
+    "author": "Charles Dickens",
+    "normalized_key": "the ivy green|charles dickens",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://discoverpoetry.com/poems/charles-dickens/the-ivy-green/",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Dandelion's pallid tube",
+    "author": "Emily Dickinson",
+    "normalized_key": "the dandelions pallid tube|emily dickinson",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/The_Dandelion%27s_pallid_tube",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Lent Lily",
+    "author": "A. E. Housman",
+    "normalized_key": "the lent lily|a e housman",
+    "theme": "plant",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/A_Shropshire_Lad/29",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Moon",
+    "author": "Robert Louis Stevenson",
+    "normalized_key": "the moon|robert louis stevenson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://poets.org/poem/moon",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Falling Star",
+    "author": "Sara Teasdale",
+    "normalized_key": "the falling star|sara teasdale",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://poets.org/poem/falling-star",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Moon was but a Chin of Gold",
+    "author": "Emily Dickinson",
+    "normalized_key": "the moon was but a chin of gold|emily dickinson",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/The_Moon_was_but_a_Chin_of_Gold",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Moon",
+    "author": "Henry David Thoreau",
+    "normalized_key": "the moon|henry david thoreau",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://www.monadnock.net/thoreau/moon.html",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "title": "The Old Astronomer to His Pupil",
+    "author": "Sarah Williams",
+    "normalized_key": "the old astronomer to his pupil|sarah williams",
+    "theme": "astronomy",
+    "status": "skipped",
+    "reason": "すでに調査・追加済みの作品だったため（researched-works.json に既存、重複）。",
+    "source_url": "https://en.wikisource.org/wiki/Twilight_Hours_(1868)/The_Old_Astronomer",
+    "checked_date": "2026-08-12"
   }
 ]

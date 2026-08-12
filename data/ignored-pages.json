@@ -93,5 +93,15 @@
     "url": "https://www.poeticous.com/archibald-lampman/sunset-from-this-windy-bridge-at-rest",
     "reason": "Archibald Lampman『Sunset』の原文取得を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。原文は Project Gutenberg 版（Lyrics of Earth）から取得済み。",
     "checked_date": "2026-08-10"
+  },
+  {
+    "url": "https://www.bartleby.com/lit-hub/yale-book-of-american-verse/20-the-death-of-the-flowers/",
+    "reason": "William Cullen Bryant『The Death of the Flowers』の照合を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-08-12"
+  },
+  {
+    "url": "https://www.poetryfoundation.org/poems/50485/the-death-of-the-flowers",
+    "reason": "William Cullen Bryant『The Death of the Flowers』の照合を試みたが、当該ページは403（アクセス拒否）でページ本文へのアクセスに失敗した。",
+    "checked_date": "2026-08-12"
   }
 ]
